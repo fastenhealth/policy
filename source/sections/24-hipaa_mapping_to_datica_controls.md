@@ -1,6 +1,6 @@
 # 24. HIPAA Mappings to Luma Controls
 
-Below is a list of HIPAA Safeguards and Requirements and the Datica controls in place to meet those.
+Below is a list of HIPAA Safeguards and Requirements and the Luma controls in place to meet those.
 
 | **Administrative Controls** HIPAA Rule | Luma Control
 --- | ---
@@ -32,7 +32,7 @@ Transmission Security - 164.312(e)(1) | System Access and Data Management Policy
 --- | ---
 Business Associate Contracts or Other Arrangements - 164.314(a)(1)(i) | Business Associate Agreements and 3rd Parties Policies
 
-| **Policies and Procedures and Documentation Requirements** Luma Rule | Datica Control
+| **Policies and Procedures and Documentation Requirements** Luma Rule | Luma Control
 --- | ---
 Policies and Procedures - 164.316(a) | Policy Management Policy
 Documentation - 164.316(b)(1)(i) | Policy Management Policy
