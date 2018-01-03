@@ -31,4 +31,4 @@ The following process is used to request audit reports:
 3. Luma will confirm if a current NDA is in place with the party requesting the audit report. If there is no NDA in place, Luma will send one for execution.
 4. Once it has been confirmed that an NDA is executed, Luma staff will move the Asana Issue to "Under Review".
 5. The Luma Security Officer or Privacy Officer must Approve or Reject the Issue. If the Issue is rejected, Datica will notify the requesting party that we cannot share the requested report.
-4. If the Issue has been Approved, Luma will send the customer the requested audit report and complete the JIRA Issue for the request.
+4. If the Issue has been Approved, Luma will send the customer the requested audit report and complete the Asana Issue for the request.
