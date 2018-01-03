@@ -1,8 +1,6 @@
 # Luma HIPAA Compliance Policies
 
-Luma helps relieve the technical burden with our HIPAA-compliant messaging platform for healthcare.
-
-## Why did we open source these policies?
+Luma helps relieve the challenges of patient communication and engagement with our HIPAA-compliant messaging platform for healthcare.
 
 HIPAA compliance really has two halves. The first half includes all technical guidelines, both physical and digital. Compliant companies take measures to secure their hardware and manage their software in a certain way. Encryption, logging, monitoring—these are just a few examples of HIPAA technical requirements. Luma builds its platform with these guidelines in mind.
 
@@ -10,7 +8,7 @@ The second half of HIPAA is focused on administrative and organizational activit
 
 ## How we created these policies? 
 
-As a company who handles PHI, it's critical you maintain and publish your own policies. HIPAA compliance is complicated, but it doesn't have to be. In order ao assure the utmost completeness of our policies, we have adopted policies from an industry leader in HIPAA compliance [Datica](htts://datica.com), healthcare's trusted HITRUST CSF Certified digital health platform.
+As a company who handles PHI, it's critical we maintain and publish your own policies. HIPAA compliance is complicated, but it doesn't have to be. In order ao assure the utmost completeness of our policies, we have adopted policies from an industry leader in HIPAA compliance [Datica](htts://datica.com), healthcare's trusted HITRUST CSF Certified digital health platform.
 
 ### Policy Index
 
