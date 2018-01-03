@@ -73,7 +73,7 @@ Access to Luma systems and application is limited for all users, including but n
 
 ## 7.3 Workforce Clearance
 
-1. The level of security assigned to a user to the organization's web portal ("portal") is based on the minimum necessary amount of data access required to carry out legitimate job responsibilities assigned to a user's job classification and/or to a user needing access to carry out treatment, payment, or healthcare operations.
+1. The level of security assigned to a user to the organization's Information systems (this includes web portal for the messaging platform and production environment) is based on the minimum necessary amount of data access required to carry out legitimate job responsibilities assigned to a user's job classification and/or to a user needing access to carry out treatment, payment, or healthcare operations.
 2. All access requests are treated on a "least-access principle."
 3. Luma maintains a minimum necessary approach to access to Customer data. As such, Luma, including all workforce members, does not access any ePHI except out of necessity to address Customer issues.
 
@@ -84,8 +84,8 @@ Access to Luma systems and application is limited for all users, including but n
 
 ## 7.5 Person or Entity Authentication
 
-1. Each workforce member has and uses a unique user ID and password that identifies him/her as the user of the portal.
-2. Each Customer has and uses a unique user ID and password that identifies him/her as the user of the portal.
+1. Each workforce member has and uses a unique user ID and password that identifies him/her as the user of the information system.
+2. Each Customer has and uses a unique user ID and password that identifies him/her as the user of the information system.
 3. All Customer support desk interactions must be verified before Luma support personnel will satisfy any request having information security implications.
    * Luma's current support desk software, Zendesk, requires users to authenticate before submitting support tickets.
    * Support issues submitted by email must be verified by Luma personnel using an email that has been registered with the corresponding account. This is cross referenced with email listed with Luma's system. 
@@ -100,8 +100,8 @@ Access to Luma systems and application is limited for all users, including but n
 
 ## 7.7 Automatic Logoff
 
-1. Users are required to make portal inaccessible by any other individual when unattended by the users (ex. by using a password protected screen saver or logging off the system).
-2. Portal automatically log users off the systems after 15 minutes of inactivity.
+1. Users are required to make information systems inaccessible by any other individual when unattended by the users (ex. by using a password protected screen saver or logging off the system).
+2. Information systems automatically log users off the systems after 15 minutes of inactivity.
 3. The Security Officer pre-approves exceptions to automatic log off requirements.
 
 ## 7.8 Employee Workstation Use
@@ -145,10 +145,9 @@ Luma does not use paper records for any sensitive information. Use of paper for 
 2. Users may not allow anyone, for any reason, to have access to any information system using another user's unique user ID and password.
 3. On all production systems and portal in the Luma environment, password configurations are set to require:
    * a minimum length of 12 characters;
-   * ?a mix of upper case characters, lower case characters, and numbers or special characters;
    * a 120-day password expiration;
-   * ?prevention of password reuse using a history of the last 6 passwords;
-   * ?account lockout after 5 invalid attempts.
+   * account lockout after 3 invalid attempts within a 5 second period.
+   * production environment password managemnt is per policy set by Aptible. 
 4. All system and application passwords must be stored and transmitted securely.
    * Where possible, passwords should be stored in a hashed format using a salted cryptographic hash function (SHA-256 or equivalent).
    * Passwords that must be stored in non-hashed format must be encrypted at rest pursuant to the requirements in [§17.8](#17.8-production-data-security).
