@@ -20,7 +20,7 @@ Certain aspects of compliance cannot be inherited. Because of this, Luma Custome
 
 Mappings of HIPAA Rules to Luma controls and a mapping of what Rules are inherited by Customers, both Platform Customers and Add-on Customers, are covered in [§2](#2.-hipaa-inheritance).
 
-## 1.4 Requesting Audit and Compliance Reports
+## 1.3 Requesting Audit and Compliance Reports
 
 Luma, at its sole discretion, shares audit reports with customers on a case by case basis. All audit reports are shared under explicit NDA in Luma format between Luma and party to receive materials. Audit reports can be requested by Luma workforce members for Customers or directly by Luma Customers.
 
