@@ -47,16 +47,16 @@ Luma defined two categories of systems from a disaster recovery perspective.
 
 ## 13.2 Line of Succession
 
-The following order of succession to ensure that decision-making authority for the Luma Contingency Plan is uninterrupted. The Chief Technology Officer (CTO) is responsible for ensuring the safety of personnel and the execution of procedures documented within this Luma Contingency Plan. If the CTO is unable to function as the overall authority or chooses to delegate this responsibility to a successor, the CEO or COO shall function as that authority. To provide contact initiation should the contingency plan need to be initiated, please use the contact list below.
+The following order of succession to ensure that decision-making authority for the Luma Contingency Plan is uninterrupted. The Chief Technology Officer (CTO) is responsible for ensuring the safety of personnel and the execution of procedures documented within this Luma Contingency Plan. If the CTO is unable to function as the overall authority or chooses to delegate this responsibility to a successor, the CEO or CMO shall function as that authority. To provide contact initiation should the contingency plan need to be initiated, please use the contact list below.
 
-* Aditya Bansod, CTO: 608-628-2582, aditya@lumahealth.io
-* Adnan Iqbal, CEO: 303-351-2640, adnan@lumahealth.io
+* Aditya Bansod, CTO: xx, aditya@lumahealth.io
+* Adnan Iqbal, CEO: xx, adnan@lumahealth.io
 
-## 13.3 Responsibilities
+## ?? 13.3 Responsibilities
 
 The following teams have been developed and trained to respond to a contingency event affecting the IT system.
 
-1. The **Ops Team** is responsible for recovery of the Datica hosted environment, network devices, and all servers. Members of the team include personnel who are also responsible for the daily operations and maintenance of Datica. The team leader is the CTO and directs the Dev Ops Team.
+1. The **Ops Team** is responsible for recovery of the Luma production servers. Members of the team include personnel who are also responsible for the daily operations and maintenance of Luma. The team leader is the CTO and directs the Dev Ops Team.
 2. The **Web Services Team** is responsible for assuring all application servers, web services, and platform add-ons are working. It is also responsible for testing redeployments and assessing damage to the environment. The team leader is the CTO and directs the Web Services Team.
 
 Members of the Ops and Web Services teams must maintain local copies of the contact information from [§13.2](#13.2-line-of-succession). Additionally, the CTO must maintain a local copy of this policy in the event Internet access is not available during a disaster scenario.
@@ -83,21 +83,21 @@ The primary objective of the technical test is to ensure the communication proce
 
 ### 13.5.1 Notification and Activation Phase
 
-This phase addresses the initial actions taken to detect and assess damage inflicted by a disruption to Datica. Based on the assessment of the Event, sometimes according to the Datica Incident Response Policy, the Contingency Plan may be activated by either the CTO.
+This phase addresses the initial actions taken to detect and assess damage inflicted by a disruption to Luma. Based on the assessment of the Event, sometimes according to the Luma Incident Response Policy, the Contingency Plan may be activated by the CTO.
 
 The notification sequence is listed below:
 
 * The first responder is to notify the CTO. All known information must be relayed to the CTO.
-* The CTO is to contact the Web Services Team and inform them of the event. The CTO is to to begin assessment procedures.
+* The CTO is to contact the Web Services Team and inform them of the event. The CTO is to begin assessment procedures.
 * The CTO is to notify team members and direct them to complete the assessment procedures outlined below to determine the extent of damage and estimated recovery time. If damage assessment cannot be performed locally because of unsafe conditions, the CTO is to following the steps below.
   * Damage Assessment Procedures:
   * The CTO is to logically assess damage, gain insight into whether the infrastructure is salvageable, and begin to formulate a plan for recovery.
   * Alternate Assessment Procedures:
   * Upon notification, the CTO is to follow the procedures for damage assessment with combined Dev Ops and Web Services Teams.
-* The Datica Contingency Plan is to be activated if one or more of the following criteria are met:
-  * Datica will be unavailable for more than 48 hours.
+* The Luma Contingency Plan is to be activated if one or more of the following criteria are met:
+  * Luma will be unavailable for more than 48 hours.
   * Hosting facility is damaged and will be unavailable for more than 24 hours.
-  * Other criteria, as appropriate and as defined by Datica.
+  * Other criteria, as appropriate and as defined by Luma.
   * If the plan is to be activated, the CTO is to notify and inform team members of the details of the event and if relocation is required.
   * Upon notification from the CTO, group leaders and managers are to notify their respective teams. Team members are to be informed of all applicable information and prepared to respond and relocate if necessary.
   * The CTO is to notify the hosting facility partners that a contingency event has been declared and to ship the necessary materials (as determined by damage assessment) to the alternate site.
@@ -108,15 +108,15 @@ The notification sequence is listed below:
 
 This section provides procedures for recovering the application at an alternate site, whereas other efforts are directed to repair damage to the original system and capabilities.
 
-The following procedures are for recovering the Datica infrastructure at the alternate site. Procedures are outlined per team required. Each procedure should be executed in the sequence it is presented to maintain efficient operations.
+The following procedures are for recovering the Luma infrastructure at the alternate site. Procedures are outlined per team required. Each procedure should be executed in the sequence it is presented to maintain efficient operations.
 
-Recovery Goal: The goal is to rebuild Datica infrastructure to a production state.
+Recovery Goal: The goal is to rebuild Luma infrastructure to a production state.
 
 The tasks outlines below are not sequential and some can be run in parallel.
 
 1. Contact Partners and Customers affected - Web Services
 2. Assess damage to the environment - Web Services
-3. Begin replication of new environment using automated and tested scripts, currently Chef and Salt. At this point it is determined whether to recover in Rackspace, AWS, Azure, or SoftLayer. - Dev Ops
+3. Begin replication of new environment using automated and tested scripts, currently Chef and Salt. At this point it is determined whether to recover in Aptible versus other secure stack provider. - Dev Ops
 4. Test new environment using pre-written tests - Web Services
 5. Test logging, security, and alerting functionality - Dev Ops
 6. Assure systems are appropriately patched and up to date. - Dev Ops
@@ -125,14 +125,14 @@ The tasks outlines below are not sequential and some can be run in parallel.
 
 ### 13.5.3 Reconstitution Phase
 
-This section discusses activities necessary for restoring Datica operations at the original or new site. The goal is to restore full operations within 24 hours of a disaster or outage. When the hosted data center at the original or new site has been restored, Datica operations at the alternate site may be transitioned back. The goal is to provide a seamless transition of operations from the alternate site to the computer center.
+This section discusses activities necessary for restoring Luma operations at the original or new site. The goal is to restore full operations within 24 hours of a disaster or outage. When the hosted data center at the original or new site has been restored, Luma operations at the alternate site may be transitioned back. The goal is to provide a seamless transition of operations from the alternate site to the computer center.
 
 1. Original or New Site Restoration
-   * Begin replication of new environment using automated and tested scripts, currently Chef and Salt. - Dev Ops
+   * Begin replication of new environment using automated and tested scripts. - Dev Ops
    * Test new environment using pre-written tests. - Web Services
    * Test logging, security, and alerting functionality. - Dev Ops
    * Deploy environment to production - Web Services
    * Assure systems are appropriately patched and up to date. - Dev Ops
    * Update DNS to new environment. - Dev Ops
 2. Plan Deactivation
-   * If the Datica environment is moved back to the original site from the alternative site, all hardware used at the alternate site should be handled and disposed of according to the Datica Media Disposal Policy.
+   * If the Luma environment is moved back to the original site from the alternative site, all hardware used at the alternate site should be handled and disposed of according to the Luma Media Disposal Policy.
