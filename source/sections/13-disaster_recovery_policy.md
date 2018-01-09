@@ -1,6 +1,6 @@
 # 13. Disaster Recovery Policy
 
-The Datica Contingency Plan establishes procedures to recover Datica following a disruption resulting from a disaster. This Disaster Recovery Policy is maintained by the Datica Security Officer and Privacy Officer.
+The Luma Contingency Plan establishes procedures to recover Luma following a disruption resulting from a disaster. This Disaster Recovery Policy is maintained by the Luma Security Officer and Privacy Officer.
 
 The following objectives have been established for this plan:
 
@@ -8,17 +8,17 @@ The following objectives have been established for this plan:
    * *Notification/Activation phase* to detect and assess damage and to activate the plan;
    * *Recovery phase* to restore temporary IT operations and recover damage done to the original system;
    * *Reconstitution phase* to restore IT system processing capabilities to normal operations.
-2. Identify the activities, resources, and procedures needed to carry out Datica processing requirements during prolonged interruptions to normal operations.
-3. Identify and define the impact of interruptions to Datica systems.
-4. Assign responsibilities to designated personnel and provide guidance for recovering Datica during prolonged periods of interruption to normal operations.
-5. Ensure coordination with other Datica staff who will participate in the contingency planning strategies.
+2. Identify the activities, resources, and procedures needed to carry out Luma processing requirements during prolonged interruptions to normal operations.
+3. Identify and define the impact of interruptions to Luma systems.
+4. Assign responsibilities to designated personnel and provide guidance for recovering Luma during prolonged periods of interruption to normal operations.
+5. Ensure coordination with other Lumaa staff who will participate in the contingency planning strategies.
 6. Ensure coordination with external points of contact and vendors who will participate in the contingency planning strategies.
 
-This Datica Contingency Plan has been developed as required under the Office of Management and Budget (OMB) Circular A-130, Management of Federal Information Resources, Appendix III, November 2000, and the Health Insurance Portability and Accountability Act (HIPAA) Final Security Rule, Section §164.308(a)(7), which requires the establishment and implementation of procedures for responding to events that damage systems containing electronic protected health information.
+This Luma Contingency Plan has been developed as required under the Office of Management and Budget (OMB) Circular A-130, Management of Federal Information Resources, Appendix III, November 2000, and the Health Insurance Portability and Accountability Act (HIPAA) Final Security Rule, Section §164.308(a)(7), which requires the establishment and implementation of procedures for responding to events that damage systems containing electronic protected health information.
 
-This Datica Contingency Plan is created under the legislative requirements set forth in the Federal Information Security Management Act (FISMA) of 2002 and the guidelines established by the National Institute of Standards and Technology (NIST) Special Publication (SP) 800-34, titled "Contingency Planning Guide for Information Technology Systems" dated June 2002.
+This Luma Contingency Plan is created under the legislative requirements set forth in the Federal Information Security Management Act (FISMA) of 2002 and the guidelines established by the National Institute of Standards and Technology (NIST) Special Publication (SP) 800-34, titled "Contingency Planning Guide for Information Technology Systems" dated June 2002.
 
-The Datica Contingency Plan also complies with the following federal and departmental policies:
+The Luma Contingency Plan also complies with the following federal and departmental policies:
 
 * The Computer Security Act of 1987;
 * OMB Circular A-130, Management of Federal Information Resources, Appendix III, November 2000;
@@ -28,9 +28,9 @@ The Datica Contingency Plan also complies with the following federal and departm
 * Federal Emergency Management Agency (FEMA), The Federal Response Plan (FRP), April 1999;
 * Defense Authorization Act (Public Law 106-398), Title X, Subtitle G, "Government Information Security Reform," October 30, 2000
 
-Example of the types of disasters that would initiate this plan are natural disaster, political disturbances, man made disaster, external human threats, internal malicious activities.
+Example of the types of disasters that would initiate this plan are natural disaster, political disturbances, man made disaster, external human threats, and internal malicious activities.
 
-Datica defined two categories of systems from a disaster recovery perspective.
+Luma defined two categories of systems from a disaster recovery perspective.
 
 1. *Critical Systems*. These systems host application servers and database servers or are required for functioning of systems that host application servers and database servers. These systems, if unavailable, affect the integrity of data and must be restored, or have a process begun to restore them, immediately upon becoming unavailable.
 2. *Non-critical Systems*. These are all systems not considered critical by definition above. These systems, while they may affect the performance and overall security of critical systems, do not prevent Critical systems from functioning and being accessed appropriately. These systems are restored at a lower priority than critical systems.
