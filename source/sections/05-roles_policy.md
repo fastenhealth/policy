@@ -1,6 +1,6 @@
 # 5. Roles Policy
 
-Datica has a Security Officer [164.308(a)(2)] and Privacy Officer [164.308(a)(2)] appointed to assist in maintaining and enforcing safeguards towards compliance. The responsibilities associated with these roles are outlined below.
+Luma has a Security Officer [164.308(a)(2)] and Privacy Officer [164.308(a)(2)] appointed to assist in maintaining and enforcing safeguards towards compliance. The responsibilities associated with these roles are outlined below.
 
 ## 5.1 Applicable Standards
 
@@ -25,7 +25,7 @@ The Privacy Officer is responsible for assisting with compliance and security tr
 3. Manage relationships with customers and partners as those relationships affect security and compliance of ePHI.
 4. Assist Security Officer as needed.
 
-The current Luma Privacy Officer is Adnan Iqbal ([adnan@lumahealth.io](mailto:adnan@lumahealth.io)).
+?? The current Luma Privacy Officer is Adnan Iqbal ([adnan@lumahealth.io](mailto:adnan@lumahealth.io)).
 
 ### 5.2.1 Workforce Training Responsibilities
 
@@ -64,7 +64,7 @@ The current Luma Privacy Officer is Adnan Iqbal ([adnan@lumahealth.io](mailto:ad
 
 The Security Officer is responsible for facilitating the training and supervision of all workforce members [164.308(a)(3)(ii)(A) and 164.308(a)(5)(ii)(A)], investigation and sanctioning of any workforce member that is in violation of Luma security policies and non-compliance with the security regulations [164.308(a)(1)(ii)&lpar;c&rpar;], and writing, implementing, and maintaining all polices, procedures, and documentation related to efforts toward security and compliance [164.316(a-b)].
 
-The current Luma Security Officer is Adnan Iqbal ([adnan@lumahealth.io](mailto:adnan@lumahealth.io)).
+?? The current Luma Security Officer is Adnan Iqbal ([adnan@lumahealth.io](mailto:adnan@lumahealth.io)).
 
 ### 5.3.1 Organizational Responsibilities
 

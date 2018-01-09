@@ -63,6 +63,8 @@
 
 * *Messaging*: API-based services to deliver and receive SMS messages.
 
+* *Messaging Platform*: This encompasses the software as a service Luma provides to customers which includes appointment reminders, cancellation management, referral management, feedback, and the web portal to access the service. 
+
 * *Minimum Necessary Information*: Protected health information that is the minimum necessary to accomplish the intended purpose of the use, disclosure, or request. The "minimum necessary" standard applies to all protected health information in any form.
 
 * *Off-Site*: For the purpose of storage of Backup media, off-site is defined as any location separate from the building in which the backup was created. It must be physically separate from the creating site.

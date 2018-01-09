@@ -16,14 +16,14 @@ This policy establishes the scope, objectives, and procedures of Luma's informat
 * 164.308(a)(1)(ii)(B) - HIPAA Security Rule Risk Management
 * 164.308(a)(8) - HIPAA Security Rule Evaluation
 
-## 4.2 Risk Management Policies
+## ?? 4.2 Risk Management Policies
 
 1. It is the policy of Luma to conduct thorough and timely risk assessments of the potential threats and vulnerabilities to the confidentiality, integrity, and availability of electronic protected health information (ePHI) (and other confidential and proprietary electronic information) it stores, transmits, and/or processes for its Customers and to develop strategies to efficiently and effectively mitigate the risks identified in the assessment process as an integral part of the Luma's information security program.
 2. Risk analysis and risk management are recognized as important components of Luma's corporate compliance program and information security program in accordance with the Risk Analysis and Risk Management implementation specifications within the Security Management standard and the evaluation standards set forth in the HIPAA Security Rule, 45 CFR 164.308(a)(1)(ii)(A), 164.308(a)(1)(ii)(B), 164.308(a)(1)(i), and 164.308(a)(8).
    1. Risk assessments are done throughout product life cycles:
-   2. Before the integration of new system technologies and before changes are made to Luma physical safeguards; and
+   2. ?? Before the integration of new system technologies and before changes are made to Luma physical safeguards; and
       * These changes do not include routine updates to existing systems, deployments of new systems created based on previously configured systems, deployments of new Customers, or new code developed for operations and management of the Luma Platform.
-   3. While making changes to Luma physical equipment and facilities that introduce new, untested configurations.
+   3. ?? While making changes to Luma physical equipment and facilities that introduce new, untested configurations.
    4. Luma performs periodic technical and non-technical assessments of the security rule requirements as well as in response to environmental or operational changes affecting the security of ePHI.
 3. Luma implements security measures sufficient to reduce risks and vulnerabilities to a reasonable and appropriate level to:
    1. Ensure the confidentiality, integrity, and availability of all ePHI Luma receives, maintains, processes, and/or transmits for its Customers;
@@ -129,11 +129,11 @@ Risk mitigation involves prioritizing, evaluating, and implementing the appropri
   * If risk reduction expectations are not met, then repeat all or a part of the risk management process so that additional controls needed to lower risk to an acceptable level can be identified.
   * Output - Residual Risk documentation
 
-### 4.3.3 Risk Management Schedule
+### ?? 4.3.3 Risk Management Schedule
 
 The two principle components of the risk management process - risk assessment and risk mitigation - will be carried out according to the following schedule to ensure the continued adequacy and continuous improvement of Luma's information security program:
 
-* Scheduled Basis - an overall risk assessment of Luma's information system infrastructure will be conducted annually. The assessment process should be completed in a timely fashion so that risk mitigation strategies can be determined and included in the corporate budgeting process.
+* ?? Scheduled Basis - an overall risk assessment of Luma's information system infrastructure will be conducted annually. The assessment process should be completed in a timely fashion so that risk mitigation strategies can be determined and included in the corporate budgeting process.
 * Throughout a System's Development Life Cycle - from the time that a need for a new, untested information system configuration and/or application is identified through the time it is disposed of, ongoing assessments of the potential threats to a system and its vulnerabilities should be undertaken as a part of the maintenance of the system.
 * As Needed - the Security Officer (or other designated employee) or Risk Management Team may call for a full or partial risk assessment in response to changes in business strategies, information technology, information sensitivity, threats, legal liabilities, or other significant factors that affect Luma's Platform.
 

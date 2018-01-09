@@ -88,8 +88,8 @@ Access to Luma systems and application is limited for all users, including but n
 2. Each Customer has and uses a unique user ID and password that identifies him/her as the user of the information system.
 3. All Customer support desk interactions must be verified before Luma support personnel will satisfy any request having information security implications.
    * Luma's current support desk software, Zendesk, requires users to authenticate before submitting support tickets.
-   * Support issues submitted by email must be verified by Luma personnel using an email that has been registered with the corresponding account. This is cross referenced with email listed with Luma's system. 
-4. Certain workforce members can impersonate Customer accounts for the purposes of updating settings and addressing Customer issues. This tool requires Two-factor authentication and is logged as workforce access. 
+   * Support issues submitted by email must be verified by Luma personnel using an email that has been registered with the corresponding account. This is cross referenced with email listed with Luma's system.
+4. Certain workforce members can impersonate Customer accounts for the purposes of updating settings and addressing Customer issues. This tool requires Two-factor authentication and is logged as workforce access.
 
 ## 7.6 Unique User Identification
 
@@ -123,7 +123,7 @@ All workstations at Luma are company owned, and all are laptop Apple products ru
 2. When accessing production systems via remote wireless connections, the same system access policies and procedures apply to wireless as all other connections, including wired.
 3. Wireless networks managed within Luma non-production facilities (offices, etc.) are secured with the following configurations:
    * All data in transit over wireless is encrypted using WPA2 encryption;
-   * Passwords are rotated on a regular basis, presently quarterly. This process is managed by the Datica Security Officer.
+   * Passwords are rotated on a regular basis, presently quarterly. This process is managed by the Luma Security Officer.
 
 ## 7.10 Employee Termination Procedures
 
@@ -132,14 +132,14 @@ All workstations at Luma are company owned, and all are laptop Apple products ru
    * The user has been using their access rights inappropriately;
    * A user's password has been compromised (a new password may be provided to the user if the user is not identified as the individual compromising the original password);
    * An unauthorized individual is utilizing a user's User Login ID and password (a new password may be provided to the user if the user is not identified as providing the unauthorized individual with the User Login ID and password).
-3. The Security Officer will terminate users' access rights immediately upon notification, and will coordinate with the appropriate Datica employees to terminate access to any non-production systems managed by those employees.
+3. The Security Officer will terminate users' access rights immediately upon notification, and will coordinate with the appropriate Luma employees to terminate access to any non-production systems managed by those employees.
 4. The Security Officer audits and may terminate access of users that have not logged into organization's information systems/applications for an extended period of time.
 
 ## 7.11 Paper Records
 
 Luma does not use paper records for any sensitive information. Use of paper for recording and storing sensitive data is against Luma policies.
 
-## 7.12 Password Management 
+## 7.12 Password Management
 
 1. User IDs and passwords are used to control access to Luma systems and may not be disclosed to anyone for any reason.
 2. Users may not allow anyone, for any reason, to have access to any information system using another user's unique user ID and password.
@@ -147,7 +147,7 @@ Luma does not use paper records for any sensitive information. Use of paper for 
    * a minimum length of 12 characters;
    * a 120-day password expiration;
    * account lockout after 3 invalid attempts within a 5 second period.
-   * production environment password managemnt is per policy set by Aptible. 
+   * production environment password managemnt is per policy set by Aptible.
 4. All system and application passwords must be stored and transmitted securely.
    * Where possible, passwords should be stored in a hashed format using a salted cryptographic hash function (SHA-256 or equivalent).
    * Passwords that must be stored in non-hashed format must be encrypted at rest pursuant to the requirements in [§17.8](#17.8-production-data-security).
@@ -160,7 +160,7 @@ Luma does not use paper records for any sensitive information. Use of paper for 
 10. All passwords used in configuration scripts are secured and encrypted.
 11. If a user believes their user ID has been compromised, they are required to immediately report the incident to the Security Office.
 12. In cases where a user has forgotten their password, the following procedure is used to reset the password.
-    * The user submits a password reset request via the web to recieve an email for a unique link that allows them to reset their password. 
+    * The user submits a password reset request via the web to recieve an email for a unique link that allows them to reset their password.
 
 ## 7.13 Access to ePHI
 
