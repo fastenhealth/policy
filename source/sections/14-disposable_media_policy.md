@@ -1,8 +1,8 @@
-# 14. Disposable Media Policy
+# 14. ?? Disposable Media Policy
 
 Luma recognizes that media containing ePHI may be reused when appropriate steps are taken to ensure that all stored ePHI has been effectively rendered inaccessible. Destruction/disposal of ePHI shall be carried out in accordance with federal and state law. The schedule for destruction/disposal shall be suspended for ePHI involved in any open investigation, audit, or litigation.
 
-Luma utilizes dedicated hardware from Subcontractors. ?? ePHI is only stored on SSD volumes in our hosted environment. All SSD volumes utilized by Luma and Luma Customers are encrypted. Luma does not use, own, or manage any mobile devices, SD cards, or tapes that have access to ePHI.
+?? Luma utilizes dedicated hardware from Subcontractors. ?? ePHI is only stored on SSD volumes in our hosted environment. All SSD volumes utilized by Luma and Luma Customers are encrypted. Luma does not use, own, or manage any mobile devices, SD cards, or tapes that have access to ePHI.
 
 ## 14.1 Applicable Standards
 
@@ -24,6 +24,6 @@ Luma utilizes dedicated hardware from Subcontractors. ?? ePHI is only stored on 
 6. All Luma Subcontractors provide that, upon termination of the contract, they will return or destroy/dispose of all patient health information. In cases where the return or destruction/disposal is not feasible, the contract limits the use and disclosure of the information to the purposes that prevent its return or destruction/disposal.
 7. Any media containing ePHI is disposed using a method that ensures the ePHI could not be readily recovered or reconstructed.
 8. The methods of destruction, disposal, and reuse are reassessed periodically, based on current technology, accepted practices, and availability of timely and cost-effective destruction, disposal, and reuse technologies and services.
-9. In the cases of a Luma Customer terminating a contract with Luma and no longer utilize Luma Services, the following actions will be taken depending on the Luma Services in use. In all cases it is solely the responsibility of the Luma Customer to maintain the safeguards required of HIPAA once the data is transmitted out of Luma Systems.
+9. ?? In the cases of a Luma Customer terminating a contract with Luma and no longer utilize Luma Services, the following actions will be taken depending on the Luma Services in use. In all cases it is solely the responsibility of the Luma Customer to maintain the safeguards required of HIPAA once the data is transmitted out of Luma Systems.
    * ?? Luma will provide the customer with data deemed reasonable by Luma in a commonly used format, currently CSV, for 30 days from the time of termination upon request from the customer.
-   * ?? Once 30 days has transpired, Luma will delete all data associated with the account. 
+   * ?? Once 30 days has transpired, Luma will delete all data associated with the account.
