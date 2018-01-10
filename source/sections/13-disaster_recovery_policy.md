@@ -49,8 +49,8 @@ Example of the types of disasters that would initiate this plan are natural disa
 
 The following order of succession to ensure that decision-making authority for the Luma Contingency Plan is uninterrupted. The Chief Technology Officer (CTO) is responsible for ensuring the safety of personnel and the execution of procedures documented within this Luma Contingency Plan. If the CTO is unable to function as the overall authority or chooses to delegate this responsibility to a successor, the CEO or CMO shall function as that authority. To provide contact initiation should the contingency plan need to be initiated, please use the contact list below.
 
-?? * Aditya Bansod, CTO: xx, aditya@lumahealth.io
-?? * Adnan Iqbal, CEO: xx, adnan@lumahealth.io
+ * Aditya Bansod, CTO: 415-741-3377, aditya@lumahealth.io
+ * Adnan Iqbal, CEO: 415-741-3377, adnan@lumahealth.io
 
 ## ?? 13.3 Responsibilities
 
