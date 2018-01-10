@@ -39,4 +39,4 @@ These policies have been written with modern, cloud-based technology vendors in 
 * [3rd Party Policy](source/sections/21-3rd_party_policy.md)
 * [Key Definitions](source/sections/22-key_definitions.md)
 * [Datica HIPAA Business Associate Agreement (“BAA”)](source/sections/23-datica_hipaa_business_associate_agreement.md)
-* [HIPAA Mappings to Datica Controls](source/sections/24-hipaa_mapping_to_datica_controls.md)
+* [HIPAA Mappings to Luma Controls](source/sections/24-hipaa_mapping_to_luma_controls.md)
