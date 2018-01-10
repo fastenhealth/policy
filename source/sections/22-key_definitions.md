@@ -63,7 +63,7 @@
 
 * *Messaging*: API-based services to deliver and receive SMS messages.
 
-* *Messaging Platform*: This encompasses the software as a service Luma provides to customers which includes appointment reminders, cancellation management, referral management, feedback, and the web portal to access the service. 
+* *Messaging Platform*: This encompasses the software as a service Luma provides to customers which includes appointment reminders, cancellation management, referral management, feedback, and the web portal to access the service. This is synonymous to Luma Services. 
 
 * *Minimum Necessary Information*: Protected health information that is the minimum necessary to accomplish the intended purpose of the use, disclosure, or request. The "minimum necessary" standard applies to all protected health information in any form.
 
@@ -73,7 +73,9 @@
 
 * *Partner*: Contractual bound 3rd party vendor with integration with the Luma Platform. May offer Add-on services.
 
-* *Platform*: The overall technical environment of Luma.
+* *Platform*: The overall technical environment of Luma. This encompasses the production system and messaging platform.
+
+* *Production System*: This refers to the production environment where Luma services run via our hosting partner Aptible. This is synonymous with information systems or production servers.
 
 * *Protected Health Information (PHI)*: Individually identifiable health information that is created by or received by the organization, including demographic information, that identifies an individual, or provides a reasonable basis to believe the information can be used to identify an individual, and relates to:
   * Past, present or future physical or mental health or condition of an individual.

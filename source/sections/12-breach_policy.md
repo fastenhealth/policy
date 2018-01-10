@@ -22,7 +22,7 @@ In the case of a breach, Luma shall notify all affected Customers. It is the res
 * HITECH Timeliness of Notification - 13402(d)(1)
 * HITECH Content of Notification - 13402(f)(1)
 
-## 12.2 Lamua Breach Policy
+## 12.2 Luma Breach Policy
 
 1. Discovery of Breach: A breach of ePHI shall be treated as "discovered" as of the first day on which such breach is known to the organization, or, by exercising reasonable diligence would have been known to Luma (includes breaches by the organization's Customers, Partners, or subcontractors). Luma shall be deemed to have knowledge of a breach if such breach is known or by exercising reasonable diligence would have been known, to any person, other than the person committing the breach, who is a workforce member or Partner of the organization. Following the discovery of a potential breach, the organization shall begin an investigation (see organizational policies for security incident response and/or risk management incident response) immediately, conduct a risk assessment, and based on the results of the risk assessment, begin the process to notify each Customer affected by the breach. Luma shall also begin the process of determining what external notifications are required or should be made (e.g., Secretary of Department of Health & Human Services (HHS), media outlets, law enforcement officials, etc.)
 2. Breach Investigation: The Luma Security Officer shall name an individual to act as the investigator of the breach (e.g., privacy officer, security officer, risk manager, etc.). The investigator shall be responsible for the management of the breach investigation, completion of a risk assessment, and coordinating with others in the organization as appropriate (e.g., administration, security incident response team, human resources, risk management, public relations, legal counsel, etc.) The investigator shall be the key facilitator for all breach notification processes to the appropriate entities (e.g., HHS, media, law enforcement officials, etc.). All documentation related to the breach investigation, including the risk assessment, shall be retained for a minimum of six years. A template breach log is located [here](sections/breach.log.pdf).
@@ -52,9 +52,9 @@ In the case of a breach, Luma shall notify all affected Customers. It is the res
 12. Sanctions: The organization shall have in place and apply appropriate sanctions against members of its workforce, Customers, and Partners who fail to comply with privacy policies and procedures.
 13. Retaliation/Waiver: Luma may not intimidate, threaten, coerce, discriminate against, or take other retaliatory action against any individual for the exercise by the individual of any privacy right. The organization may not require individuals to waive their privacy rights under as a condition of the provision of treatment, payment, enrollment in a health plan, or eligibility for benefits.
 
-## 12.3 Luma Platform Customer Responsibilities
+## ?? 12.3 Luma Messaging Platform Customer Responsibilities
 
-1. The Luma Customer that accesses, maintains, retains, modifies, records, stores, destroys, or otherwise holds, uses, or discloses unsecured ePHI shall, without unreasonable delay and in no case later than 60 calendar days after discovery of a breach, notify Luma of such breach. The Customer shall provide Luma with the following information:
+1. ?? The Luma Customer that accesses, maintains, retains, modifies, records, stores, destroys, or otherwise holds, uses, or discloses unsecured ePHI shall, without unreasonable delay and in no case later than 60 calendar days after discovery of a breach, notify Luma of such breach.  Customer takes responsibility for any ePHI communication over non secure channels. Customer takes responsibility of ensuring messaging content is appropriate for the communication channel. The Customer shall provide Luma with the following information:
    * A description of what happened, including the date of the breach, the date of the discovery of the breach, and the number of records and Customers affected, if known.
    * A description of the types of unsecured protected health information that were involved in the breach (such as full name, Social Security number, date of birth, home address, account number, etc.), if known.
    * A description of the action taken with regard to notification of patients regarding the breach.
@@ -95,5 +95,5 @@ Sincerely,
 
 
 Adnan Iqbal
-CEO Luma Health, Inc. 
+CEO Luma Health, Inc.
 adnan@lumahealth.io

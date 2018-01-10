@@ -12,4 +12,4 @@ Luma utilizes a suite of approved software tools for internal use by workforce m
 * **GitHub**. GitHub is Web-based Git version control repository hosting service which requires 2FA.
 * **Aptible**. Aptible is our secure hosting provider who hosts the Luma production environment accessed using 2FA.
 
-Jivo, Hubspot, Twilio, Plivo, Papertrail
+Jivo, Hubspot, Twilio, Plivo, Papertrail, SnedGrid
