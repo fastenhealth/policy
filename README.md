@@ -8,7 +8,11 @@ The second half of HIPAA is focused on administrative and organizational activit
 
 ## How we created these policies? 
 
-As a company who handles PHI, it's critical we maintain and publish your own policies. HIPAA compliance is complicated, but it doesn't have to be. In order ao assure the utmost completeness of our policies, we have adopted policies from an industry leader in HIPAA compliance [Datica](htts://datica.com), healthcare's trusted HITRUST CSF Certified digital health platform.
+As a company who handles ePHI, it's critical we maintain and publish your own policies. HIPAA compliance is complicated, but it doesn't have to be. In order ao assure the utmost completeness of our policies, we have adopted policies from an industry leader in HIPAA compliance [Datica](htts://datica.com), healthcare's trusted HITRUST CSF Certified digital health platform.
+
+Luma Health used open source policies from Datica as the starting basis of Luma Health policies. We will continue to customize to our needs and compare to the updates made from the forked repository from Datica (formerly Catalyze.io), https://github.com/catalyzeio/policies and published to https://policy.datica.com.
+
+These policies have been written with modern, cloud-based technology vendors in mind. We looked far and wide for policy examples and found that Datica's fit our company best. So we forked their repository and made them our basis. Importantly, the basis of these Datica open source policies have been through three external audits - two HIPAA audits and one HITRUST audit.
 
 ### Policy Index
 
