@@ -21,12 +21,12 @@ Luma is committed to ensuring all workforce members actively address security an
 1. All new workforce members, including contractors, are given training on security policies and procedures, including operations security, within 30 days of employment.
    * Records of training are kept for all workforce members.
    * ?? Upon completion of training, workforce members complete this [form](https://docs.google.com/a/catalyze.io/forms/d/1bmEK3TidACj6ForBqGMaINPjIckv9ht28rtkGEQsBGs/viewform?usp=send_form).
-   * Current Luma training is leveraging content created by industry leader in security Luma at [training.Luma.com](https://training.Luma.com/).
+   * Current Luma training is leveraging content created by industry leader in security Luma at [training.Luma.com](https://training.datica.com/).
    * Employees must complete this training before accessing production systems containing ePHI.
 2. All workforce members are granted access to formal organizational policies, which include the sanction policy for security violations.
 3. The Luma Employee Handbook clearly states the responsibilities and acceptable behavior regarding information system usage, including rules for email, Internet, mobile devices, and social media usage.
    * Workforce members are required to sign an agreement stating that they have read and will abide by all terms outlined in the Luma Employee Handbook, along with all policies and processes described in this document.
-   * A Human Resources representative will provide the agreement to new employees during their onboarding process.
+   * ?? A Human Resources representative will provide the agreement to new employees during their onboarding process.
 4. Luma does not allow mobile devices to connect to any of its production networks.
 5. All workforce members are educated about the approved set of tools to be installed on workstations.
 6. All new workforce members are given HIPAA training within 30 days of beginning employment. Training includes HIPAA reporting requirements, including the ability to anonymously report security incidents, and the levels of compliance and obligations for Luma and its Customers and Partners.
