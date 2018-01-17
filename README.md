@@ -4,13 +4,13 @@ Luma helps relieve the challenges of patient communication and engagement with o
 
 HIPAA compliance really has two halves. The first half includes all technical guidelines, both physical and digital. Compliant companies take measures to secure their hardware and manage their software in a certain way. Encryption, logging, monitoring—these are just a few examples of HIPAA technical requirements. Luma builds its platform with these guidelines in mind.
 
-The second half of HIPAA is focused on administrative and organizational activities. This includes signing Business Associate Agreements (BAAs), and managing company policies like training, among other things. Crafting company policies that align with HIPAA administrative guidelines are straightforward, but an immense burden.
+The second half of HIPAA is focused on administrative and organizational activities. This includes signing Business Associate Agreements (BAAs), managing company policies like training, among other things. Crafting company policies that align with HIPAA administrative guidelines are straightforward, but an immense burden.
 
 ## How we created these policies? 
 
-As a company who handles ePHI, it's critical we maintain and publish your own policies. HIPAA compliance is complicated, but it doesn't have to be. In order ao assure the utmost completeness of our policies, we have adopted policies from an industry leader in HIPAA compliance [Datica](htts://datica.com), healthcare's trusted HITRUST CSF Certified digital health platform.
+As a company who handles ePHI, it's critical we maintain and publish your own policies. HIPAA compliance is complicated, but it doesn't have to be. In order to assure the utmost completeness of our policies, we have adopted policies from an industry leader in HIPAA compliance [Datica](htts://datica.com), healthcare's trusted HITRUST CSF Certified digital health platform.
 
-Luma Health used open source policies from Datica as the starting basis of Luma Health policies. We will continue to customize to our needs and compare to the updates made from the forked repository from Datica (formerly Catalyze.io), https://github.com/catalyzeio/policies and published to https://policy.datica.com.
+Luma Health used open source policies from Datica as the starting basis of Luma Health policies. We will continue to customize to our needs and compare to the updates made from the forked repository from Datica (formerly Catalyze.io), [https://github.com/catalyzeio/policies](https://github.com/catalyzeio/policies) and published to [https://policy.datica.com](https://policy.datica.com).
 
 These policies have been written with modern, cloud-based technology vendors in mind. We looked far and wide for policy examples and found that Datica's fit our company best. So we forked their repository and made them our basis. Importantly, the basis of these Datica open source policies have been through three external audits - two HIPAA audits and one HITRUST audit.
 
@@ -38,5 +38,5 @@ These policies have been written with modern, cloud-based technology vendors in 
 * [Approved Tools Policy](source/sections/20-approved_tools_policy.md)
 * [3rd Party Policy](source/sections/21-3rd_party_policy.md)
 * [Key Definitions](source/sections/22-key_definitions.md)
-* [Datica HIPAA Business Associate Agreement (“BAA”)](source/sections/23-datica_hipaa_business_associate_agreement.md)
+* [Luma HIPAA Business Associate Agreement (“BAA”)](source/sections/23-datica_hipaa_business_associate_agreement.md)
 * [HIPAA Mappings to Luma Controls](source/sections/24-hipaa_mapping_to_luma_controls.md)
