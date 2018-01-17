@@ -1,4 +1,4 @@
-# 9. ?? Configuration Management Policy
+# 9.  Configuration Management Policy
 
 Luma standardizes and automates configuration management through Aptible service Enclave with documentation of all changes to production systems and networks. Aptible automatically configure all systems according to established and tested policies, and are used as part of our Disaster Recovery plan and process.
 
@@ -12,7 +12,7 @@ Luma standardizes and automates configuration management through Aptible service
 
 * 164.310(a)(2)(iii) Access Control & Validation Procedures
 
-## ?? 9.2 Configuration Management Policies
+##  9.2 Configuration Management Policies
 
 1. No systems are deployed into Luma environments without approval of the Luma CTO.
 3. All changes allowed within the Enclave environment to production systems, network devices, and firewalls are approved by the Luma CTO before they are implemented to assure they comply with business and security requirements.
@@ -28,7 +28,7 @@ Luma standardizes and automates configuration management through Aptible service
 12. All formal change requests require unique ID and authentication.
 13. Clocks are continuously synchronized to an authoritative source across all systems using NTP or a platform-specific equivalent. Modifying time data on systems is restricted.
 
-## ?? 9.3 Provisioning Production Systems
+##  9.3 Provisioning Production Systems
 
 1. Before provisioning any systems, ops team members must communicate a request either via Asana or Slack.
 2. The CTO, or an authorized delegate of the CTO, must approve the provisioning request before any new system can be provisioned.
@@ -36,16 +36,16 @@ Luma standardizes and automates configuration management through Aptible service
 4. If the system will be used to house production data (ePHI), the ops team member must use the production ready environment provided by Aptible.
 5. Once the system has been provisioned, the ops team member must contact the security team to inspect the new system.
 
-## ?? 9.4 Changing Existing Systems
+##  9.4 Changing Existing Systems
 
 1. Before rolling out the change to production, the ops team member must discuss the change with other team members and document it.
 2. Once the request has been approved by the CTO, the ops team member may roll out the change into production environments.
 
-## ?? 9.5 Patch Management Procedures
+##  9.5 Patch Management Procedures
 
 1. Luma does not have root access to production servers. Patches are managed by Aptible.
 
-## ?? 9.6 Software Development Procedures
+##  9.6 Software Development Procedures
 
 1. All development uses feature branches based on the main branch used for the current release. Any changes required for a new feature or defect fix are committed to that feature branch.
    * These changes must be covered under 1) a unit test where possible, or 2) integration tests.

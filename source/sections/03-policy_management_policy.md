@@ -13,11 +13,11 @@ Luma implements policies and procedures to maintain compliance and integrity of 
 * 164.316(a) - Policies and Procedures
 * 164.316(b)(1)(i) - Documentation
 
-## ?? 3.2 Maintenance of Policies
+## 3.2 Maintenance of Policies
 
 1. All policies are stored and up to date to maintain Luma compliance with HIPAA, HITRUST, NIST, and other relevant standards. Updates and version control are done similar to source code control.
 2. Policy update requests can be made by any workforce member at any time. Furthermore, all policies are reviewed annually by both the Security and Privacy Officer to assure they are accurate and up-to-date.
-3. ?? Luma employees may request changes to policies using the following process:
+3.  Luma employees may request changes to policies using the following process:
   1. The Luma employee initiates a policy change request by creating an Issue in the Asana. The change request may optionally include a GitHub pull request from a separate branch or repository containing the desired changes.
   2. The Security Officer or the Privacy Officer is assigned to review the policy change request.
   3. Once the review is completed, the Security Officer or Privacy Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
@@ -27,7 +27,7 @@ Luma implements policies and procedures to maintain compliance and integrity of 
    * Changes are communicated to all Luma team members through Slack.
 5. All policies, and associated documentation, are retained for 6 years from the date of its creation or the date when it last was in effect, whichever is later
    1. Version history of all Luma policies is done via GitHub.
-6. ?? The policies and information security policies are reviewed and audited annually, or after significant changes occur to Luma's organizational environment. Issues that come up as part of this process are reviewed by Luma management to assure all risks and potential gaps are mitigated and/or fully addressed. The process for reviewing polices is outlined below:
+6.  The policies and information security policies are reviewed and audited annually, or after significant changes occur to Luma's organizational environment. Issues that come up as part of this process are reviewed by Luma management to assure all risks and potential gaps are mitigated and/or fully addressed. The process for reviewing polices is outlined below:
   1. The Security Officer initiates the policy review by creating an Issue in the Asana.
   2. The Security Officer or the Privacy Officer is assigned to review the current Luma policies.
   3. If changes are made, the above process is used. All changes are documented in the Issue.

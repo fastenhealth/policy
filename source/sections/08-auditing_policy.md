@@ -32,7 +32,7 @@ It is the policy of Luma to safeguard the confidentiality, integrity, and availa
 * 45 CFR §164.312&lpar;c&rpar;(2) - Mechanism to Authenticate ePHI
 * 45 CFR §164.312(e)(2)(i) - Integrity Controls
 
-## ?? 8.2 Auditing Policies
+##  8.2 Auditing Policies
 
 1. Responsibility for auditing information system access and activity is assigned to Luma's Security Officer. The Security Officer shall:
    * Assign the task of generating reports for audit activities to the workforce member responsible for the application, system, or network;
@@ -125,7 +125,7 @@ It is the policy of Luma to safeguard the confidentiality, integrity, and availa
    * Available storage space.
 2. Reports summarizing audit activities shall be retained for a period of six years.
 3. Audit log data at other than the user and application level is retained as per Aptible policy for six years.
-4. User and application logging is maintained for six years. 
+4. User and application logging is maintained for six years.
 
 ## 8.10 Potential Trigger Events
 
