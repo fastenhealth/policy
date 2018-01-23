@@ -161,4 +161,4 @@ Luma does not use paper records for any sensitive information. Use of paper for 
 13. In cases where a user of the messaging platform has forgotten his/her password, the following procedure is used to reset the password.
     * The user submits a password reset request via the web to receive an email for a unique link that allows them to reset their password.
     * Link expires in seven days. 
-14. In cases when a user of the production platform has forgotten his/her password, passwrod is reset per policy set forht by Apitble. 
+14. In cases when a user of the production platform has forgotten his/her password, passwrod is reset per policy set forth by Apitble. 
