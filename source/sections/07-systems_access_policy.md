@@ -165,6 +165,6 @@ Luma does not use paper records for any sensitive information. Use of paper for 
 
 ## 7.11 Customer Account Termination Procedures
 
-1. Once the Customer has decided not continue using Luma services, all communincations will be turned off within 24 hours. 
-2. Customer will have 7 days to reactivate service including communincations. Prior to reactivation, the customer will not be allowed to access the account. 
-3. Data will be retained according to [Data Retention Policy §18.2](#18.2-data-retention-policy). 
+* Once a Customer ceases to be a Customer, as defined below, the following steps are
+1. Customer is sent a notice via email of change of standing, and given the option to reinstate account.
+2. If no response to notice in #1 above within 7 days or as defined appropriate based on Customer response, or if Customer responds they do not want to reinstate account, Customer is no longer given access to their account and all patient communications will be turned off. 3. Data will be retained according to [Data Retention Policy §18.2](#18.2-data-retention-policy). 
