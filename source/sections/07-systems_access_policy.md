@@ -162,3 +162,10 @@ Luma does not use paper records for any sensitive information. Use of paper for 
     * The user submits a password reset request via the web to receive an email for a unique link that allows them to reset their password.
     * Link expires in seven days. 
 14. In cases when a user of the production platform has forgotten his/her password, passwrod is reset per policy set forth by Apitble. 
+
+## 7.11 Customer Account Termination Procedures
+
+* Once a Customer ceases to be a Customer, as defined below, the following steps are
+1. Customer is sent a notice via email of change of standing, and given the option to reinstate account.
+2. If no response to notice in #1 above within 7 days or as defined appropriate based on Customer response, or if Customer responds they do not want to reinstate account, Customer is no longer given access to their account and all patient communications will be turned off.
+3. Data will be retained according to [Data Retention Policy §18.2](#18.2-data-retention-policy). 
