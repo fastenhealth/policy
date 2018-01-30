@@ -166,6 +166,7 @@ Luma does not use paper records for any sensitive information. Use of paper for 
 ## 7.11 Customer Account Termination Procedures
 
 * Once a Customer ceases to be a Customer, as defined below, the following steps are
-1. Customer is sent a notice via email of change of standing, and given the option to reinstate account.
-2. If no response to notice in #1 above within 7 days or as defined appropriate based on Customer response, or if Customer responds they do not want to reinstate account, Customer is no longer given access to their account and all patient communications will be turned off.
+1. Customer requests to cancel Luma services via email or phone. If the request is made over the phone, customer will confirm request over email. Luma can also elect to cease services if there is a compromise of the contract. 
+2. Customer's request will be reviewed by the Customer Sucess team to understand customer needs and confirm request to cancel. During this period, Customer may decide to rescind request to cancel.  
+3. If request to cancel is confirmed, all patient communications will be turned off immediately and Customer will no longer have access to Luma services unless otherwise agreed upon for these two to happen on a later date. 
 3. Data will be retained according to [Data Retention Policy §18.2](#18.2-data-retention-policy). 
