@@ -170,4 +170,4 @@ Luma does not use paper records for any sensitive information. Use of paper for 
 1. Customer requests to cancel Luma services via email or phone. If the request is made over the phone, customer will confirm request over email. Luma can also elect to cease services if there is a compromise of the contract. 
 2. Customer's request will be reviewed by the Customer Sucess team to understand customer needs and confirm request to cancel. During this period, Customer may decide to rescind request to cancel.  
 3. If request to cancel is confirmed, all patient communications will be turned off immediately and Customer will no longer have access to Luma services unless otherwise agreed upon for these two to happen on a later date. 
-3. Data will be retained according to [Data Retention Policy §18.2](06-data_management_policy.html#182-data-retention-policy). 
+3. Data will be retained according to [Data Retention Policy §18.2](18-data_retention_policy.html#182-data-retention-policy). 
