@@ -41,7 +41,7 @@ Access to Luma platform is limited for all users, including but not limited to w
   2. The Head of Engineering or his/her representative under the auspices of the Security Officer or Privacy Officer will grant access to systems as dictated by the employee's job title. If additional access is required outside of the minimum necessary to perform job functions, the requester must include a description of why the additional access is required as part of the access request.
   3. Once the review is completed, the Security Officer or Privacy Officer or a representative approves or rejects the request. If the request is rejected, it goes back for further review and documentation.
   4. If the review is approved, the Security Officer or Privacy Officer confirms this on Slack, adding any pertinent notes required. The Security Officer or Privacy Officer or a representative then grants requested access.
-     * New accounts will be created with a temporary secure password that meets all requirements from [§7.12](#7.12-password-management), which must be changed on the initial login.
+     * New accounts will be created with a temporary secure password that meets all requirements from [§7.12](#712-password-management), which must be changed on the initial login.
      * All password exchanges must occur over an authenticated channel.
      * For non-production systems, access grants are accomplished by leveraging the access control mechanisms built into those systems. Account management for non-production systems may be delegated to a Luma employee at the discretion of the Security Officer or Privacy Officer.
 2. Access is not granted until receipt, review, and approval by the Luma Security Officer or Privacy Officer or a representative;
@@ -53,7 +53,7 @@ Access to Luma platform is limited for all users, including but not limited to w
    4. Once the review is completed, the Security Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
    5. If the review is approved, the Security Officer then marks the Issue as Done, adding any pertinent notes required.
    6. Review of user access is monitored on a quarterly basis using Asana reporting to assess compliance with above policy.
-5. Any Luma workforce member can request change of access using the process outlined in [§7.2 paragraph 1](#7.2-access-establishment-and-modification).
+5. Any Luma workforce member can request change of access using the process outlined in [§7.2 paragraph 1](#72-access-establishment-and-modification).
 6. Access to production systems is controlled using centralized user management and authentication provided by Aptible.
 7. Temporary accounts are not used unless absolutely necessary for business purposes.
    * Accounts are reviewed every 90 days to ensure temporary accounts are not left unnecessarily.
@@ -61,7 +61,7 @@ Access to Luma platform is limited for all users, including but not limited to w
 8. In the case of non-personal information, such as generic educational content, identification and authentication may not be required. This is the responsibility of Luma Customers to define, and not Luma.
 9. Privileged users must first access systems using standard, unique user accounts before switching to privileged users and performing privileged tasks.
    * For production systems, this is enforced by creating non-privileged user accounts that must invoke `sudo` to perform privileged tasks.
-   * Rights for privileged accounts are granted by the Security Officer or Privacy Officer using the process outlined in [§7.2 paragraph 1](#7.2-access-establishment-and-modification).
+   * Rights for privileged accounts are granted by the Security Officer or Privacy Officer using the process outlined in [§7.2 paragraph 1](#72-access-establishment-and-modification).
 10. All application to application communication using service accounts is restricted and not permitted unless absolutely needed. Automated tools are used to limit account access across applications and systems.
 11. Generic accounts are not allowed on Luma systems.
 12. Access is granted utilizing two-factor authentication.
@@ -74,8 +74,8 @@ Access to Luma platform is limited for all users, including but not limited to w
 
 1. The level of security assigned to a user of the production platform is based on the minimum necessary amount of data access required to carry out legitimate job responsibilities assigned to a user's job classification and/or to a user needing access to carry out treatment, payment, or healthcare operations.
 2. All access requests are treated on a "least-access principle."
-3. Luma maintains a minimum necessary approach to access to Customer data. As such, Luma, including all workforce members, does not access any ePHI except out of necessity to address Customer issues. Select set of job roles are cleared to access ePHI specifically customer success, customer support, and engineering.
-4. Customers can add additional users to their account for access to the messaging platform. It is the Customer's responsibility to verify appropriate access. Customer will be responsible to remove additional users.
+3. Luma maintains a minimum necessary approach to access to Customer data. As such, Luma, including all workforce members, does not access any ePHI except out of necessity to address Customer issues. Select set of job roles are cleared to access ePHI specifically customer success, customer support, and engineering. 
+4. Customers can add additional users to their account for access to the messaging platform. It is the Customer's responsibility to verify appropriate access. Customer will be responsible to remove additional users. 
 
 ## 7.4 Access Authorization
 
@@ -102,8 +102,8 @@ Access to Luma platform is limited for all users, including but not limited to w
 ## 7.7 Automatic Logoff
 
 1. Users are required to make the platform inaccessible by any other individual when unattended by the users (ex. by using a password protected screen saver or logging off the system).
-2. Messaging platform automatically log users off the systems after 15 minutes of inactivity.
-3. The Security Officer pre-approves exceptions to automatic log off requirements. 
+2. Messaging platform automatically log users off the systems after 15 minutes of inactivity. 
+3. The Security Officer pre-approves exceptions to automatic log off requirements.
 
 ## 7.8 Employee Workstation Use
 
@@ -116,6 +116,7 @@ All workstations at Luma are company owned, and all are laptop Apple products ru
 5. Users may not misrepresent, obscure, suppress, or replace another user's identity in transmitted or stored messages.
 6. Workstation hard drives will be encrypted using FileVault 2.0 or equivalent.
 7. All workstations have firewalls enabled to prevent unauthorized access unless explicitly granted.
+8. Workstations used for ePHI access will have iCloud enabled to allow for tracking and remote wipe out of data. 
 
 ## 7.9 Wireless Access Use
 
@@ -126,12 +127,12 @@ All workstations at Luma are company owned, and all are laptop Apple products ru
 
 ## 7.10 Employee Termination Procedures
 
-1. The Human Resources Department (or other designated department or representative), users, and their supervisors are required to notify the Security Officer upon completion and/or termination of access needs and facilitating completion of the Termination Checklist outlined in [§19.2](#19.2-employee-policy).
+1. The Human Resources Department (or other designated department), users, and their supervisors are required to notify the Security Officer upon completion and/or termination of access needs and facilitating completion of the "Termination Checklist".
 2. The Human Resources Department, users, and supervisors are required to notify the Security Officer to terminate a user's access rights if there is evidence or reason to believe the following (these incidents are also reported on an incident report and is filed with the Privacy Officer):
    * The user has been using their access rights inappropriately;
    * A user's password has been compromised (a new password may be provided to the user if the user is not identified as the individual compromising the original password);
-   3. The Security Officer will terminate users' access rights immediately upon notification, and will coordinate with the appropriate Luma employees to terminate access to any non-production systems managed by those employees.
    * An unauthorized individual is utilizing a user's User Login ID and password (a new password may be provided to the user if the user is not identified as providing the unauthorized individual with the User Login ID and password).
+3. The Security Officer will terminate users' access rights immediately upon notification, and will coordinate with the appropriate Luma employees to terminate access to any non-production systems managed by those employees.
 4. The Security Officer audits and may terminate access of users that have not logged into organization's platform/applications for an extended period of time.
 
 ## 7.11 Paper Records
@@ -149,10 +150,10 @@ Luma does not use paper records for any sensitive information. Use of paper for 
 4. On the production platform, password configurations are governed by rules set forth by Aptible and in additon Luma policy requires two factor authenttication.
 5. All system and application passwords must be stored and transmitted securely.
    * Where possible, passwords should be stored in a hashed format using a salted cryptographic hash function (SHA-256 or equivalent).
-   * Passwords that must be stored in non-hashed format must be encrypted at rest pursuant to the requirements in [§17.8](#17.8-production-data-security).
-   * Transmitted passwords must be encrypted in flight pursuant to the requirements in [§17.9](#17.9-transmission-security).
+   * Passwords that must be stored in non-hashed format must be encrypted at rest pursuant to the requirements in [§17.8](17-data_integrity_policy.html#178-production-data-security).
+   * Transmitted passwords must be encrypted in flight pursuant to the requirements in [§17.9](17-data_integrity_policy.html#179-transmission-security).
 6. Each platform system automatically requires users to change passwords at a pre-determined interval as determined by the organization, based on the criticality and sensitivity of the ePHI contained within the network, system, application, and/or database.
-7. Passwords are inactivated immediately upon an employee's termination (refer to the [Employee Termination Procedures in §7.10](#7.10-employee-termination-procedures)).
+7. Passwords are inactivated immediately upon an employee's termination (refer to the [Employee Termination Procedures in §7.10](#710-employee-termination-procedures)).
 8. All default system, application, and Partner passwords are changed before deployment to production.
 9. Upon initial login, users must change any passwords that were automatically generated for them.
 10. Password change methods must use a confirmation method to correct for user input errors.
@@ -160,12 +161,13 @@ Luma does not use paper records for any sensitive information. Use of paper for 
 12. If a user believes their user ID has been compromised, they are required to immediately report the incident to the Security Office.
 13. In cases where a user of the messaging platform has forgotten his/her password, the following procedure is used to reset the password.
     * The user submits a password reset request via the web to receive an email for a unique link that allows them to reset their password.
-    * Link expires in seven days.
-14. In cases when a user of the production platform has forgotten his/her password, passwrod is reset per policy set forth by Apitble.
+    * Link expires in seven days. 
+14. In cases when a user of the production platform has forgotten his/her password, passwrod is reset per policy set forth by Apitble. 
 
 ## 7.11 Customer Account Termination Procedures
 
 * Once a Customer ceases to be a Customer, as defined below, the following steps are
-1. Customer is sent a notice via email of change of standing, and given the option to reinstate account.
-2. If no response to notice in #1 above within 7 days or as defined appropriate based on Customer response, or if Customer responds they do not want to reinstate account, Customer is no longer given access to their account and all patient communications will be turned off.
-3. Data will be retained according to [Data Retention Policy §18.2](#18.2-data-retention-policy).
+1. Customer requests to cancel Luma services via email or phone. If the request is made over the phone, customer will confirm request over email. Luma can also elect to cease services if there is a compromise of the contract. 
+2. Customer's request will be reviewed by the Customer Sucess team to understand customer needs and confirm request to cancel. During this period, Customer may decide to rescind request to cancel.  
+3. If request to cancel is confirmed, all patient communications will be turned off immediately and Customer will no longer have access to Luma services unless otherwise agreed upon for these two to happen on a later date. 
+3. Data will be retained according to [Data Retention Policy §18.2](18-data_retention_policy.html#182-data-retention-policy). 

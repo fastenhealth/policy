@@ -22,7 +22,7 @@ Luma implements policies and procedures to maintain compliance and integrity of 
   2. The Security Officer or the Privacy Officer is assigned to review the policy change request.
   3. Once the review is completed, the Security Officer or Privacy Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
   4. If the review is approved, the Security Officer or Privacy Officer then marks the Issue as Done, adding any pertinent notes required.
-  5. If the policy change requires technical modifications to production systems, those changes are carried out by authorized personnel using Luma's [change management process (§9.4)](#9.4-changing-existing-systems).
+  5. If the policy change requires technical modifications to production systems, those changes are carried out by authorized personnel using Luma's [change management process (§9.4)](09-configuration_management_policy.html#94-changing-existing-systems).
 4. All policies are made accessible to all Luma workforce members.
    * Changes are communicated to all Luma team members through Slack.
 5. All policies, and associated documentation, are retained for 6 years from the date of its creation or the date when it last was in effect, whichever is later
@@ -41,4 +41,4 @@ Luma implements policies and procedures to maintain compliance and integrity of 
   5. If the review is approved, the Security Officer then marks the Issue as Done, adding any pertinent notes required.
   6. Compliance with annual compliance assessments, utilizing the HITRUST CSF as a framework, is monitored on a quarterly basis using Asana reporting to assess compliance with above policy.
 
-Additional documentation related to maintenance of policies is outlined in [§5.3.1](#5.3-security-officer).
+Additional documentation related to maintenance of policies is outlined in [§5.3.1](05-roles_policy.html#53-security-officer).
