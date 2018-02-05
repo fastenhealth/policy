@@ -150,8 +150,8 @@ Luma does not use paper records for any sensitive information. Use of paper for 
 4. On the production platform, password configurations are governed by rules set forth by Aptible and in additon Luma policy requires two factor authenttication.
 5. All system and application passwords must be stored and transmitted securely.
    * Where possible, passwords should be stored in a hashed format using a salted cryptographic hash function (SHA-256 or equivalent).
-   * Passwords that must be stored in non-hashed format must be encrypted at rest pursuant to the requirements in [§17.8](#178-production-data-security).
-   * Transmitted passwords must be encrypted in flight pursuant to the requirements in [§17.9](#179-transmission-security).
+   * Passwords that must be stored in non-hashed format must be encrypted at rest pursuant to the requirements in [§17.8](17-data_integrity_policy.html#178-production-data-security).
+   * Transmitted passwords must be encrypted in flight pursuant to the requirements in [§17.9](17-data_integrity_policy.html#179-transmission-security).
 6. Each platform system automatically requires users to change passwords at a pre-determined interval as determined by the organization, based on the criticality and sensitivity of the ePHI contained within the network, system, application, and/or database.
 7. Passwords are inactivated immediately upon an employee's termination (refer to the [Employee Termination Procedures in §7.10](#710-employee-termination-procedures)).
 8. All default system, application, and Partner passwords are changed before deployment to production.
@@ -170,4 +170,4 @@ Luma does not use paper records for any sensitive information. Use of paper for 
 1. Customer requests to cancel Luma services via email or phone. If the request is made over the phone, customer will confirm request over email. Luma can also elect to cease services if there is a compromise of the contract. 
 2. Customer's request will be reviewed by the Customer Sucess team to understand customer needs and confirm request to cancel. During this period, Customer may decide to rescind request to cancel.  
 3. If request to cancel is confirmed, all patient communications will be turned off immediately and Customer will no longer have access to Luma services unless otherwise agreed upon for these two to happen on a later date. 
-3. Data will be retained according to [Data Retention Policy §18.2](#182-data-retention-policy). 
+3. Data will be retained according to [Data Retention Policy §18.2](06-data_management_policy.html#182-data-retention-policy). 
