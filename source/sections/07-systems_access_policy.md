@@ -116,6 +116,7 @@ All workstations at Luma are company owned, and all are laptop Apple products ru
 5. Users may not misrepresent, obscure, suppress, or replace another user's identity in transmitted or stored messages.
 6. Workstation hard drives will be encrypted using FileVault 2.0 or equivalent.
 7. All workstations have firewalls enabled to prevent unauthorized access unless explicitly granted.
+8. Workstations used for ePHI access will have iCloud enabled to allow for tracking and remote wipe out of data. 
 
 ## 7.9 Wireless Access Use
 
