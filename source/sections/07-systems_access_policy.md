@@ -41,7 +41,7 @@ Access to Luma platform is limited for all users, including but not limited to w
   2. The Head of Engineering or his/her representative under the auspices of the Security Officer or Privacy Officer will grant access to systems as dictated by the employee's job title. If additional access is required outside of the minimum necessary to perform job functions, the requester must include a description of why the additional access is required as part of the access request.
   3. Once the review is completed, the Security Officer or Privacy Officer or a representative approves or rejects the request. If the request is rejected, it goes back for further review and documentation.
   4. If the review is approved, the Security Officer or Privacy Officer confirms this on Slack, adding any pertinent notes required. The Security Officer or Privacy Officer or a representative then grants requested access.
-     * New accounts will be created with a temporary secure password that meets all requirements from [§7.12](#7.12-password-management), which must be changed on the initial login.
+     * New accounts will be created with a temporary secure password that meets all requirements from [§7.12](#712-password-management), which must be changed on the initial login.
      * All password exchanges must occur over an authenticated channel.
      * For non-production systems, access grants are accomplished by leveraging the access control mechanisms built into those systems. Account management for non-production systems may be delegated to a Luma employee at the discretion of the Security Officer or Privacy Officer.
 2. Access is not granted until receipt, review, and approval by the Luma Security Officer or Privacy Officer or a representative;
