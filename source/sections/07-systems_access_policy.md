@@ -74,8 +74,8 @@ Access to Luma platform is limited for all users, including but not limited to w
 
 1. The level of security assigned to a user of the production platform is based on the minimum necessary amount of data access required to carry out legitimate job responsibilities assigned to a user's job classification and/or to a user needing access to carry out treatment, payment, or healthcare operations.
 2. All access requests are treated on a "least-access principle."
-3. Luma maintains a minimum necessary approach to access to Customer data. As such, Luma, including all workforce members, does not access any ePHI except out of necessity to address Customer issues. Select set of job roles are cleared to access ePHI specifically customer success, customer support, and engineering. 
-4. Customers can add additional users to their account for access to the messaging platform. It is the Customer's responsibility to verify appropriate access. Customer will be responsible to remove additional users. 
+3. Luma maintains a minimum necessary approach to access to Customer data. As such, Luma, including all workforce members, does not access any ePHI except out of necessity to address Customer issues. Select set of job roles are cleared to access ePHI specifically customer success, customer support, and engineering.
+4. Customers can add additional users to their account for access to the messaging platform. It is the Customer's responsibility to verify appropriate access. Customer will be responsible to remove additional users.
 
 ## 7.4 Access Authorization
 
@@ -102,7 +102,7 @@ Access to Luma platform is limited for all users, including but not limited to w
 ## 7.7 Automatic Logoff
 
 1. Users are required to make the platform inaccessible by any other individual when unattended by the users (ex. by using a password protected screen saver or logging off the system).
-2. Messaging platform automatically log users off the systems after 15 minutes of inactivity. 
+2. Messaging platform automatically log users off the systems after 15 minutes of inactivity.
 3. The Security Officer pre-approves exceptions to automatic log off requirements.
 
 ## 7.8 Employee Workstation Use
@@ -116,7 +116,7 @@ All workstations at Luma are company owned, and all are laptop Apple products ru
 5. Users may not misrepresent, obscure, suppress, or replace another user's identity in transmitted or stored messages.
 6. Workstation hard drives will be encrypted using FileVault 2.0 or equivalent.
 7. All workstations have firewalls enabled to prevent unauthorized access unless explicitly granted.
-8. Workstations used for ePHI access will have iCloud enabled to allow for tracking and remote wipe out of data. 
+8. Workstations used for ePHI access will have iCloud enabled to allow for tracking and remote wipe out of data.
 
 ## 7.9 Wireless Access Use
 
@@ -161,13 +161,13 @@ Luma does not use paper records for any sensitive information. Use of paper for 
 12. If a user believes their user ID has been compromised, they are required to immediately report the incident to the Security Office.
 13. In cases where a user of the messaging platform has forgotten his/her password, the following procedure is used to reset the password.
     * The user submits a password reset request via the web to receive an email for a unique link that allows them to reset their password.
-    * Link expires in seven days. 
-14. In cases when a user of the production platform has forgotten his/her password, passwrod is reset per policy set forth by Apitble. 
+    * Link expires in seven days.
+14. In cases when a user of the production platform has forgotten his/her password, passwrod is reset per policy set forth by Apitble.
 
 ## 7.11 Customer Account Termination Procedures
 
 * Once a Customer ceases to be a Customer, as defined below, the following steps are
-1. Customer requests to cancel Luma services via email or phone. If the request is made over the phone, customer will confirm request over email. Luma can also elect to cease services if there is a compromise of the contract. 
-2. Customer's request will be reviewed by the Customer Sucess team to understand customer needs and confirm request to cancel. During this period, Customer may decide to rescind request to cancel.  
-3. If request to cancel is confirmed, all patient communications will be turned off immediately and Customer will no longer have access to Luma services unless otherwise agreed upon for these two to happen on a later date. 
-3. Data will be retained according to [Data Retention Policy §18.2](18-data_retention_policy.html#182-data-retention-policy). 
+1. Customer requests to cancel Luma services via email or phone. If the request is made over the phone, customer will confirm request over email. Luma can also elect to cease services if there is a compromise of the contract.
+2. Customer's request will be reviewed by the Customer Success team to understand customer needs and confirm request to cancel. During this period, Customer may decide to rescind request to cancel.  
+3. If request to cancel is confirmed, all patient communications will be turned off immediately and Customer will no longer have access to Luma services unless otherwise agreed upon for these two to happen on a later date.
+3. Data will be retained according to [Data Retention Policy §18.2](18-data_retention_policy.html#182-data-retention-policy).
