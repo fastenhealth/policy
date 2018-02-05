@@ -2,7 +2,7 @@
 
 Luma works with Subcontractors to assure restriction of physical access to systems used as part of the Luma Platform. Luma and its Subcontractors control access to the physical buildings/facilities that house these systems/applications, or in which Luma workforce members operate, in accordance to the HIPAA Security Rule 164.310 and its implementation specifications. Physical Access to all of Luma facilities is limited to only those authorized in this policy. In an effort to safeguard ePHi from unauthorized access, tampering, and theft, access is allowed to areas only to those persons authorized to be in them and with escorts for unauthorized persons. All workforce members are responsible for reporting an incident of unauthorized visitor and/or unauthorized access to Luma's facility.
 
-Of note, Luma does not physically house any systems used by its Platform in Luma facilities. Physical security of our Platform servers is outlined in [§1.4](#1-4-Luma-organizational-concepts).
+Of note, Luma does not physically house any systems used by its Platform in Luma facilities. The physical infrastructure environment is hosted at Amazon Web Services (AWS) including the network components and supporting network infrastructure. Luma has no physical access to the environment. 
 
 ## 10.1 Applicable Standards
 
