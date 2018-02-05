@@ -147,7 +147,7 @@ Luma does not use paper records for any sensitive information. Use of paper for 
    * a minimum length of 12 characters;
    * a 120-day password expiration;
    * account lockout after 3 invalid attempts within a 5 second period.
-4. On the production platform, password configurations are governed by rules set forth by Aptible and in additon Luma policy requires two factor authenttication.
+4. On the production platform, password configurations are governed by rules set forth by Aptible and in addition Luma policy requires two factor authentication.
 5. All system and application passwords must be stored and transmitted securely.
    * Where possible, passwords should be stored in a hashed format using a salted cryptographic hash function (SHA-256 or equivalent).
    * Passwords that must be stored in non-hashed format must be encrypted at rest pursuant to the requirements in [§17.8](17-data_integrity_policy.html#178-production-data-security).
@@ -162,7 +162,7 @@ Luma does not use paper records for any sensitive information. Use of paper for 
 13. In cases where a user of the messaging platform has forgotten his/her password, the following procedure is used to reset the password.
     * The user submits a password reset request via the web to receive an email for a unique link that allows them to reset their password.
     * Link expires in seven days.
-14. In cases when a user of the production platform has forgotten his/her password, passwrod is reset per policy set forth by Apitble.
+14. In cases when a user of the production platform has forgotten his/her password, password is reset per policy set forth by Apitble.
 
 ## 7.11 Customer Account Termination Procedures
 
