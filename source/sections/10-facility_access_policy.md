@@ -28,7 +28,7 @@ Of note, Luma does not physically house any systems used by its Platform in Luma
 4. Maintenance is controlled and conducted by authorized personnel in accordance with supplier-recommended intervals, insurance policies and the organizations maintenance program.
 5. Electronic and physical media containing covered information is securely destroyed (or the information securely removed) prior to disposal.
 6. The organization securely disposes media with sensitive information.
-7. Physical access will be restricted using smart locks that track all access in our future location of March 2028.
+7. Physical access will be restricted using smart locks that track all access in our future location of March 2018.
    * Restricted areas and facilities are locked and when unattended (where feasible).
    * Only authorized workforce members receive access to restricted areas (as determined by the Security Officer).
    * Access and keys are revoked upon termination of workforce members.

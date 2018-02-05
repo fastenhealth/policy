@@ -43,6 +43,7 @@ Luma is committed to ensuring all workforce members actively address security an
 12. Employees are required to cooperate with federal and state investigations.
     * Employees must not interfere with investigations through willful misrepresentation, omission of facts, or by the use of threats against any person.
     * Employees found to be in violation of this policy will be subject to sanctions as described in [§5.3.3](#5.3-security-officer).
+13. Termination of employee will require competing the Termination Checklist which includes return of all equipment such as laptops, badges, and keys to access the facility and restricting access to Luma systems. 
 
 ##  19.3 Issue Escalation
 

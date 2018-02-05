@@ -74,8 +74,8 @@ Access to Luma platform is limited for all users, including but not limited to w
 
 1. The level of security assigned to a user of the production platform is based on the minimum necessary amount of data access required to carry out legitimate job responsibilities assigned to a user's job classification and/or to a user needing access to carry out treatment, payment, or healthcare operations.
 2. All access requests are treated on a "least-access principle."
-3. Luma maintains a minimum necessary approach to access to Customer data. As such, Luma, including all workforce members, does not access any ePHI except out of necessity to address Customer issues. Select set of job roles are cleared to access ePHI specifically customer success, customer support, and engineering. 
-4. Customers can add additional users to their account for access to the messaging platform. It is the Customer's responsibility to verify appropriate access. Customer will be responsible to remove additional users. 
+3. Luma maintains a minimum necessary approach to access to Customer data. As such, Luma, including all workforce members, does not access any ePHI except out of necessity to address Customer issues. Select set of job roles are cleared to access ePHI specifically customer success, customer support, and engineering.
+4. Customers can add additional users to their account for access to the messaging platform. It is the Customer's responsibility to verify appropriate access. Customer will be responsible to remove additional users.
 
 ## 7.4 Access Authorization
 
@@ -102,8 +102,8 @@ Access to Luma platform is limited for all users, including but not limited to w
 ## 7.7 Automatic Logoff
 
 1. Users are required to make the platform inaccessible by any other individual when unattended by the users (ex. by using a password protected screen saver or logging off the system).
-2. Messaging platform automatically log users off the systems after 15 minutes of inactivity. 
-3. The Security Officer pre-approves exceptions to automatic log off requirements.
+2. Messaging platform automatically log users off the systems after 15 minutes of inactivity.
+3. The Security Officer pre-approves exceptions to automatic log off requirements. 
 
 ## 7.8 Employee Workstation Use
 
@@ -126,12 +126,12 @@ All workstations at Luma are company owned, and all are laptop Apple products ru
 
 ## 7.10 Employee Termination Procedures
 
-1. The Human Resources Department (or other designated department), users, and their supervisors are required to notify the Security Officer upon completion and/or termination of access needs and facilitating completion of the "Termination Checklist".
+1. The Human Resources Department (or other designated department or representative), users, and their supervisors are required to notify the Security Officer upon completion and/or termination of access needs and facilitating completion of the Termination Checklist outlined in [§19.2](#19.2-employee-policy).
 2. The Human Resources Department, users, and supervisors are required to notify the Security Officer to terminate a user's access rights if there is evidence or reason to believe the following (these incidents are also reported on an incident report and is filed with the Privacy Officer):
    * The user has been using their access rights inappropriately;
    * A user's password has been compromised (a new password may be provided to the user if the user is not identified as the individual compromising the original password);
+   3. The Security Officer will terminate users' access rights immediately upon notification, and will coordinate with the appropriate Luma employees to terminate access to any non-production systems managed by those employees.
    * An unauthorized individual is utilizing a user's User Login ID and password (a new password may be provided to the user if the user is not identified as providing the unauthorized individual with the User Login ID and password).
-3. The Security Officer will terminate users' access rights immediately upon notification, and will coordinate with the appropriate Luma employees to terminate access to any non-production systems managed by those employees.
 4. The Security Officer audits and may terminate access of users that have not logged into organization's platform/applications for an extended period of time.
 
 ## 7.11 Paper Records
@@ -160,12 +160,12 @@ Luma does not use paper records for any sensitive information. Use of paper for 
 12. If a user believes their user ID has been compromised, they are required to immediately report the incident to the Security Office.
 13. In cases where a user of the messaging platform has forgotten his/her password, the following procedure is used to reset the password.
     * The user submits a password reset request via the web to receive an email for a unique link that allows them to reset their password.
-    * Link expires in seven days. 
-14. In cases when a user of the production platform has forgotten his/her password, passwrod is reset per policy set forth by Apitble. 
+    * Link expires in seven days.
+14. In cases when a user of the production platform has forgotten his/her password, passwrod is reset per policy set forth by Apitble.
 
 ## 7.11 Customer Account Termination Procedures
 
 * Once a Customer ceases to be a Customer, as defined below, the following steps are
 1. Customer is sent a notice via email of change of standing, and given the option to reinstate account.
 2. If no response to notice in #1 above within 7 days or as defined appropriate based on Customer response, or if Customer responds they do not want to reinstate account, Customer is no longer given access to their account and all patient communications will be turned off.
-3. Data will be retained according to [Data Retention Policy §18.2](#18.2-data-retention-policy). 
+3. Data will be retained according to [Data Retention Policy §18.2](#18.2-data-retention-policy).
