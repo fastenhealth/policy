@@ -22,6 +22,7 @@ Luma is committed to ensuring all workforce members actively address security an
    * Records of training are kept for all workforce members.
    *  Upon completion of training, workforce members complete this [form](https://docs.google.com/forms/d/e/1FAIpQLSdekC7jP1f3oRsaHAGYgsGpqHLdD8J-Jm1gCPXdemHEEvnR8A/viewform?usp=sf_link).
    * Current Luma training is leveraging content created by industry leader in security Luma at [https//training.datica.com](https://training.datica.com/).
+   * Luma employees must review this [presentation] (https://docs.google.com/presentation/d/1CixWd3DLZPwl5FGI9uYa1JC412MDI4KpeNNz1kwVVy4/edit?usp=sharing)
    * Employees must complete this training before accessing production systems containing ePHI.
 2. All workforce members are granted access to formal organizational policies, which include the sanction policy for security violations.
 3. The Luma Employee Handbook clearly states the responsibilities and acceptable behavior regarding information system usage, including rules for email, Internet, mobile devices, and social media usage.
