@@ -2,7 +2,7 @@
 
 Luma has procedures to create and maintain retrievable exact copies of electronic protected health information (ePHI) stored.
 
- Data backup is an important part of the day-to-day operations of Luma. To protect the confidentiality, integrity, and availability of ePHI, complete backups are done daily to assure that data remains available when it needed and in case of a disaster. To accomplish this, Luma utilizes Apitible's backup service (https://www.aptible.com/legal/security/) which makes daily backups retained for 90 days and monthly backups retained for six years.
+ Data backup is an important part of the day-to-day operations of Luma. To protect the confidentiality, integrity, and availability of ePHI, complete backups are done daily to assure that data remains available when it needed and in case of a disaster. To accomplish this, Luma utilizes Apitible's [backup service](https://www.aptible.com/legal/security/) which makes daily backups retained for 90 days and monthly backups retained for six years.
 
 Violation of this policy and its procedures by workforce members may result in corrective disciplinary action, up to and including termination of employment.
 
