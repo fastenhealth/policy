@@ -20,8 +20,8 @@ Luma is committed to ensuring all workforce members actively address security an
 
 1. All new workforce members, including contractors, are given training on security policies and procedures, including operations security, within 30 days of employment.
    * Records of training are kept for all workforce members.
-   *  Upon completion of training, workforce members complete this [form](https://docs.google.com/a/catalyze.io/forms/d/1bmEK3TidACj6ForBqGMaINPjIckv9ht28rtkGEQsBGs/viewform?usp=send_form).
-   * Current Luma training is leveraging content created by industry leader in security Luma at [training.Luma.com](https://training.datica.com/).
+   *  Upon completion of training, workforce members complete this [form](https://docs.google.com/forms/d/e/1FAIpQLSdekC7jP1f3oRsaHAGYgsGpqHLdD8J-Jm1gCPXdemHEEvnR8A/viewform?usp=sf_link).
+   * Current Luma training is leveraging content created by industry leader in security Luma at [https//training.datica.com](https://training.datica.com/).
    * Employees must complete this training before accessing production systems containing ePHI.
 2. All workforce members are granted access to formal organizational policies, which include the sanction policy for security violations.
 3. The Luma Employee Handbook clearly states the responsibilities and acceptable behavior regarding information system usage, including rules for email, Internet, mobile devices, and social media usage.
