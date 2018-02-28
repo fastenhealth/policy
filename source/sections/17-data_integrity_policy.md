@@ -28,7 +28,7 @@ Production systems that create, receive, store, or transmit Customer data (herea
 2. Virus scanning software is run on all Production Systems for anti-virus protection.
    * Hosts are scanned daily for malicious binaries in critical system paths.
    * The malware signature database is checked hourly and automatically updated if new signatures are available.
-   * Logs of virus scans are maintained according to the requirements outlined in [§8.6](#86-audit-log-security-controls-and-backup).
+   * Logs of virus scans are maintained according to the requirements outlined in [§8.6](08-auditing_policy.html#86-audit-log-security-controls-and-backup).
 3. All Production Systems are to only be used for Luma business needs.
 
 ##  17.5 Patch Management
