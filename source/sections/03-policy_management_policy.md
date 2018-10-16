@@ -34,11 +34,11 @@ Luma implements policies and procedures to maintain compliance and integrity of 
   * Once the review is completed, the Security Officer or Privacy Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
   * If the review is approved, the Security Officer or Privacy Officer then marks the Issue as Done, adding any pertinent notes required.
   * Policy review is monitored on a quarterly basis using ClickUp reporting to assess compliance with above policy.
-7. Luma utilizes the HITRUST MyCSF framework to track compliance with the HITRUST CSF on an annual basis. Luma also tracks compliance with HIPAA. In order to track and measure adherence on an annual basis, Luma uses the following process to track HITRUST audits, both full and interim:
-  * The Security Officer initiates the HITRUST audit activity by creating an Issue in ClickUp.
-  * The Security Officer or the Privacy Officer is assigned to own and manage the HITRUST activity.
-  * Once the HITRUST activity is completed, the Security Officer approves or rejects the Issue.
+7. Luma utilizes the [Audit Program Protocol](http://www.hhs.gov/ocr/privacy/hipaa/enforcement/audit/protocol.html) from OCR (part of HHS) to track compliance with on an annual basis. In order to track and measure adherence on an annual basis, Luma uses the following process to track audits, both full and interim:
+  * The Security Officer initiates the audit activity by creating an Issue in ClickUp.
+  * The Security Officer or the Privacy Officer is assigned to own and manage the activity.
+  * Once the activity is completed, the Security Officer approves or rejects the Issue.
   * If the review is approved, the Security Officer then marks the Issue as Done, adding any pertinent notes required.
-  * Compliance with annual compliance assessments, utilizing the HITRUST CSF as a framework, is monitored on a quarterly basis using ClickUp reporting to assess compliance with above policy.
+  * Compliance with annual compliance assessments, utilizing the Audit Program Protocol from OCR as a framework, is monitored on a quarterly basis using ClickUp reporting to assess compliance with above policy.
 
 Additional documentation related to maintenance of policies is outlined in [§5.3.1](05-roles_policy.html#53-security-officer).
