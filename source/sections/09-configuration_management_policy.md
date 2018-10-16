@@ -63,4 +63,4 @@ Luma standardizes and automates configuration management through Aptible service
 
 ## 9.7 Software Release Procedures
 
-1. Software releases are treated as changes to existing systems and thus follow the procedure described in [§9.4](#9.4-changing-existing-systems).
+1. Software releases are treated as changes to existing systems and thus follow the procedure described in [§9.4](#94-changing-existing-systems).

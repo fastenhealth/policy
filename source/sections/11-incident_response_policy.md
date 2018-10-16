@@ -51,7 +51,7 @@ Luma's incident response classifies security-related events into the following c
 
 Luma employees must report any unauthorized or suspicious activity seen on production systems or associated with related communication systems (such as email or Slack). In practice this means keeping an eye out for security events, and letting the Security Officer know about any observed precursors or indications as soon as they are discovered.
 
-### ?? 11.2.1 Identification Phase
+###  11.2.1 Identification Phase
 
 1. Immediately upon observation Luma members report suspected and known Events, Precursors, Indications, and Incidents in one of the following ways:
    1. Direct report to management, the Security Officer, Privacy Officer, or other;
@@ -59,7 +59,7 @@ Luma employees must report any unauthorized or suspicious activity seen on produ
    3. Phone call;
    4. Online incident response form located [here](https://docs.google.com/a/catalyze.io/forms/d/1Hn4di9Jdw5JT8vISMh6tVUnh94VpeHucell7Ca4fKTo/viewform);
    5. Secure Chat.
-   6. ?? Anonymously through workforce members desired channels.
+   6.  Anonymously through workforce members desired channels.
 2. The individual receiving the report facilitates completion of an [Incident Identification form](sections/IH-Identification.pdf) and notifies the Security Officer (if not already done).
 3. The Security Officer determines if the issue is an Event, Precursor, Indication, or Incident.
    1. If the issue is an event, indication, or precursor the Security Officer forwards it to the appropriate resource for resolution.
@@ -143,7 +143,7 @@ The Follow-up Phase represents the review of the security incident to look for "
 
 It is important to note that the processes surrounding security incident response should be periodically reviewed and evaluated for effectiveness. This also involves appropriate training of resources expected to respond to security incidents, as well as the training of the general population regarding the Luma's expectation for them, relative to security responsibilities. The incident response plan is tested annually.
 
-## ?? 11.3 Security Incident Response Team (SIRT)
+##  11.3 Security Incident Response Team (SIRT)
 
 Current members of the Luma SIRT:
 

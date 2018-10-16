@@ -25,7 +25,7 @@ The Privacy Officer is responsible for assisting with compliance and security tr
 3. Manage relationships with customers and partners as those relationships affect security and compliance of ePHI.
 4. Assist Security Officer as needed.
 
-?? The current Luma Privacy Officer is Adnan Iqbal ([adnan@lumahealth.io](mailto:adnan@lumahealth.io)).
+ The current Luma Privacy Officer is Adnan Iqbal ([adnan@lumahealth.io](mailto:adnan@lumahealth.io)).
 
 ### 5.2.1 Workforce Training Responsibilities
 

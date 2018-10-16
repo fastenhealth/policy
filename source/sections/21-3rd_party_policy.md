@@ -21,7 +21,7 @@ Luma makes every effort to assure all 3rd party organizations are compliant and 
 
 1. Luma does not allow 3rd party access to production systems containing ePHI.
 2. All connections and data in transit between the Luma Platform and 3rd parties are encrypted end to end.
-3. ?? A standard business associate agreement with Customers and Partners is defined and includes the required security controls in accordance with the organization's security policies when deemed necessary. Additionally, responsibility is assigned in these agreements.
+3.  A standard business associate agreement with Customers and Partners is defined and includes the required security controls in accordance with the organization's security policies when deemed necessary. Additionally, responsibility is assigned in these agreements.
 4. Luma has Service Level Agreements (SLAs) with Subcontractors with an agreed service arrangement addressing liability, service definitions, security controls, and aspects of services management.
    * Subcontractors must coordinate, manage, and communicate any changes to services provided to Luma.
    * Changes to 3rd party services are classified as configuration management changes and thus are subject to the policies and procedures described in [§9](#9.-configuration-management-policy); substantial changes to services provided by 3rd parties will invoke a Risk Assessment as described in [§4.2](#4.2-risk-management-policies).

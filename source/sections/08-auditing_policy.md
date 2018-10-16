@@ -32,7 +32,7 @@ It is the policy of Luma to safeguard the confidentiality, integrity, and availa
 * 45 CFR §164.312&lpar;c&rpar;(2) - Mechanism to Authenticate ePHI
 * 45 CFR §164.312(e)(2)(i) - Integrity Controls
 
-## ?? 8.2 Auditing Policies
+##  8.2 Auditing Policies
 
 1. Responsibility for auditing information system access and activity is assigned to Luma's Security Officer. The Security Officer shall:
    * Assign the task of generating reports for audit activities to the workforce member responsible for the application, system, or network;
@@ -85,7 +85,7 @@ It is the policy of Luma to safeguard the confidentiality, integrity, and availa
    * Significant findings shall be reported immediately in a written format. Luma's security incident response form may be utilized to report a single event.
    * Routine findings shall be reported to the sponsoring leadership structure in a written report format.
 3. Reports of audit results shall be limited to internal use on a minimum necessary/need-to-know basis. Audit results shall not be disclosed externally without administrative and/or legal counsel approval.
-4. Security audits constitute an internal, confidential monitoring practice that may be included in Luma's performance improvement activities and reporting. Care shall be taken to ensure that the results of the audits are disclosed to administrative level oversight structures only and that information which may further expose organizational risk is shared with extreme caution. Generic security audit information may be included in organizational reports (individually-identifiable e PHI shall not be included in the reports).
+4. Security audits constitute an internal, confidential monitoring practice that may be included in Luma's performance improvement activities and reporting. Care shall be taken to ensure that the results of the audits are disclosed to administrative level oversight structures only and that information which may further expose organizational risk is shared with extreme caution. Generic security audit information may be included in organizational reports (individually-identifiable ePHI shall not be included in the reports).
 5. Whenever indicated through evaluation and reporting, appropriate corrective actions must be undertaken. These actions shall be documented and shared with the responsible workforce members, Customers, and/or Partners.
 6. Log review activity is monitored on a quarterly basis using Asana reporting to assess compliance with above policy.
 
@@ -125,7 +125,7 @@ It is the policy of Luma to safeguard the confidentiality, integrity, and availa
    * Available storage space.
 2. Reports summarizing audit activities shall be retained for a period of six years.
 3. Audit log data at other than the user and application level is retained as per Aptible policy for six years.
-4. User and application logging is maintained for six years. 
+4. User and application logging is maintained for six years.
 
 ## 8.10 Potential Trigger Events
 

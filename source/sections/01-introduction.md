@@ -20,15 +20,15 @@ Certain aspects of compliance cannot be inherited. Because of this, Luma Custome
 
 Mappings of HIPAA Rules to Luma controls and a mapping of what Rules are inherited by Customers are covered in [§2](#2.-hipaa-inheritance).
 
-## ?? 1.3 Requesting Audit and Compliance Reports
+## 1.3 Requesting Audit and Compliance Reports
 
 Luma, at its sole discretion, shares audit reports with customers on a case by case basis. All audit reports are shared under explicit NDA in Luma format between Luma and party to receive materials. Audit reports can be requested by Luma workforce members for Customers or directly by Luma Customers.
 
 The following process is used to request audit reports:
 
 1. Email is sent to support@lumahealth.io. In the email, please specify the type of report being requested and any required timelines for the report.
-2. Luma staff will log an Issue with the details of the request into the Customer Request Project on Asana. Asana is used to track requests status and outcomes.
+2. Luma staff will log an Issue with the details of the request into the Customer Success (under Requests) on ClickUp. ClickUp is used to track requests status and outcomes.
 3. Luma will confirm if a current NDA is in place with the party requesting the audit report. If there is no NDA in place, Luma will send one for execution.
-4. Once it has been confirmed that an NDA is executed, Luma staff will move the Asana Issue to "Under Review".
-5. The Luma Security Officer or Privacy Officer must Approve or Reject the Issue. If the Issue is rejected, Luma will notify the requesting party that we cannot share the requested report.
-4. If the Issue has been Approved, Luma will send the customer the requested audit report and complete the Asana Issue for the request.
+4. Once it has been confirmed that an NDA is executed, Luma staff will move the request to "In Progress".
+5. The Luma Security Officer or Privacy Officer must Approve or Reject the request. If the Request is rejected, Luma will notify the requesting party that we cannot share the requested report.
+4. If the Issue has been approved, Luma will send the customer the requested audit report and complete the task for the request.

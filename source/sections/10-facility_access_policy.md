@@ -1,8 +1,8 @@
-# ?? 10. Facility Access Policy
+#  10. Facility Access Policy
 
 Luma works with Subcontractors to assure restriction of physical access to systems used as part of the Luma Platform. Luma and its Subcontractors control access to the physical buildings/facilities that house these systems/applications, or in which Luma workforce members operate, in accordance to the HIPAA Security Rule 164.310 and its implementation specifications. Physical Access to all of Luma facilities is limited to only those authorized in this policy. In an effort to safeguard ePHi from unauthorized access, tampering, and theft, access is allowed to areas only to those persons authorized to be in them and with escorts for unauthorized persons. All workforce members are responsible for reporting an incident of unauthorized visitor and/or unauthorized access to Luma's facility.
 
-Of note, Luma does not physically house any systems used by its Platform in Luma facilities. Physical security of our Platform servers is outlined [in §1.4](#1.4-Luma-organizational-concepts).
+Of note, Luma does not physically house any systems used by its Platform in Luma facilities. The physical infrastructure environment is hosted at Amazon Web Services (AWS) including the network components and supporting network infrastructure. Luma has no physical access to the environment. 
 
 ## 10.1 Applicable Standards
 
@@ -20,7 +20,7 @@ Of note, Luma does not physically house any systems used by its Platform in Luma
 * 164.310(a)(2)(iii) Access Control & Validation Procedures
 * 164.310(b-c) Workstation Use & Security
 
-## ?? 10.2 Luma-Controlled Facility Access Policies
+##  10.2 Luma-Controlled Facility Access Policies
 
 1. Visitor and third party support access is supervised. All visitors are escorted.
 2. Repairs are documented and the documentation is retained.
@@ -28,7 +28,7 @@ Of note, Luma does not physically house any systems used by its Platform in Luma
 4. Maintenance is controlled and conducted by authorized personnel in accordance with supplier-recommended intervals, insurance policies and the organizations maintenance program.
 5. Electronic and physical media containing covered information is securely destroyed (or the information securely removed) prior to disposal.
 6. The organization securely disposes media with sensitive information.
-7. Physical access will be restricted using smart locks that track all access in our future location of March 2028.
+7. Physical access will be restricted using smart locks that track all access in our future location of March 2018.
    * Restricted areas and facilities are locked and when unattended (where feasible).
    * Only authorized workforce members receive access to restricted areas (as determined by the Security Officer).
    * Access and keys are revoked upon termination of workforce members.
