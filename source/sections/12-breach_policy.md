@@ -54,7 +54,7 @@ In the case of a breach, Luma shall notify all affected Customers. It is the res
 
 ##  12.3 Luma Messaging Platform Customer Responsibilities
 
-1.  The Luma Customer that accesses, maintains, retains, modifies, records, stores, destroys, or otherwise holds, uses, or discloses unsecured ePHI shall, without unreasonable delay and in no case later than 60 calendar days after discovery of a breach, notify Luma of such breach.  Customer takes responsibility for any ePHI communication over non secure channels. Customer takes responsibility of ensuring messaging content is appropriate for the communication channel. The Customer shall provide Luma with the following information:
+1. The Luma Customer that accesses, maintains, retains, modifies, records, stores, destroys, or otherwise holds, uses, or discloses unsecured ePHI shall, without unreasonable delay and in no case later than 60 calendar days after discovery of a breach, notify Luma of such breach.  Customer takes responsibility for any ePHI communication over non secure channels. Customer takes responsibility of ensuring messaging content is appropriate for the communication channel. The Customer shall provide Luma with the following information:
    * A description of what happened, including the date of the breach, the date of the discovery of the breach, and the number of records and Customers affected, if known.
    * A description of the types of unsecured protected health information that were involved in the breach (such as full name, Social Security number, date of birth, home address, account number, etc.), if known.
    * A description of the action taken with regard to notification of patients regarding the breach.
