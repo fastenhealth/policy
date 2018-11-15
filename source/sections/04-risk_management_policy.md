@@ -21,7 +21,7 @@ This policy establishes the scope, objectives, and procedures of Luma's informat
 1. It is the policy of Luma to conduct thorough and timely risk assessments of the potential threats and vulnerabilities to the confidentiality, integrity, and availability of electronic protected health information (ePHI) (and other confidential and proprietary electronic information) it stores, transmits, and/or processes for its Customers and to develop strategies to efficiently and effectively mitigate the risks identified in the assessment process as an integral part of the Luma's information security program.
 2. Risk analysis and risk management are recognized as important components of Luma's corporate compliance program and information security program in accordance with the Risk Analysis and Risk Management implementation specifications within the Security Management standard and the evaluation standards set forth in the HIPAA Security Rule, 45 CFR 164.308(a)(1)(ii)(A), 164.308(a)(1)(ii)(B), 164.308(a)(1)(i), and 164.308(a)(8).
    1. Risk assessments are done throughout product life cycles:
-   2.  Before the integration of new system technologies and before changes are made to Luma physical safeguards; and
+   2.  Before the integration of new system technologies and before changes are made to Luma physical safeguards
       * These changes do not include routine updates to existing systems, deployments of new systems created based on previously configured systems, deployments of new Customers, or new code developed for operations and management of the Luma Platform.
    3.  While making changes to Luma physical equipment and facilities that introduce new, untested configurations.
    4. Luma performs periodic technical and non-technical assessments of the security rule requirements as well as in response to environmental or operational changes affecting the security of ePHI.
@@ -35,12 +35,12 @@ This policy establishes the scope, objectives, and procedures of Luma's informat
 6. The implementation, execution, and maintenance of the information security risk analysis and risk management process is the responsibility of Luma's Security Officer (or other designated employee), and the identified Risk Management Team.
 7. All risk management efforts, including decisions made on what controls to put in place as well as those to not put into place, are documented and the documentation is maintained for six years.
 8. The details of the Risk Management Process, including risk assessment, discovery, and mitigation, are outlined in detail below. The process is tracked, measured, and monitored using the following procedures:
-  1. The Security Officer or the Privacy Officer initiates the Risk Management Procedures by creating an Issue in the Asana Privacy and Security Project.
+  1. The Security Officer or the Privacy Officer initiates the Risk Management Procedures by creating an Issue in the Privacy and Security Project on ClickUp.
   2. The Security Officer or the Privacy Officer is assigned to carry out the Risk Management Procedures.
-  3. All findings are documented in approved spreadsheet that is linked to the Issue.
+  3. All findings are documented in approved spreadsheet that is linked to the Issue. Luma leverages [NIST HSR Toolkit](https://csrc.nist.gov/projects/security-content-automation-protocol/hipaa) and [HHS Security Risk Assessment Tool](https://www.healthit.gov/topic/privacy-security-and-hipaa/security-risk-assessment) provided jointly by The Office of the National Coordinator for Health Information Technology (ONC) and the HHS Office for Civil Rights (OCR).
   4. Once the Risk Management Procedures are complete, along with corresponding documentation, the Security Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
   5. If the review is approved, the Security Officer then marks the Issue as Done, adding any pertinent notes required.
-9. The Risk Management Procedure is monitored on a quarterly basis using Asana reporting to assess compliance with above policy.
+9. The Risk Management Procedure is monitored on a quarterly basis using ClickUp reporting to assess compliance with above policy.
 
 ## 4.3 Risk Management Procedures
 
