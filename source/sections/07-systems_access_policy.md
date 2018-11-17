@@ -69,6 +69,8 @@ Access to Luma platform is limited for all users, including but not limited to w
     * sessions are automatically disconnected after 30 minutes of inactivity.
 13. In cases of increased risk or known attempted unauthorized access, immediate steps are taken by the Security and Privacy Officer to limit access and reduce risk of unauthorized access.
 14. Direct system to system, system to application, and application to application authentication and authorization are limited and controlled to restrict access.
+15. Direct access to systems continaing ePHI is not possible as controlled by Aptible. Backend access via SSH to a bastion layer is managed with granular, role-based API permissions and 2-factor authentication with FIDO U2F security key support.
+
 
 ## 7.3 Workforce Clearance
 
