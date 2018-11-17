@@ -78,6 +78,7 @@ Access to Luma platform is limited for all users, including but not limited to w
 2. All access requests are treated on a "least-access principle."
 3. Luma maintains a minimum necessary approach to access to Customer data. As such, Luma, including all workforce members, does not access any ePHI except out of necessity to address Customer issues. Select set of job roles are cleared to access ePHI specifically customer success, customer support, and engineering.
 4. Customers can add additional users to their account for access to the messaging platform. It is the Customer's responsibility to verify appropriate access. Customer will be responsible to remove additional users.
+5. Prior to employment, all workforce must verify the identity and legal authorization to work via an I-9 form. 
 
 ## 7.4 Access Authorization
 
