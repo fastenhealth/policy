@@ -6,7 +6,7 @@ Luma has procedures to create and maintain retrievable exact copies of electroni
 
 Violation of this policy and its procedures by workforce members may result in corrective disciplinary action, up to and including termination of employment.
 
-Of note, Luma does not physically house any systems used by its Platform in Luma facilities. The physical infrastructure environment is hosted at Amazon Web Services (AWS) including the network components and supporting network infrastructure. Luma has no physical access to the environment.
+Of note, Luma does not physically house any systems used by its Platform in Luma facilities. The physical infrastructure environment is hosted at Amazon Web Services (AWS) including the network components and supporting network infrastructure. Luma does not own any equipment which houses ePHI. 
 
 ## 6.1 Applicable Standards
 
