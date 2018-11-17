@@ -121,6 +121,8 @@ All workstations at Luma are company owned, and all are laptop Apple products ru
 7. All workstations have firewalls enabled to prevent unauthorized access unless explicitly granted.
 8. Workstations used for ePHI access will have iCloud enabled to allow for tracking and remote wipe out of data.
 9. Workstations used for ePHI access will have anti-virus installed. 
+10. Workstations must have lockout enabled after 5 minutes of no use. The lockout screen requires the user to log in. 
+11. Workstations during work hours must remain at the facility whose access is restricted via card access. 
 
 ## 7.9 Wireless Access Use
 
