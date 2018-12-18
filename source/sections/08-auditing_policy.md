@@ -38,7 +38,7 @@ It is the policy of Luma to safeguard the confidentiality, integrity, and availa
    * Assign the task of generating reports for audit activities to the workforce member responsible for the application, system, or network;
    * Assign the task of reviewing the audit reports to the workforce member responsible for the application, system, or network, the Privacy Officer, or any other individual determined to be appropriate for the task;
    * Organize and provide oversight to a team structure charged with audit compliance activities (e.g., parameters, frequency, sample sizes, report formats, evaluation, follow-up, etc.).
-   * All connections to Luma are monitored. Access is limited to certain services, ports, and destinations. Exceptions to these rules, if created, are reviewed on an annual basis.
+   * All connections to Luma are monitored. Access is limited to certain services, ports, and destinations. Exceptions to these rules, if created, are reviewed on a monthly basis.
 2. Luma's auditing processes shall address access and activity at the following levels listed below. Auditing processes may address date and time of each log-on attempt, date and time of devices used, functions performed, etc.
    * User: User level audit trails generally monitor and log all commands directly initiated by the user, all identification and authentication attempts, and data and services accessed.
    * Application: Application level audit trails generally monitor and log all user activities, including data accessed and modified and specific actions.
