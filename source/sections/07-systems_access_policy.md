@@ -153,6 +153,7 @@ Luma does not use paper records for any sensitive information. Use of paper for 
    * a minimum length of 12 characters;
    * a 120-day password expiration;
    * account lockout after 3 invalid attempts within a 5 second period.
+   * 2 factor authentication is available via third party mobile apps such as Authy
 4. On the production platform, password configurations are governed by rules set forth by Aptible and in addition Luma policy requires two factor authentication.
 5. All system and application passwords must be stored and transmitted securely.
    * Where possible, passwords should be stored in a hashed format using a salted cryptographic hash function (SHA-256 or equivalent).
