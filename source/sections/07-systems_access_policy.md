@@ -150,7 +150,7 @@ Luma does not use paper records for any sensitive information. Use of paper for 
 1. User IDs and passwords are used to control access to Luma systems and may not be disclosed to anyone for any reason.
 2. Users may not allow anyone, for any reason, to have access to any portion of the platform using another user's unique user ID and password.
 3. On the messaging platform, password configurations are set to require:
-   * a minimum length of 12 characters;
+   * a minimum length of 12 characters; at least one in 3 of 4 character sets: upper/lower case, numbers, symbols
    * a 120-day password expiration;
    * account lockout after 3 invalid attempts within a 5 second period.
    * 2 factor authentication is available via third party mobile apps such as Authy
