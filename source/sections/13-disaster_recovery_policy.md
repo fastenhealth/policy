@@ -112,6 +112,9 @@ The following procedures are for recovering the Luma infrastructure at the alter
 
 Recovery Goal: The goal is to rebuild Luma infrastructure to a production state.
 
+The critical systems are: scheduler-service, integrator-service, socket-service, rest-service, notification-service, reminder-service
+cancellation-service, shortener-service, and chat-service
+
  The tasks outlines below are not sequential and some can be run in parallel.
 
 1. Contact Partners and Customers affected - Web Services
