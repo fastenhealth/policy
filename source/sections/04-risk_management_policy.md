@@ -144,4 +144,4 @@ Maintain documentation of all risk assessment, risk management, and risk mitigat
 ## 4.5 Annual Risk Assessment
 
 * 2.9.2018 - Internal Risk Assessment using NIST HIPAA Security Toolkit  https://docs.google.com/spreadsheets/d/1Lmk7TDfVN4Vtf2ivbJmaM5cmV3SpeLg3QcjWIuHZetI/edit?usp=sharing
-* 11.28/2018 - Focal Point Rsik Assessemnt https://drive.google.com/file/d/1Bri_9cN_zYHbGkUfUKUy_ia8eGUAyGXw/view?usp=sharing
+* 11.28/2018 - Focal Point Rsik Assessement https://drive.google.com/file/d/1Bri_9cN_zYHbGkUfUKUy_ia8eGUAyGXw/view?usp=sharing
