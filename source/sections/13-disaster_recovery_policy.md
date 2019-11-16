@@ -112,14 +112,13 @@ The following procedures are for recovering the Luma infrastructure at the alter
 
 Recovery Goal: The goal is to rebuild Luma infrastructure to a production state.
 
-The critical systems are scheduler-service, integrator-service, socket-service, rest-service, notification-service, reminder-service
-cancellation-service, shortener-service, and chat-service
+The critical systems are databases, web-services, message brokers, webhook services and distributed cache infrastructure  
 
  The tasks outlines below are not sequential and some can be run in parallel.
 
 1. Contact Partners and Customers affected - Web Services
 2. Assess damage to the environment - Web Services
-3. Begin replication of new environment using automated and tested scripts, currently Chef and Salt. At this point it is determined whether to recover in Aptible versus other secure stack provider. - Dev Ops
+3. Begin recovery of new environment. At this point it is determined whether to recover in Aptible versus other secure stack provider. - Dev Ops
 4. Test new environment using pre-written tests - Web Services
 5. Test logging, security, and alerting functionality - Dev Ops
 6. Assure systems are appropriately patched and up to date. - Dev Ops
