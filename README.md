@@ -38,5 +38,5 @@ These policies have been written with modern, cloud-based technology vendors in 
 * [Approved Tools Policy](source/sections/20-approved_tools_policy.md)
 * [3rd Party Policy](source/sections/21-3rd_party_policy.md)
 * [Key Definitions](source/sections/22-key_definitions.md)
-* [Luma HIPAA Business Associate Agreement (“BAA”)](source/sections/23-datica_hipaa_business_associate_agreement.md)
+* [Luma HIPAA Business Associate Agreement (“BAA”)](source/sections/23-luma_hipaa_business_associate_agreement.md)
 * [HIPAA Mappings to Luma Controls](source/sections/24-hipaa_mapping_to_luma_controls.md)
