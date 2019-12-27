@@ -38,5 +38,5 @@ Luma makes every effort to assure all 3rd party organizations are compliant and 
      4. Once the review is completed and documented, the Security Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
 9. Regular review is conducted as required by SLAs to assure security and compliance. These reviews include reports, audit trails, security events, operational issues, failures and disruptions, and identified issues are investigated and resolved in a reasonable and timely manner.
 10. Any changes to Partner and Subcontractor services and systems are reviewed before implementation.
-11. For all partners, Luma reviews activity annually to assure partners are in line with SLAs in contracts with Luma.
-12. SLA review is monitored on a quarterly basis using Asana reporting to assess compliance with above policy.
+11. For all partners, Luma reviews activity annually to assure partners are in line with SLAs in contracts with Luma. This done managed through Blissfully. 
+12. SLA review is monitored on a quarterly basis reporting to assess compliance with above policy.
