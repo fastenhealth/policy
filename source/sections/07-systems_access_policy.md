@@ -34,13 +34,14 @@ Access to Luma platform is limited for all users, including but not limited to w
 ## 7.2 Access Establishment and Modification
 
 1. Requests for access to Luma production systems is made formally using the following process:
-  1. A Luma workforce member initiates the access request via the member's supervisor by a formal request on Slack.
+   1. A Luma workforce member initiates the access request our issue tracking software via a dedicated queue entitled "Access Requests."
      * User identities must be verified prior to granting access to new accounts.
      * Identity verification must be done in person where possible; for remote employees, identities must be verified over the phone.
      * For new accounts, the method used to verify the user's identity must be recorded on the Issue.
-  2. The Head of Engineering or his/her representative under the auspices of the Security Officer or Privacy Officer will grant access to systems as dictated by the employee's job title. If additional access is required outside of the minimum necessary to perform job functions, the requester must include a description of why the additional access is required as part of the access request.
-  3. Once the review is completed, the Security Officer or Privacy Officer or a representative approves or rejects the request. If the request is rejected, it goes back for further review and documentation.
-  4. If the review is approved, the Security Officer or Privacy Officer confirms this on Slack, adding any pertinent notes required. The Security Officer or Privacy Officer or a representative then grants requested access.
+   2. The workforce member's direct manager will indicate on the request that it has their approval and is pertinent to the employee's job function.
+   2. The Head of Engineering or his/her representative under the auspices of the Security Officer or Privacy Officer will grant access to systems as dictated by the employee's job title. If additional access is required outside of the minimum necessary to perform job functions, the requester must include a description of why the additional access is required as part of the access request.
+   3. Once the review is completed, the Security Officer or Privacy Officer or a representative approves or rejects the request. If the request is rejected, it goes back for further review and documentation.
+   4. If the review is approved, the Security Officer or Privacy Officer confirms this on the reques, adding any pertinent notes required. The Security Officer or Privacy Officer or a representative then grants requested access.
      * New accounts will be created with a temporary secure password that meets all requirements from [§7.12](#712-password-management), which must be changed on the initial login.
      * All password exchanges must occur over an authenticated channel.
      * For non-production systems, access grants are accomplished by leveraging the access control mechanisms built into those systems. Account management for non-production systems may be delegated to a Luma employee at the discretion of the Security Officer or Privacy Officer.
