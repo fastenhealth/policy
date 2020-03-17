@@ -48,13 +48,13 @@ Luma is committed to ensuring all workforce members actively address security an
 
 ##  19.3 Issue Escalation
 
-Luma workforce members are to escalate issues using the procedures outlined in the Employee Handbook. Issues that are brought to the Escalation Team are assigned an owner. The membership of the Escalation Team is maintained by the Chief Executive Officer.
+Luma workforce members are to escalate issues using the procedures outlined in the Employee Handbook. Issues that are brought to the Escalation Team are assigned an owner. The membership of the Escalation Team is maintained by the Chief Executive Officer. The eomployee can do so via an anonymous form: https://forms.gle/8ZTWwTSdYwyq5wws5
 
 Security incidents, particularly those involving ePHI, are handled using the process described in [§11.2](#11.2-incident-management-policies). If the incident involves a breach of ePHI, the Security Officer will manage the incident using the process described in [§12.2](#12.2-Luma-breach-policy). Refer to [§11.2](#11.2-incident-management-policies) for a list of sample items that can trigger Luma's incident response procedures; if you are unsure whether the issue is a security incident, contact the Security Officer immediately.
 
 It is the duty of that owner to follow the process outlined below:
 
-1. Create an Issue in the Asana Compliance Review Activity (CRA) Project.
+1. Create an Issue in the Click Up Compliance Review Activity (CRA) Project.
 2. The Issue is investigated, documented, and, when a conclusion or remediation is reached, it is moved to Review.
 3. The Issue is reviewed by another member of the Escalation Team. If the Issue is rejected, it goes back for further evaluation and review.
 4. If the Issue is approved, it is marked as Done, adding any pertinent notes required.
