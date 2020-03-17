@@ -58,4 +58,4 @@ It is the duty of that owner to follow the process outlined below:
 2. The Issue is investigated, documented, and, when a conclusion or remediation is reached, it is moved to Review.
 3. The Issue is reviewed by another member of the Escalation Team. If the Issue is rejected, it goes back for further evaluation and review.
 4. If the Issue is approved, it is marked as Done, adding any pertinent notes required.
-5. The workforce member that initiated the process is notified of the outcome via email.
+5. The workforce member that initiated the process is notified of the outcome via email or Slack. If it anonymous, this will be comminuacted more boradly if deemed by the Escalation Team to be needed. 
