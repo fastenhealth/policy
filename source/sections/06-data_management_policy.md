@@ -2,7 +2,7 @@
 
 Luma has procedures to create and maintain retrievable exact copies of electronic protected health information (ePHI) stored.
 
- Data backup is an important part of the day-to-day operations of Luma. To protect the confidentiality, integrity, and availability of ePHI, complete backups are done daily to assure that data remains available when it needed and in case of a disaster. To accomplish this, Luma utilizes Apitible's [backup service](https://www.aptible.com/legal/security/) which makes daily backups retained for 90 days and monthly backups retained for six years.
+ Data backup is an important part of the day-to-day operations of Luma. To protect the confidentiality, integrity, and availability of ePHI, complete backups are done daily to assure that data remains available when it needed and in case of a disaster. To accomplish this, Luma utilizes Apitible's [backup service](https://www.aptible.com/documentation/deploy/reference/databases/backups.html) which makes daily backups retained for 90 days and monthly backups retained for six years. Backups are copied to 2 geographically redundant regions as detailed in the prior link. 
 
 Violation of this policy and its procedures by workforce members may result in corrective disciplinary action, up to and including termination of employment.
 
@@ -22,9 +22,9 @@ Of note, Luma does not physically house any systems used by its Platform in Luma
 
 ##  6.2 Backup Policy and Procedures
 
-1. Perform daily snapshot backups of all systems that process, store, or transmit ePHI for Luma Customers.
+1. Perform daily snapshot backups of all systems that process, store, or transmit ePHI for Luma Customers as automated by Aptible's Backup Service.
 2.  The Luma Ops Team is designated to be in charge of backups.
-3.  Dev Ops Team members are trained and assigned to complete backups and manage the backup media.
+3.  Dev Ops Team members are trained and assigned to complete backups if deemed necessary beyond the automated backups as above. This is managed through the Aptible dashboard. 
 4. Document backups
    * Name of the system
    * Date & time of backup
