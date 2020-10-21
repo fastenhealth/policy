@@ -19,28 +19,28 @@ This policy establishes the scope, objectives, and procedures of Luma's informat
 ## 4.2 Risk Management Policies
 
 1. It is the policy of Luma to conduct thorough and timely risk assessments of the potential threats and vulnerabilities to the confidentiality, integrity, and availability of electronic protected health information (ePHI) (and other confidential and proprietary electronic information) it stores, transmits, and/or processes for its Customers and to develop strategies to efficiently and effectively mitigate the risks identified in the assessment process as an integral part of the Luma's information security program.
-2. Risk analysis and risk management are recognized as important components of Luma's corporate compliance program and information security program in accordance with the Risk Analysis and Risk Management implementation specifications within the Security Management standard and the evaluation standards set forth in the HIPAA Security Rule, 45 CFR 164.308(a)(1)(ii)(A), 164.308(a)(1)(ii)(B), 164.308(a)(1)(i), and 164.308(a)(8).
+1. Risk analysis and risk management are recognized as important components of Luma's corporate compliance program and information security program in accordance with the Risk Analysis and Risk Management implementation specifications within the Security Management standard and the evaluation standards set forth in the HIPAA Security Rule, 45 CFR 164.308(a)(1)(ii)(A), 164.308(a)(1)(ii)(B), 164.308(a)(1)(i), and 164.308(a)(8).
    1. Risk assessments are done throughout product life cycles:
-   2.  Before the integration of new system technologies and before changes are made to Luma physical safeguards
+   1. Before the integration of new system technologies and before changes are made to Luma physical safeguards
       * These changes do not include routine updates to existing systems, deployments of new systems created based on previously configured systems, deployments of new Customers, or new code developed for operations and management of the Luma Platform.
-   3.  While making changes to Luma physical equipment and facilities that introduce new, untested configurations.
-   4. Luma performs periodic technical and non-technical assessments of the security rule requirements as well as in response to environmental or operational changes affecting the security of ePHI.
-3. Luma implements security measures sufficient to reduce risks and vulnerabilities to a reasonable and appropriate level to:
+   1. While making changes to Luma physical equipment and facilities that introduce new, untested configurations.
+   1. Luma performs periodic technical and non-technical assessments of the security rule requirements as well as in response to environmental or operational changes affecting the security of ePHI.
+1. Luma implements security measures sufficient to reduce risks and vulnerabilities to a reasonable and appropriate level to:
    1. Ensure the confidentiality, integrity, and availability of all ePHI Luma receives, maintains, processes, and/or transmits for its Customers;
-   2. Protect against any reasonably anticipated threats or hazards to the security or integrity of Customer ePHI;
-   3. Protect against any reasonably anticipated uses or disclosures of Customer ePHI that are not permitted or required; and
-   4. Ensure compliance by all workforce members.
-4. Any risk remaining (residual) after other risk controls have been applied, requires sign off by the senior management and Luma's Security Officer.
-5. All Luma workforce members are expected to fully cooperate with all persons charged with doing risk management work, including contractors and audit personnel. Any workforce member that violates this policy will be subject to disciplinary action based on the severity of the violation, as outlined in the Luma Roles Policy.
-6. The implementation, execution, and maintenance of the information security risk analysis and risk management process is the responsibility of Luma's Security Officer (or other designated employee), and the identified Risk Management Team.
-7. All risk management efforts, including decisions made on what controls to put in place as well as those to not put into place, are documented and the documentation is maintained for six years.
-8. The details of the Risk Management Process, including risk assessment, discovery, and mitigation, are outlined in detail below. The process is tracked, measured, and monitored using the following procedures:
-  1. The Security Officer or the Privacy Officer initiates the Risk Management Procedures by creating an Issue in the Privacy and Security Project on ClickUp.
-  2. The Security Officer or the Privacy Officer is assigned to carry out the Risk Management Procedures.
-  3. All findings are documented in approved spreadsheet that is linked to the Issue. Luma leverages [NIST HSR Toolkit](https://csrc.nist.gov/projects/security-content-automation-protocol/hipaa) and [HHS Security Risk Assessment Tool](https://www.healthit.gov/topic/privacy-security-and-hipaa/security-risk-assessment) provided jointly by The Office of the National Coordinator for Health Information Technology (ONC) and the HHS Office for Civil Rights (OCR).
-  4. Once the Risk Management Procedures are complete, along with corresponding documentation, the Security Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
-  5. If the review is approved, the Security Officer then marks the Issue as Done, adding any pertinent notes required.
-9. The Risk Management Procedure is monitored on a quarterly basis using ClickUp reporting to assess compliance with above policy.
+   1. Protect against any reasonably anticipated threats or hazards to the security or integrity of Customer ePHI;
+   1. Protect against any reasonably anticipated uses or disclosures of Customer ePHI that are not permitted or required; and
+   1. Ensure compliance by all workforce members.
+1. Any risk remaining (residual) after other risk controls have been applied, requires sign off by the senior management and Luma's Security Officer.
+1. All Luma workforce members are expected to fully cooperate with all persons charged with doing risk management work, including contractors and audit personnel. Any workforce member that violates this policy will be subject to disciplinary action based on the severity of the violation, as outlined in the Luma Roles Policy.
+1. The implementation, execution, and maintenance of the information security risk analysis and risk management process is the responsibility of Luma's Security Officer (or other designated employee), and the identified Risk Management Team.
+1. All risk management efforts, including decisions made on what controls to put in place as well as those to not put into place, are documented and the documentation is maintained for six years.
+1. The details of the Risk Management Process, including risk assessment, discovery, and mitigation, are outlined in detail below. The process is tracked, measured, and monitored using the following procedures:
+   1. The Security Officer or the Privacy Officer initiates the Risk Management Procedures by creating an Issue in the Privacy and Security Project on ClickUp.
+   1. The Security Officer or the Privacy Officer is assigned to carry out the Risk Management Procedures.
+   1. All findings are documented in approved spreadsheet that is linked to the Issue. Luma leverages [NIST HSR Toolkit](https://csrc.nist.gov/projects/security-content-automation-protocol/hipaa) and [HHS Security Risk Assessment Tool](https://www.healthit.gov/topic/privacy-security-and-hipaa/security-risk-assessment) provided jointly by The Office of the National Coordinator for Health Information Technology (ONC) and the HHS Office for Civil Rights (OCR).
+   1. Once the Risk Management Procedures are complete, along with corresponding documentation, the Security Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
+   1. If the review is approved, the Security Officer then marks the Issue as Done, adding any pertinent notes required.
+1. The Risk Management Procedure is monitored on a quarterly basis using ClickUp reporting to assess compliance with above policy.
 
 ## 4.3 Risk Management Procedures
 
@@ -129,11 +129,11 @@ Risk mitigation involves prioritizing, evaluating, and implementing the appropri
   * If risk reduction expectations are not met, then repeat all or a part of the risk management process so that additional controls needed to lower risk to an acceptable level can be identified.
   * Output - Residual Risk documentation
 
-###  4.3.3 Risk Management Schedule
+### 4.3.3 Risk Management Schedule
 
 The two principle components of the risk management process - risk assessment and risk mitigation - will be carried out according to the following schedule to ensure the continued adequacy and continuous improvement of Luma's information security program:
 
-*  Scheduled Basis - an overall risk assessment of Luma's information system infrastructure will be conducted annually. The assessment process should be completed in a timely fashion so that risk mitigation strategies can be determined and included in the corporate budgeting process.
+* Scheduled Basis - an overall risk assessment of Luma's information system infrastructure will be conducted annually. The assessment process should be completed in a timely fashion so that risk mitigation strategies can be determined and included in the corporate budgeting process.
 * Throughout a System's Development Life Cycle - from the time that a need for a new, untested information system configuration and/or application is identified through the time it is disposed of, ongoing assessments of the potential threats to a system and its vulnerabilities should be undertaken as a part of the maintenance of the system.
 * As Needed - the Security Officer (or other designated employee) or Risk Management Team may call for a full or partial risk assessment in response to changes in business strategies, information technology, information sensitivity, threats, legal liabilities, or other significant factors that affect Luma's Platform.
 

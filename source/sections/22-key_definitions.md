@@ -40,7 +40,7 @@
 
 * *Event*: An event is defined as an occurrence that does not constitute a serious adverse effect on Luma, its operations, or its Customers, though it may be less than optimal. Examples of events include, but are not limited to:
   * A hard drive malfunction that requires replacement;
-  *  Systems become unavailable due to power outage that is non-hostile in nature, with redundancy to assure ongoing availability of data;
+  * Systems become unavailable due to power outage that is non-hostile in nature, with redundancy to assure ongoing availability of data;
   * Accidental lockout of an account due to incorrectly entering a password multiple times.
 
 * *Hardware (or hard drive)*: Any computing device able to create and store ePHI.
@@ -63,7 +63,7 @@
 
 * *Messaging*: API-based services to deliver and receive SMS messages.
 
-* *Messaging Platform*: This encompasses the software as a service Luma provides to customers which includes appointment reminders, cancellation management, referral management, feedback, and the web portal to access the service. This is synonymous to Luma Services. 
+* *Messaging Platform*: This encompasses the software as a service Luma provides to customers which includes appointment reminders, cancellation management, referral management, feedback, and the web portal to access the service. This is synonymous to Luma Services.
 
 * *Minimum Necessary Information*: Protected health information that is the minimum necessary to accomplish the intended purpose of the use, disclosure, or request. The "minimum necessary" standard applies to all protected health information in any form.
 
