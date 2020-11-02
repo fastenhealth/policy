@@ -1,1 +1,12 @@
-theme: jekyll-theme-minimal
+logo: logo-high-res.png
+title: "Luma Health Policies"
+remote_theme: pmarsceill/just-the-docs
+search_enabled: true
+aux_links:
+  "lumahealth.io":
+    - "https://www.lumahealth.io"
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y at %I:%M %p"
+back_to_top: true
+back_to_top_text: "Back to top"
+footer_content: 'Copyright &copy; 2020 Luma Health. <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA</a>.'
