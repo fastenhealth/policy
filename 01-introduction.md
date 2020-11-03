@@ -1,6 +1,6 @@
 ---
 nav_order: 1
-last_updated: Tue Oct 16 08:39:41 2018 -0700
+last_modified_date: "2018-10-16"
 ---
 
 # 1. Introduction
