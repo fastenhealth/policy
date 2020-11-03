@@ -1,5 +1,6 @@
 ---
 nav_order: 2
+last_modified_date: Tue Jan 9 13:16:54 2018 -0800
 ---
 
 # 2. HIPAA Inheritance
