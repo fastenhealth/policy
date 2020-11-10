@@ -37,13 +37,13 @@ Luma is committed to ensuring all workforce members actively address security an
 1. All new workforce members are given HIPAA training within 30 days of beginning employment. Training includes HIPAA reporting requirements, including the ability to anonymously report security incidents, and the levels of compliance and obligations for Luma and its Customers and Partners.
 1. All remote (teleworking) workforce members are trained on the risks, the controls implemented, their responsibilities, and sanctions associated with violation of policies. Remote workforce are not given access to ePHI data.
 1. Employees may only use Luma-purchased and -owned workstations for accessing production systems with access to ePHI data.
-   * Any workstations used to access production systems must be configured as prescribed in [§7.8](#7.8-employee-workstation-use).
+   * Any workstations used to access production systems must be configured as prescribed in [§7.8](07-systems_access_policy.html#78-employee-workstation-use).
    * Any workstations used to access production systems must have virus protection software installed, configured, and enabled.
    * Luma may monitor access and activities of all users on workstations and production systems in order to meet auditing policy requirements ([§8](#8.-auditing-policy)).
-1. Access to internal Luma systems can be requested using the procedures outlined in [§7.2](#7.2-access-establishment-and-modification). All requests for access must be granted by the Luma Security Officer.
-1. Request for modifications of access for any Luma employee can be made using the procedures outlined in [§7.2](#7.2-access-establishment-and-modification).
+1. Access to internal Luma systems can be requested using the procedures outlined in [§7.2](07-systems_access_policy.html#72-access-establishment-and-modification). All requests for access must be granted by the Luma Security Officer.
+1. Request for modifications of access for any Luma employee can be made using the procedures outlined in [§7.2](07-systems_access_policy.html#72-access-establishment-and-modification).
 1. Luma employees are strictly forbidden from downloading any ePHI to their workstations.
-    * Restricting transfers of ePHI is enforced through technical controls as described in [§7.13](#7.13-access-to-ephi).
+    * Restricting transfers of ePHI is enforced through technical controls as described in [§7.3](07-systems_access_policy.html#72-access-establishment-and-modification).
     * Employees found to be in violation of this policy will be subject to sanctions as described in [§5.3.3](05-roles_policy.html#533-sanctions-of-workforce-responsibilities).
 1. Employees are required to cooperate with federal and state investigations.
     * Employees must not interfere with investigations through willful misrepresentation, omission of facts, or by the use of threats against any person.
@@ -54,7 +54,7 @@ Luma is committed to ensuring all workforce members actively address security an
 
 Luma workforce members are to escalate issues using the procedures outlined in the Employee Handbook, and can do so via an [anonymous form](https://forms.gle/8ZTWwTSdYwyq5wws5). Issues that are raised are brought to the Escalation Team and assigned an owner. The membership of the Escalation Team is maintained by the Chief Executive Officer.
 
-Security incidents, particularly those involving ePHI, are handled using the process described in [§11.2](#11.2-incident-management-policies). If the incident involves a breach of ePHI, the Security Officer will manage the incident using the process described in [§12.2](#12.2-Luma-breach-policy). Refer to [§11.2](#11.2-incident-management-policies) for a list of sample items that can trigger Luma's incident response procedures; if you are unsure whether the issue is a security incident, contact the Security Officer immediately.
+Security incidents, particularly those involving ePHI, are handled using the process described in [§11.2](11-incident_response_policy.html#112-incident-management-policies). If the incident involves a breach of ePHI, the Security Officer will manage the incident using the process described in [§12.2](12-breach_policy.html#122-luma-breach-policy). Refer to [§11.2](11-incident_response_policy.html#112-incident-management-policies) for a list of sample items that can trigger Luma's incident response procedures; if you are unsure whether the issue is a security incident, contact the Security Officer immediately.
 
 It is the duty of that owner to follow the process outlined below:
 
