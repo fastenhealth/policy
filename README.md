@@ -6,7 +6,7 @@ HIPAA compliance really has two halves. The first half includes all technical gu
 
 The second half of HIPAA is focused on administrative and organizational activities. This includes signing Business Associate Agreements (BAAs), managing company policies like training, among other things. Crafting company policies that align with HIPAA administrative guidelines are straightforward, but an immense burden.
 
-## How we created these policies? 
+## How we created these policies?
 
 As a company who handles ePHI, it's critical we maintain and publish your own policies. HIPAA compliance is complicated, but it doesn't have to be. In order to assure the utmost completeness of our policies, we have adopted policies from an industry leader in HIPAA compliance [Datica](htts://datica.com), healthcare's trusted HITRUST CSF Certified digital health platform.
 

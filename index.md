@@ -1,5 +1,6 @@
 ---
 nav_exclude: true
+last_modified_date: Sun Mar 14 04:03:51 2021 -0700
 ---
 
 # Luma HIPAA Compliance Policies
@@ -20,27 +21,27 @@ These policies have been written with modern, cloud-based technology vendors in 
 
 ### Policy Index
 
-* [Introduction](policy_docs/01-introduction.md)
-* [HIPAA Inheritance](policy_docs/02-hipaa_inheritance.md)
-* [Policy Management Policy](policy_docs/03-policy_management_policy.md)
-* [Risk Management Policy](policy_docs/04-risk_management_policy.md)
-* [Roles Policy](policy_docs/05-roles_policy.md)
-* [Data Management Policy](policy_docs/06-data_management_policy.md)
-* [System Access Policy](policy_docs/07-systems_access_policy.md)
-* [Auditing Policy](policy_docs/08-auditing_policy.md)
-* [Configuration Management Policy](policy_docs/09-configuration_management_policy.md)
-* [Facility Access Policy](policy_docs/10-facility_access_policy.md)
-* [Incident Response Policy](policy_docs/11-incident_response_policy.md)
-* [Breach Policy](policy_docs/12-breach_policy.md)
-* [Disaster Recovery Policy](policy_docs/13-disaster_recovery_policy.md)
-* [Disposable Media Policy](policy_docs/14-disposable_media_policy.md)
-* [IDS Policy](policy_docs/15-ids_policy.md)
-* [Vulnerability Scanning Policy](policy_docs/16-vulnerability_scanning_policy.md)
-* [Data Integrity Policy](policy_docs/17-data_integrity_policy.md)
-* [Data Retention Policy](policy_docs/18-data_retention_policy.md)
-* [Employees Policy](policy_docs/19-employees_policy.md)
-* [Approved Tools Policy](policy_docs/20-approved_tools_policy.md)
-* [3rd Party Policy](policy_docs/21-3rd_party_policy.md)
-* [Key Definitions](policy_docs/22-key_definitions.md)
-* [Luma HIPAA Business Associate Agreement (“BAA”)](policy_docs/23-luma_hipaa_business_associate_agreement.md)
-* [HIPAA Mappings to Luma Controls](policy_docs/24-hipaa_mapping_to_luma_controls.md)
+* [Introduction](01-introduction.md)
+* [HIPAA Inheritance](02-hipaa_inheritance.md)
+* [Policy Management Policy](03-policy_management_policy.md)
+* [Risk Management Policy](04-risk_management_policy.md)
+* [Roles Policy](05-roles_policy.md)
+* [Data Management Policy](06-data_management_policy.md)
+* [System Access Policy](07-systems_access_policy.md)
+* [Auditing Policy](08-auditing_policy.md)
+* [Configuration Management Policy](09-configuration_management_policy.md)
+* [Facility Access Policy](10-facility_access_policy.md)
+* [Incident Response Policy](11-incident_response_policy.md)
+* [Breach Policy](12-breach_policy.md)
+* [Disaster Recovery Policy](13-disaster_recovery_policy.md)
+* [Disposable Media Policy](14-disposable_media_policy.md)
+* [IDS Policy](15-ids_policy.md)
+* [Vulnerability Scanning Policy](16-vulnerability_scanning_policy.md)
+* [Data Integrity Policy](17-data_integrity_policy.md)
+* [Data Retention Policy](18-data_retention_policy.md)
+* [Employees Policy](19-employees_policy.md)
+* [Approved Tools Policy](20-approved_tools_policy.md)
+* [3rd Party Policy](21-3rd_party_policy.md)
+* [Key Definitions](22-key_definitions.md)
+* [Luma HIPAA Business Associate Agreement (“BAA”)](23-luma_hipaa_business_associate_agreement.md)
+* [HIPAA Mappings to Luma Controls](24-hipaa_mapping_to_luma_controls.md)

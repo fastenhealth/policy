@@ -1,4 +1,4 @@
-#Contributing
+# Contributing
 
 We encourage contributions to our open source policies. Here's a quick guide on how to contribute:
 
