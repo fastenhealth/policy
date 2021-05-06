@@ -16,5 +16,5 @@ Despite not being a requirement within HIPAA, Luma understand and appreciates th
 * Current Luma Customers have data stored by Luma as a part of the Luma Service.
 * Once a Customer ceases to be a Customer, as defined [System Access Policy §7.11](#7.11-system-access-policy), the following steps are taken
   1. Customer is sent a notice via email to confirm the status change of standing and given option to get an extract of data.
-  1. If no response to notice in #1 above within 7 days or as defined appropriate based on Customer response, Luma removes data from Luma systems and Customer is sent notice of removal of data.
+  1. If no response to notice in #1 above within 7 days or as defined appropriate based on Customer response, Luma removes data from Luma systems per internal procedures and Customer is sent notice of removal of data.
   1. If Customer requests data extract, the extract is made availble for download for 30 days after which the extract is deleted.
