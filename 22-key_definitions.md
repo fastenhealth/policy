@@ -60,7 +60,7 @@ last_modified_date: Tue Jan 9 17:16:04 2018 -0800
   * Users complain of slow access to hosts on the Internet;
   * The system administrator sees a filename with unusual characteristics;
   * Automated alerts of activity from log monitors like OSSEC;
-  * An alert from OSSEC about file system integrity issues via our hosting partner Aptible.
+  * An alert from OSSEC about file system integrity issues via our hosting partner AWS.
 
 * *Intrusion Detection System (IDS)*: A software tool use to automatically detect and notify in the event of possible unauthorized network and/or system access.
 
@@ -80,7 +80,7 @@ last_modified_date: Tue Jan 9 17:16:04 2018 -0800
 
 * *Platform*: The overall technical environment of Luma. This encompasses the production system and messaging platform.
 
-* *Production System*: This refers to the production environment where Luma services run via our hosting partner Aptible. This is synonymous with information systems or production servers.
+* *Production System*: This refers to the production environment where Luma services run via our hosting partner AWS. This is synonymous with information systems or production servers.
 
 * *Protected Health Information (PHI)*: Individually identifiable health information that is created by or received by the organization, including demographic information, that identifies an individual, or provides a reasonable basis to believe the information can be used to identify an individual, and relates to:
   * Past, present or future physical or mental health or condition of an individual.

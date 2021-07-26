@@ -15,6 +15,6 @@ Luma utilizes a suite of approved software tools for internal use by workforce m
 * **Asana**. Asana is used for project management and to generate artifacts for compliance procedures. Access is via Google Apps.
 * **Google Authenticator**. Google Authenticator is used for 2FA.
 * **GitHub**. GitHub is Web-based Git version control repository hosting service which requires 2FA.
-* **Aptible**. Aptible is our secure hosting provider who hosts the Luma production environment accessed using 2FA.
+* **AWS**. AWS is our secure hosting provider who hosts the Luma production environment accessed using 2FA.
 
 Jivo, Hubspot, Twilio, Plivo, Papertrail, SendGrid, Periscope, Chartio

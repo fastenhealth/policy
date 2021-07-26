@@ -60,7 +60,7 @@ Access to Luma platform is limited for all users, including but not limited to w
    1. If the review is approved, the Security Officer then marks the Issue as Done, adding any pertinent notes required.
    1. Review of user access is monitored on a quarterly basis using Asana reporting to assess compliance with above policy.
 1. Any Luma workforce member can request change of access using the process outlined in [§7.2 paragraph 1](#72-access-establishment-and-modification).
-1. Access to production systems is controlled using centralized user management and authentication provided by Aptible.
+1. Access to production systems is controlled using centralized user management and authentication provided by AWS.
 1. Temporary accounts are not used unless absolutely necessary for business purposes.
    * Accounts are reviewed every 90 days to ensure temporary accounts are not left unnecessarily.
    * Accounts that are inactive for over 90 days are removed.
@@ -75,7 +75,7 @@ Access to Luma platform is limited for all users, including but not limited to w
     * sessions are automatically disconnected after 30 minutes of inactivity.
 1. In cases of increased risk or known attempted unauthorized access, immediate steps are taken by the Security and Privacy Officer to limit access and reduce risk of unauthorized access.
 1. Direct system to system, system to application, and application to application authentication and authorization are limited and controlled to restrict access.
-1. Direct access to systems continaing ePHI is not possible as controlled by Aptible. Backend access via SSH to a bastion layer is managed with granular, role-based API permissions and 2-factor authentication with FIDO U2F security key support. Architecure design is found here: [https://www.aptible.com/assets/aptible-enclave-reference-architecture.pdf](https://www.aptible.com/assets/aptible-enclave-reference-architecture.pdf)
+1. Direct access to systems continaing ePHI is not possible as controlled by AWS and MongoDB Atlas. Backend access via SSH to a bastion layer is managed with granular, role-based API permissions and 2-factor authentication with FIDO U2F security key support.
 
 ## 7.3 Workforce Clearance
 
@@ -159,7 +159,7 @@ Luma does not use paper records for any sensitive information. Use of paper for 
    * a 120-day password expiration;
    * account lockout after 3 invalid attempts within a 5 second period.
    * 2 factor authentication is available via third party mobile apps such as Authy
-4. On the production platform, password configurations are governed by rules set forth by Aptible and in addition Luma policy requires two factor authentication.
+4. On the production platform, password configurations are governed by rules set forth by AWS as controled by our IDP, Google GSuite IdP, and in addition Luma policy requires two factor authentication.
 5. All system and application passwords must be stored and transmitted securely.
    * Where possible, passwords should be stored in a hashed format using a salted cryptographic hash function (SHA-256 or equivalent).
    * Passwords that must be stored in non-hashed format must be encrypted at rest pursuant to the requirements in [§17.8](17-data_integrity_policy.html#178-production-data-security).

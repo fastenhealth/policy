@@ -15,7 +15,7 @@ Customers using the messaging platform allows delivery of messaging over three d
 
 ## 1.2 Compliance Inheritance
 
-Luma utilizes Aptible for hosting whose privacy documentation can be found on their site at [Aptible Legal](https://www.aptible.com/legal/). Luma does not have physical access to the servers being used. Luma's messaging platform is deployed entirely on the Aptible platform.
+Luma utilizes Amazon AWS for hosting whose privacy documentation can be found on their site at [AWS Privacy](https://aws.amazon.com/privacy/). Luma does not have physical access to the servers being used. Luma's messaging platform is deployed entirely on the AWS platform.
 
 Luma signs business associate agreements (BAAs) with its Customers. These BAAs outline Luma obligations and Customer obligations, as well as liability in the case of a breach. In providing infrastructure and managing security configurations that are a part of the technology requirements that exist in HIPAA and HITRUST, as well as future compliance frameworks, Luma manages various aspects of compliance for Customers. The aspects of compliance that Luma manages for Customers are inherited by Customers, and Luma assumes the risk associated with those aspects of compliance. In doing so, Luma helps Customers achieve and maintain compliance, as well as mitigates Customers risk.
 
