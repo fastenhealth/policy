@@ -5,7 +5,7 @@ last_modified_date: Mon Feb 5 13:50:29 2018 -0800
 
 # 9. Configuration Management Policy
 
-Luma standardizes and automates configuration management through Aptible service Enclave with documentation of all changes to production systems and networks. Aptible automatically configure all systems according to established and tested policies, and are used as part of our Disaster Recovery plan and process.
+Luma standardizes and automates configuration management through AWS with documentation of all changes to production systems and networks. AWS automatically configure all systems according to established and tested policies, and are used as part of our Disaster Recovery plan and process.
 
 ## 9.1 Applicable Standards
 
@@ -37,7 +37,7 @@ Luma standardizes and automates configuration management through Aptible service
 1. Before provisioning any systems, team members must communicate a request either via Asana or Slack.
 1. The CTO, or an authorized delegate of the CTO, must approve the provisioning request before any new system can be provisioned.
 1. Once provisioning has been approved, team member must configure the new system according to the standard baseline chosen for the system's role.
-1. If the system will be used to house production data (ePHI), team member must use the production ready environment provided by Aptible.
+1. If the system will be used to house production data (ePHI), team member must use the production ready environment provided by AWS.
 1. Once the system has been provisioned, team member must contact the security team to inspect the new system.
 
 ## 9.4 Changing Existing Systems
@@ -47,7 +47,7 @@ Luma standardizes and automates configuration management through Aptible service
 
 ## 9.5 Patch Management Procedures
 
-1. Luma does not have root access to the virtual machines. Patches are managed by Aptible.
+1. Luma does not have root access to the virtual machines. Patches are managed by AWS.
 
 ## 9.6 Software Development Procedures
 

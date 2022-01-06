@@ -7,7 +7,7 @@ last_modified_date: Tue Dec 18 15:29:22 2018 -0800
 
 Luma shall audit access and activity of electronic protected health information (ePHI) applications and systems in order to ensure compliance. The Security Rule requires healthcare organizations to implement reasonable hardware, software, and/or procedural mechanisms that record and examine activity in information systems that contain or use ePHI. Audit activities may be limited by application, system, and/or network auditing capabilities and resources. Luma shall make reasonable and good-faith efforts to safeguard information privacy and security through a well-thought-out approach to auditing that is consistent with available resources.
 
-It is the policy of Luma to safeguard the confidentiality, integrity, and availability of applications, systems, and networks. To ensure that appropriate safeguards are in place and effective, Luma by using the Aptible platform shall audit access and activity to detect, report, and guard against:
+It is the policy of Luma to safeguard the confidentiality, integrity, and availability of applications, systems, and networks. To ensure that appropriate safeguards are in place and effective, Luma by using the AWS platform shall audit access and activity to detect, report, and guard against:
 
 * Network vulnerabilities and intrusions;
 * Breaches in confidentiality and security of patient protected health information;
@@ -48,9 +48,9 @@ It is the policy of Luma to safeguard the confidentiality, integrity, and availa
    * User: User level audit trails generally monitor and log all commands directly initiated by the user, all identification and authentication attempts, and data and services accessed.
    * Application: Application level audit trails generally monitor and log all user activities, including data accessed and modified and specific actions.
    * System: System level audit trails generally monitor and log user activities, applications accessed, and other system defined specific actions. Luma utilizes file system monitoring from OSSEC to assure the integrity of file system data provided by Apitible.
-   * Network: Network level audit trails generally monitor information on what is operating, penetrations, and vulnerabilities provided by Aptible.
+   * Network: Network level audit trails generally monitor information on what is operating, penetrations, and vulnerabilities provided by AWS.
 1. Luma shall log all incoming and outgoing traffic to into and out of its environment. This includes all successful and failed attempts at data access and editing. Data associated with this data will include origin, destination, time, and other relevant details that are available to Luma.
-1. Luma relies on Aptible to scan all systems for malicious and unauthorized software at Aptible's discretion and at reboot of systems.
+1. Luma relies on AWS' tools to scan all systems for malicious and unauthorized software at AWS' discretion and at reboot of systems.
 1. Luma leverages process monitoring tools throughout its environment.
 1. Luma shall identify "trigger events" or criteria that raise awareness of questionable conditions of viewing of confidential information. The "events" may be applied to the entire Luma Platform or may be specific to a Customer, partner, business associate, or application (See Listing of Potential Trigger Events below).
 1. Logs are reviewed weekly by the Security Officer.
@@ -106,7 +106,7 @@ It is the policy of Luma to safeguard the confidentiality, integrity, and availa
 1. All audit logs are protected in transit and encrypted at rest to control access to the content of the logs.
 1. Audit logs shall be stored on a separate system to minimize the impact auditing may have on the privacy system and to prevent access to audit trails by those with system administrator privileges.
    * Separate systems are used to apply the security principle of "separation of duties" to protect audit trails from hackers.
-   * Luma's User Access and Application Level logging is hosted on a server provided by Aptible. Remaining logging services are built into Aptible's Enclave service.
+   * Luma's User Access and Application Level logging is hosted on a server provided by AWS. Remaining logging services are built into AWS services.
 
 ## 8.7 Workforce Training, Education, Awareness and Responsibilities
 
@@ -129,7 +129,7 @@ It is the policy of Luma to safeguard the confidentiality, integrity, and availa
    * Organizational history and experience.
    * Available storage space.
 2. Reports summarizing audit activities shall be retained for a period of six years.
-3. Audit log data at other than the user and application level is retained as per Aptible policy for six years.
+3. Audit log data at other than the user and application level is retained as per policy for six years.
 4. User and application logging is maintained for six years.
 
 ## 8.10 Potential Trigger Events

@@ -123,7 +123,7 @@ The critical systems are databases, web-services, message brokers, webhook servi
 
 1. Contact Partners and Customers affected - Web Services
 1. Assess damage to the environment - Web Services
-1. Begin recovery of new environment. At this point it is determined whether to recover in Aptible versus other secure stack provider. - Dev Ops
+1. Begin recovery of new environment. At this point it is determined whether to recover in AWS versus other secure stack provider. - Dev Ops
 1. Test new environment using pre-written tests - Web Services
 1. Test logging, security, and alerting functionality - Dev Ops
 1. Assure systems are appropriately patched and up to date. - Dev Ops
