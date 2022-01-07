@@ -1,6 +1,6 @@
 ---
 nav_order: 7
-last_modified_date: Thu Mar 5 17:48:30 2020 -0800
+last_modified_date: Fri Jan 7 17:48:30 2020 -0800
 ---
 
 # 7. System Access Policy
@@ -88,7 +88,7 @@ Access to Luma platform is limited for all users, including but not limited to w
 ## 7.4 Access Authorization
 
 1. Role based access categories for each Luma system and application are pre-approved by the Security Officer, or an authorized delegate of the Security Officer.
-1. Luma uses third party and internal tools hardware and software firewalls to segment data, prevent unauthorized access, and monitor traffic for denial of service attacks.
+1. Luma uses third party and internal tools, hardware, software and firewalls to segment data, prevent unauthorized access, and monitor traffic for denial of service attacks.
 
 ## 7.5 Person or Entity Authentication
 
