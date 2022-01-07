@@ -1,7 +1,8 @@
 ---
 nav_order: 2
-last_modified_date: Tue Jan 9 13:16:54 2018 -0800
+last_modified_date: Tue Jan 4 13:16:54 2022 -0800
 ---
+
 
 # 2. HIPAA Inheritance
 
@@ -47,3 +48,4 @@ last_modified_date: Tue Jan 9 13:16:54 2018 -0800
 | Notification in the Case of Breach - 13402(a) and (b) | Breach Policy | Partially |
 | Timelines of Notification - 13402(d)(1)               | Breach Policy | Partially |
 | Content of Notification - 13402(f)(1)                 | Breach Policy | Partially |
+
