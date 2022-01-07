@@ -1,21 +1,24 @@
 ---
 nav_order: 1
-last_modified_date: Tue Oct 16 08:39:41 2018 -0700
+last_modified_date: Tue Jan 4 08:39:41 2022 -0800
 ---
+
 
 # 1. Introduction
 
 Luma Health, Inc ("Luma") is committed to ensuring the confidentiality, privacy, integrity, and availability of all electronic protected health information (ePHI) it receives, maintains, processes and/or transmits on behalf of its Customers. As providers of compliant, mobile communication platform used by clinics, Luma strives to maintain compliance, proactively address information security, mitigate risk for its Customers, and assure known breaches are completely and effectively communicated in a timely manner. The following documents address core policies used by Luma to maintain compliance and assure the proper protections of infrastructure used to store, process, and transmit ePHI for Luma Customers.
 
+The objective of Luma Health’s Information Security Management System is continued compliance with applicable frameworks and regulations such as HIPAA and HITRUST, and continuous improvement.
+
 Luma provides a messaging platform.
 
 ## 1.1 Messaging Platform
 
-Customers using the messaging platform allows delivery of messaging over three different channels including SMS, email, and voice ("Messaging Channels") and allows visualization of data sending messaging through a web portal. Messaging Channels are only intended for convey information between Customers and their patients not containing ePHI. Customers are given access to Secure Message service for sending PHI.
+Customers using the messaging platform allows delivery of messaging over three different channels including SMS, email, and voice ("Messaging Channels") and allows visualization of data sending messaging through a web portal. Messaging Channels are only intended for conveying information between Customers and their patients not containing ePHI. Customers are given access to Secure Message service for sending PHI.
 
 ## 1.2 Compliance Inheritance
 
-Luma utilizes Amazon AWS for hosting whose privacy documentation can be found on their site at [AWS Privacy](https://aws.amazon.com/privacy/). Luma does not have physical access to the servers being used. Luma's messaging platform is deployed entirely on the AWS platform.
+Luma utilizes AWS for hosting whose privacy documentation can be found on their site at [AWS Privacy](https://aws.amazon.com/privacy/). Luma does not have physical access to the servers being used. Luma's messaging platform is deployed entirely on the AWS platform.
 
 Luma signs business associate agreements (BAAs) with its Customers. These BAAs outline Luma obligations and Customer obligations, as well as liability in the case of a breach. In providing infrastructure and managing security configurations that are a part of the technology requirements that exist in HIPAA and HITRUST, as well as future compliance frameworks, Luma manages various aspects of compliance for Customers. The aspects of compliance that Luma manages for Customers are inherited by Customers, and Luma assumes the risk associated with those aspects of compliance. In doing so, Luma helps Customers achieve and maintain compliance, as well as mitigates Customers risk.
 
