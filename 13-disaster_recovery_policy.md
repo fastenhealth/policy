@@ -1,6 +1,6 @@
 ---
 nav_order: 13
-last_modified_date: Wed Nov 13 14:55:04 2019 -0800
+last_modified_date: Wed Jan 5 14:55:04 2022 -0800
 ---
 
 # 13. Disaster Recovery Policy
@@ -15,7 +15,7 @@ The following objectives have been established for this plan:
    * *Reconstitution phase* to restore IT system processing capabilities to normal operations.
 1. Identify the activities, resources, and procedures needed to carry out Luma processing requirements during prolonged interruptions to normal operations.
 1. Identify and define the impact of interruptions to Luma systems.
-1. Assign responsibilities to designated personnel and provide guidance for recovering Luma during prolonged 1eriods of interruption to normal operations.
+1. Assign responsibilities to designated personnel and provide guidance for recovering Luma during prolonged periods of interruption to normal operations.
 1. Ensure coordination with other Luma staff who will participate in the contingency planning strategies.
 1. Ensure coordination with external points of contact and vendors who will participate in the contingency planning strategies.
 
@@ -72,7 +72,7 @@ The CTO shall establish criteria for validation/testing of a Contingency Plan, a
 
 ### 13.4.1 Tabletop Testing
 
-Tabletop Testing is conducted in accordance with the the [CMS Risk Management Handbook, Volume 2](http://www.cms.gov/Research-Statistics-Data-and-Systems/CMS-Information-Technology/InformationSecurity/Downloads/RMH_VII_4-5_Contingency_Plan_Exercise.pdf). The primary objective of the tabletop test is to ensure designated personnel are knowledgeable and capable of performing the notification/activation requirements and procedures as outlined in the CP, in a timely manner. The exercises include, but are not limited to:
+Tabletop Testing is conducted in accordance with the the [CMS Risk Management Handbook, Volume 2](https://www.cms.gov/Research-Statistics-Data-and-Systems/CMS-Information-Technology/InformationSecurity/Downloads/RMH-Chapter-6-Supplemental-Contingency-Planning-Exercise-Procedures.docx). The primary objective of the tabletop test is to ensure designated personnel are knowledgeable and capable of performing the notification/activation requirements and procedures as outlined in the CP, in a timely manner. The exercises include, but are not limited to:
 
 * Testing to validate the ability to respond to a crisis in a coordinated, timely, and effective manner, by simulating the occurrence of a specific crisis.
 
@@ -111,35 +111,36 @@ The notification sequence is listed below:
 
 ### 13.5.2 Recovery Phase
 
-This section provides procedures for recovering the application at an alternate site, whereas other efforts are directed to repair damage to the original system and capabilities.
+  This section provides procedures for recovering the application at an alternate site, whereas other efforts are directed to repair damage to the original system and capabilities.
 
-The following procedures are for recovering the Luma infrastructure at the alternate site. Procedures are outlined per team required. Each procedure should be executed in the sequence it is presented to maintain efficient operations.
+  The following procedures are for recovering the Luma infrastructure at the alternate site. Procedures are outlined per team required. Each procedure should be executed in the sequence it is presented to maintain efficient operations.
 
-Recovery Goal: The goal is to rebuild Luma infrastructure to a production state.
+  Recovery Goal: The goal is to rebuild Luma infrastructure to a production state.
 
-The critical systems are databases, web-services, message brokers, webhook services and distributed cache infrastructure
+  The critical systems are databases, web-services, message brokers, webhook services and distributed cache infrastructure
 
- The tasks outlines below are not sequential and some can be run in parallel.
+   The tasks outlines below are not sequential and some can be run in parallel.
 
-1. Contact Partners and Customers affected - Web Services
-1. Assess damage to the environment - Web Services
-1. Begin recovery of new environment. At this point it is determined whether to recover in AWS versus other secure stack provider. - Dev Ops
-1. Test new environment using pre-written tests - Web Services
-1. Test logging, security, and alerting functionality - Dev Ops
-1. Assure systems are appropriately patched and up to date. - Dev Ops
-1. Deploy environment to production - Web Services
-1. Update DNS to new environment. - Dev Ops
+  1. Contact Partners and Customers affected - Web Services
+  1. Assess damage to the environment - Web Services
+  1. Begin recovery of new environment. At this point it is determined whether to recover in Aptible versus other secure stack provider. - Dev Ops
+  1. Test new environment using pre-written tests - Web Services
+  1. Test logging, security, and alerting functionality - Dev Ops
+  1. Assure systems are appropriately patched and up to date. - Dev Ops
+  1. Deploy environment to production - Web Services
+  1. Update DNS to new environment. - Dev Ops
 
 ### 13.5.3 Reconstitution Phase
 
-This section discusses activities necessary for restoring Luma operations at the original or new site. The goal is to restore full operations within 24 hours of a disaster or outage. When the hosted data center at the original or new site has been restored, Luma operations at the alternate site may be transitioned back. The goal is to provide a seamless transition of operations from the alternate site to the computer center.
+  This section discusses activities necessary for restoring Luma operations at the original or new site. The goal is to restore full operations within 24 hours of a disaster or outage. When the hosted data center at the original or new site has been restored, Luma operations at the alternate site may be transitioned back. The goal is to provide a seamless transition of operations from the alternate site to the computer center.
 
-1. Original or New Site Restoration
-   * Begin replication of new environment using automated and tested scripts. - Dev Ops
-   * Test new environment using pre-written tests. - Web Services
-   * Test logging, security, and alerting functionality. - Dev Ops
-   * Deploy environment to production - Web Services
-   * Assure systems are appropriately patched and up to date. - Dev Ops
-   * Update DNS to new environment. - Dev Ops
-1. Plan Deactivation
-   * If the Luma environment is moved back to the original site from the alternative site, all hardware used at the alternate site should be handled and disposed of according to the Luma Media Disposal Policy.
+  1. Original or New Site Restoration
+     * Begin replication of new environment using automated and tested scripts. - Dev Ops
+     * Test new environment using pre-written tests. - Web Services
+     * Test logging, security, and alerting functionality. - Dev Ops
+     * Deploy environment to production - Web Services
+     * Assure systems are appropriately patched and up to date. - Dev Ops
+     * Update DNS to new environment. - Dev Ops
+  1. Plan Deactivation
+     * If the Luma environment is moved back to the original site from the alternative site, all hardware used at the alternate site should be handled and disposed of according to the Luma Media Disposal Policy.
+
