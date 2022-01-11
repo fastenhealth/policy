@@ -34,63 +34,64 @@ The current Luma Privacy Officer is Adnan Iqbal
 
 ### 5.2.1 Workforce Training Responsibilities
 
-  1. The Privacy Officer facilitates or delegates the training of all workforce members as follows:
+1. The Privacy Officer facilitates or delegates the training of all workforce members as follows:
 
-  i. New workforce members within their first month of employment;
+   i. New workforce members within their first month of employment;
 
    ii. Existing workforce members annually;
 
    iii. Existing workforce members whose functions are affected by a material change in the policies and procedures, within a month after the material change becomes effective;
 
-   iv. Existing workforce members as needed due to changes in security and risk posture of Luma.
+     iv. Existing workforce members as needed due to changes in security and risk posture of Luma.
 
 2. The Security Officer or designee maintains documentation of the training session materials and attendees for a minimum of six years.
 1. The training session focuses on, but is not limited to, the following subjects defined in Luma's security policies and procedures:
-
-   i. HIPAA Privacy, Security, and Breach notification rules;
-
+     
+    i. HIPAA Privacy, Security, and Breach notification rules;
+   
    ii. HITRUST Common Security Framework;
-
+    
    iii. NIST Security Rules;
-
+   
    iv. Risk Management procedures and documentation;
-
-   v. Auditing. Luma may monitor access and activities of all users;
-
-   vi. Workstations may only be used to perform assigned job responsibilities;
-
-   vii. Users may not download software onto Luma's workstations and/or systems without prior approval from the Security Officer;
-   viii. Users are required to report malicious software to the Security Officer immediately;
-
-   ix. Users are required to report unauthorized attempts, uses of, and theft of Luma's systems and/or workstations;
-
-   x. Users are required to report unauthorized access to facilities
-
-   xi. Users are required to report noted log-in discrepancies (i.e. application states users last log-in was on a date user was on vacation);
-
-   xii. Users may not alter ePHI maintained in a database, unless authorized to do so by a Luma Customer;
-
-   xiii. Users are required to understand their role in Luma's contingency plan;
-
-   xiv. Users may not share their user names nor passwords with anyone;
-
-   xv. Requirements for users to create and change passwords;
-
-   xvi. Users must set all applications that contain or transmit ePHI to automatically log off after 15 minutes of inactivity;
-
-   xvii. Supervisors are required to report terminations of workforce members and other outside users;
-
-   xviii. Supervisors are required to report a change in a users title, role, department, and/or location;
-
-   xix. Procedures to backup ePHI;
-
-   xx. Procedures to move and record movement of hardware and electronic media containing ePHI;
-
-   xxi. Procedures to dispose of discs, CDs, hard drives, and other media containing ePHI;
-
-   xxii. Procedures to re-use electronic media containing ePHI;
-
-   xxiii. SSH key and sensitive document encryption procedures.
+   
+    v. Auditing. Luma may monitor access and activities of all users;
+   
+    vi. Workstations may only be used to perform assigned job responsibilities;
+   
+    vii. Users may not download software onto Luma's workstations and/or systems without prior approval from the Security Officer;
+   
+    viii. Users are required to report malicious software to the Security Officer immediately;
+    
+    ix. Users are required to report unauthorized attempts, uses of, and theft of Luma's systems and/or workstations;
+   
+    x. Users are required to report unauthorized access to facilities
+   
+    xi. Users are required to report noted log-in discrepancies (i.e. application states users last log-in was on a date user was on vacation);
+   
+    xii. Users may not alter ePHI maintained in a database, unless authorized to do so by a Luma Customer;
+   
+    xiii. Users are required to understand their role in Luma's contingency plan;
+   
+    xiv. Users may not share their user names nor passwords with anyone;
+   
+    xv. Requirements for users to create and change passwords;
+   
+    xvi. Users must set all applications that contain or transmit ePHI to automatically log off after 15 minutes of inactivity;
+   
+    xvii. Supervisors are required to report terminations of workforce members and other outside users;
+   
+    xviii. Supervisors are required to report a change in a users title, role, department, and/or location;
+   
+    xix. Procedures to backup ePHI;
+   
+    xx. Procedures to move and record movement of hardware and electronic media containing ePHI;
+   
+    xxi. Procedures to dispose of discs, CDs, hard drives, and other media containing ePHI;
+   
+    xxii. Procedures to re-use electronic media containing ePHI;
+   
+    xxiii. SSH key and sensitive document encryption procedures.
 
 ## 5.3 Security Officer
 
