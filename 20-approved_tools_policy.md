@@ -1,6 +1,6 @@
 ---
 nav_order: 20
-last_modified_date: Wed Jan 17 08:20:39 2018 -0800
+last_modified_date: Wed Jan 12 08:20:39 2022 -0800
 ---
 
 # 20. Approved Tools Policy
@@ -9,12 +9,92 @@ Luma utilizes a suite of approved software tools for internal use by workforce m
 
 ## 20.1 List of Approved Tools
 
-* **ZenDesk**. ZenDesk is web based tool for customer support. Access to this service is done via Google Apps. No ePHI is shared. Luma will not be responsible for ePHI shared by a Customer.
-* **Slack**. Slack is used for internal communications and does not contain any ePHI. Two factor authentication (2FA) is required for access.
-* **Google Apps**. Google Apps is used for email and document collaboration. 2FA is required for access.
-* **Asana**. Asana is used for project management and to generate artifacts for compliance procedures. Access is via Google Apps.
-* **Google Authenticator**. Google Authenticator is used for 2FA.
-* **GitHub**. GitHub is Web-based Git version control repository hosting service which requires 2FA.
-* **AWS**. AWS is our secure hosting provider who hosts the Luma production environment accessed using 2FA.
 
-Jivo, Hubspot, Twilio, Plivo, Papertrail, SendGrid, Periscope, Chartio
+* **15Five**
+* **1Password**
+* **Adobe**
+* **Amazon AWS**
+* **Android**
+* **Auth0**
+* **Avalara**
+* **Bandwidth**
+* **Blissfully**
+* **Calendly**
+* **Canva**
+* **Carta**
+* **Chameleon**
+* **Chrome**
+* **CircleCI**
+* **Cisco Meraki**
+* **ClearBit**
+* **ClickUp**
+* **CloudApp**
+* **Cloudflare**
+* **Customer.io**
+* **Datadog**
+* **Delighted**
+* **Docker**
+* **Drift**
+* **Egencia**
+* **Expensify**
+* **Figma**
+* **Fivetran**
+* **GitHub**
+* **Google Ads**
+* **Google Analytics**
+* **Google Cloud**
+* **Google Data Studio**
+* **Google Suite**
+* **Greenhouse**
+* **Harvest**
+* **Hey Taco**
+* **Hotjar**
+* **Hubspot**
+* **Instapage**
+* **iOS**
+* **Kubernetes**
+* **Linkedin**
+* **Looker**
+* **Loom**
+* **Lucidchart**
+* **macOS**
+* **Marketo**
+* **Microsoft**
+* **Miro**
+* **MongoDB**
+* **MongoDB Atlas**
+* **MURAL**
+* **NetSuite**
+* **NeverBounce**
+* **Outlook**
+* **PandaDoc**
+* **Papertrails**
+* **Parallels**
+* **Pendo**
+* **Periscope Data**
+* **Postman**
+* **QuickBooks**
+* **RingCentral**
+* **SalesForce**
+* **SalesLoft**
+* **SEMrush**
+* **SendGrid**
+* **Sendoso**
+* **Sequoia One**
+* **Slack**
+* **Snowflake**
+* **Statuspage**
+* **Stripe**
+* **Terraform**
+* **Twilio**
+* **Wordpress**
+* **WP Engine**
+* **Zapier**
+* **Zendesk**
+* **Zenefits**
+* **Zoho**
+* **Zoom**
+* **Zoominfo**
+
+
+
