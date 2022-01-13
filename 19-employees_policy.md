@@ -1,6 +1,6 @@
 ---
 nav_order: 19
-last_modified_date: Tue Mar 17 16:29:00 2020 -0700
+last_modified_date: Fri Jan 7 16:29:00 2022 -0700
 ---
 
 # 19. Employees Policy
@@ -25,9 +25,8 @@ Luma is committed to ensuring all workforce members actively address security an
 
 1. All new workforce members, including contractors, are given training on security policies and procedures, including operations security, within 30 days of employment.
    * Records of training are kept for all workforce members.
-   * Upon completion of training, workforce members complete this [form](https://docs.google.com/forms/d/e/1FAIpQLSdekC7jP1f3oRsaHAGYgsGpqHLdD8J-Jm1gCPXdemHEEvnR8A/viewform?usp=sf_link).
-   * Current Luma training is leveraging content created by industry leader in security Luma at [https//training.datica.com](https://training.datica.com/).
-   * Luma employees must review this [presentation](https://docs.google.com/presentation/d/1CixWd3DLZPwl5FGI9uYa1JC412MDI4KpeNNz1kwVVy4/edit?usp=sharing)
+   * Current Luma training is leveraging content created by industry leader in compliance, Mineral [Course Catalog](https://www.thinkhr.com/wp-content/uploads/2019/07/Learn-Course-Catalog-2020.pdf).
+   * Luma employees must review this [presentation](https://docs.google.com/presentation/d/1OmWMpTXamp9UEsNz6MK4KqVqS8GUr9eKT75Rh6jL6TU/edit?usp=sharing).
    * Employees must complete this training before accessing production systems containing ePHI.
 1. All workforce members are granted access to formal organizational policies, which include the sanction policy for security violations.
 1. The Luma Employee Handbook clearly states the responsibilities and acceptable behavior regarding information system usage, including rules for email, Internet, mobile devices, and social media usage.
@@ -49,7 +48,7 @@ Luma is committed to ensuring all workforce members actively address security an
 1. Employees are required to cooperate with federal and state investigations.
     * Employees must not interfere with investigations through willful misrepresentation, omission of facts, or by the use of threats against any person.
     * Employees found to be in violation of this policy will be subject to sanctions as described in [§5.3.3](05-roles_policy.html#533-sanctions-of-workforce-responsibilities).
-1. Termination of employee will require competing the Termination Checklist which includes return of all equipment such as laptops, badges, and keys to access the facility and restricting access to Luma systems.
+1. Termination of employees will require completing the Termination Checklist which includes return of all equipment such as laptops, badges, and keys to access the facility and restricting access to Luma systems.
 
 ## 19.3 Issue Escalation
 
@@ -59,8 +58,8 @@ Security incidents, particularly those involving ePHI, are handled using the pro
 
 It is the duty of that owner to follow the process outlined below:
 
-1. Create an Issue in the Click Up Compliance Review Activity (CRA) Project.
+1. Create an Issue in ClickUp.
 1. The Issue is investigated, documented, and, when a conclusion or remediation is reached, it is moved to Review.
 1. The Issue is reviewed by another member of the Escalation Team. If the Issue is rejected, it goes back for further evaluation and review.
 1. If the Issue is approved, it is marked as Done, adding any pertinent notes required.
-1. The workforce member that initiated the process is notified of the outcome via email. If it anonymous, this will be comminuacted more boradly if deemed by the Escalation Team to be needed.
+1. The workforce member that initiated the process is notified of the outcome via email. If it is anonymous, this will be communicated more broadly if deemed by the Escalation Team to be needed.
