@@ -1,6 +1,6 @@
 ---
 nav_order: 8
-last_modified_date: Tue Dec 18 15:29:22 2018 -0800
+last_modified_date: Tue Jan 4 15:29:22 2022 -0800
 ---
 
 # 8. Auditing Policy
@@ -45,14 +45,15 @@ It is the policy of Luma to safeguard the confidentiality, integrity, and availa
    * Organize and provide oversight to a team structure charged with audit compliance activities (e.g., parameters, frequency, sample sizes, report formats, evaluation, follow-up, etc.).
    * All connections to Luma are monitored. Access is limited to certain services, ports, and destinations. Exceptions to these rules, if created, are reviewed on a monthly basis.
 1. Luma's auditing processes shall address access and activity at the following levels listed below. Auditing processes may address date and time of each log-on attempt, date and time of devices used, functions performed, etc.
-   * User: User level audit trails generally monitor and log all commands directly initiated by the user, all identification and authentication attempts, and data and services accessed.
+   * User: User level audit trails generally monitor and log all commands directly initiated by the user, all identification and authentication attempts, and data and services accessed. This includes events corresponding to all actions by privileged users.
    * Application: Application level audit trails generally monitor and log all user activities, including data accessed and modified and specific actions.
-   * System: System level audit trails generally monitor and log user activities, applications accessed, and other system defined specific actions. Luma utilizes file system monitoring from OSSEC to assure the integrity of file system data provided by Apitible.
+   * System: System level audit trails generally monitor and log user activities, applications accessed, and other system defined specific actions. Luma utilizes Meraki to verify system’s anti-virus status and file system monitoring to assure the integrity of file system data.
    * Network: Network level audit trails generally monitor information on what is operating, penetrations, and vulnerabilities provided by AWS.
-1. Luma shall log all incoming and outgoing traffic to into and out of its environment. This includes all successful and failed attempts at data access and editing. Data associated with this data will include origin, destination, time, and other relevant details that are available to Luma.
-1. Luma relies on AWS' tools to scan all systems for malicious and unauthorized software at AWS' discretion and at reboot of systems.
+1. Luma shall log all incoming and outgoing traffic into and out of its environment. This includes all successful and failed attempts at data access and editing. Data associated with this data will include origin, destination, time, and other relevant details that are available to Luma.
+1. Luma relies on AWS to scan all systems for malicious and unauthorized software at AWS' discretion and at reboot of systems.
 1. Luma leverages process monitoring tools throughout its environment.
 1. Luma shall identify "trigger events" or criteria that raise awareness of questionable conditions of viewing of confidential information. The "events" may be applied to the entire Luma Platform or may be specific to a Customer, partner, business associate, or application (See Listing of Potential Trigger Events below).
+All activities on the system (create, read, update, delete) involving covered information will be audited and kept securely
 1. Logs are reviewed weekly by the Security Officer.
 1. Luma's Security Officer and Privacy Officer are authorized to select and use auditing tools that are designed to detect network vulnerabilities and intrusions. Such tools are explicitly prohibited by others, including Customers and Partners, without the explicit authorization of the Security Officer. These tools may include, but are not limited to:
     * Scanning tools and devices;
@@ -65,10 +66,11 @@ It is the policy of Luma to safeguard the confidentiality, integrity, and availa
     * Frequency of the auditing process.
     * Determination of significant events requiring further review and follow-up.
     * Identification of appropriate reporting channels for audit results and required follow-up.
-1. Vulnerability testing software may be used to probe the network to identify what is running (e.g., operating system or product versions in place), whether publicly-known vulnerabilities have been corrected, and evaluate whether the system can withstand attacks aimed at circumventing security controls. These activities are carried out by Aptible.
+1. Vulnerability testing software may be used to probe the network to identify what is running (e.g., operating system or product versions in place), whether publicly-known vulnerabilities have been corrected, and evaluate whether the system can withstand attacks aimed at circumventing security controls.
     * Testing may be carried out internally or provided through an external third-party vendor. Whenever possible, a third party auditing vendor should not be providing the organization IT oversight services (e.g., vendors providing IT services should not be auditing their own services - separation of duties).
     * Testing shall be done on a routine basis, currently monthly.
-1. Software patches and updates will be applied to all systems in a timely manner.
+11. Software patches and updates will be applied to all systems in a timely manner.
+12. An inventory of all assets and services is maintained
 
 ## 8.3 Audit Requests
 
@@ -80,19 +82,19 @@ It is the policy of Luma to safeguard the confidentiality, integrity, and availa
 
 ## 8.4 Review and Reporting of Audit Findings
 
-1. Audit information that is routinely gathered must be reviewed in a timely manner, currently yearly, by the responsible workforce member(s). On a quarterly basis, logs are reviewed to assure the proper data is being captured and retained. The following process details how log reviews are done at Luma:
-   1. The Security Officer initiates the log review by creating an Issue in the Asana Compliance Review Activity (CRA) Project.
-   1. The Security Officer, or a Luma Security Engineer assigned by the Security Officer, is assigned to review the logs.
-   1. Relevant audit log findings are added to the Issue; these findings are investigated in a later step. Once those steps are completed, the Issue is then reviewed again.
-   1. Once the review is completed, the Security Officer approves or rejects the Issue. Relevant findings are reviewed at this stage. If the Issue is rejected, it goes back for further review and documentation. The communications protocol around specific findings are outlined below.
-   1. If the Issue is approved, the Security Officer then marks the Issue as Done, adding any pertinent notes required.
-1. The reporting process shall allow for meaningful communication of the audit findings to those workforce members, Customers, or Partners requesting the audit.
-   * Significant findings shall be reported immediately in a written format. Luma's security incident response form may be utilized to report a single event.
-   * Routine findings shall be reported to the sponsoring leadership structure in a written report format.
-1. Reports of audit results shall be limited to internal use on a minimum necessary/need-to-know basis. Audit results shall not be disclosed externally without administrative and/or legal counsel approval.
-1. Security audits constitute an internal, confidential monitoring practice that may be included in Luma's performance improvement activities and reporting. Care shall be taken to ensure that the results of the audits are disclosed to administrative level oversight structures only and that information which may further expose organizational risk is shared with extreme caution. Generic security audit information may be included in organizational reports (individually-identifiable ePHI shall not be included in the reports).
-1. Whenever indicated through evaluation and reporting, appropriate corrective actions must be undertaken. These actions shall be documented and shared with the responsible workforce members, Customers, and/or Partners.
-1. Log review activity is monitored on a quarterly basis using Asana reporting to assess compliance with above policy.
+   1. Audit information that is routinely gathered must be reviewed in a timely manner, currently yearly, by the responsible workforce member(s). On a quarterly basis, logs are reviewed to assure the proper data is being captured and retained. The following process details how log reviews are done at Luma:
+      1. The Security Officer initiates the log review by creating an Issue in ClickUp.
+      1. The Security Officer, or a Luma Security Engineer assigned by the Security Officer, is assigned to review the logs.
+      1. Relevant audit log findings are added to the Issue; these findings are investigated in a later step. Once those steps are completed, the Issue is then reviewed again.
+      1. Once the review is completed, the Security Officer approves or rejects the Issue. Relevant findings are reviewed at this stage. If the Issue is rejected, it goes back for further review and documentation. The communications protocol around specific findings are outlined below.
+      1. If the Issue is approved, the Security Officer then marks the Issue as Done, adding any pertinent notes required.
+   1. The reporting process shall allow for meaningful communication of the audit findings to those workforce members, Customers, or Partners requesting the audit.
+      * Significant findings shall be reported immediately in a written format. Luma's security incident response form may be utilized to report a single event.
+      * Routine findings shall be reported to the sponsoring leadership structure in a written report format.
+   1. Reports of audit results shall be limited to internal use on a minimum necessary/need-to-know basis. Audit results shall not be disclosed externally without administrative and/or legal counsel approval.
+   1. Security audits constitute an internal, confidential monitoring practice that may be included in Luma's performance improvement activities and reporting. Care shall be taken to ensure that the results of the audits are disclosed to administrative level oversight structures only and that information which may further expose organizational risk is shared with extreme caution. Generic security audit information may be included in organizational reports (individually-identifiable ePHI shall not be included in the reports).
+   1. Whenever indicated through evaluation and reporting, appropriate corrective actions must be undertaken. These actions shall be documented and shared with the responsible workforce members, Customers, and/or Partners.
+   1. Log review activity is monitored on a quarterly basis using Grafana reporting to assess compliance with above policy.
 
 ## 8.5 Auditing Customer and Partner Activity
 
@@ -106,12 +108,12 @@ It is the policy of Luma to safeguard the confidentiality, integrity, and availa
 1. All audit logs are protected in transit and encrypted at rest to control access to the content of the logs.
 1. Audit logs shall be stored on a separate system to minimize the impact auditing may have on the privacy system and to prevent access to audit trails by those with system administrator privileges.
    * Separate systems are used to apply the security principle of "separation of duties" to protect audit trails from hackers.
-   * Luma's User Access and Application Level logging is hosted on a server provided by AWS. Remaining logging services are built into AWS services.
+   * Luma's User Access and Application Level logging is hosted on a server provided by AWS.
 
 ## 8.7 Workforce Training, Education, Awareness and Responsibilities
 
-1. Luma workforce members are provided training, education, and awareness on safeguarding the privacy and security of business and ePHI. Luma's commitment to auditing access and activity of the information applications, systems, and networks is communicated through new employee orientation, ongoing training opportunities and events, and applicable policies. Luma workforce members are made aware of responsibilities with regard to privacy and security of information as well as applicable sanctions/corrective disciplinary actions should the auditing process detect a workforce member's failure to comply with organizational policies.
-2. Luma Customers are provided with necessary information to understand Luma auditing capabilities.
+   1. Luma workforce members are provided training, education, and awareness on safeguarding the privacy and security of business and ePHI. Luma's commitment to auditing access and activity of the information applications, systems, and networks is communicated through new employee orientation, ongoing training opportunities and events, and applicable policies. Luma workforce members are made aware of responsibilities with regard to privacy and security of information as well as applicable sanctions/corrective disciplinary actions should the auditing process detect a workforce member's failure to comply with organizational policies.
+   2. Luma Customers are provided with necessary information to understand Luma auditing capabilities.
 
 ## 8.8 External Audits of Information Access and Activity
 
@@ -123,14 +125,14 @@ It is the policy of Luma to safeguard the confidentiality, integrity, and availa
    * Obtain a signed HIPAA business associate agreement;
    * Assign organizational responsibility for supervision of the external audit firm.
 
+
 ## 8.9 Retention of Audit Data
 
-1. Audit logs shall be maintained based on organizational needs. There is no standard or law addressing the retention of audit log/trail information. Retention of this information shall be based on:
-   * Organizational history and experience.
-   * Available storage space.
+1. Audit logs shall be retained for 90 days and older records shall be archived.
 2. Reports summarizing audit activities shall be retained for a period of six years.
-3. Audit log data at other than the user and application level is retained as per policy for six years.
+3. Audit log data at other than the user and application level is retained as per AWS policy for indefinitely.
 4. User and application logging is maintained for six years.
+5. Audit logs shall be maintained for management activities, system and application startup/shutdown/errors, file changes, and security policy changes.
 
 ## 8.10 Potential Trigger Events
 
