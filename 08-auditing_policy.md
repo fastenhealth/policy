@@ -122,8 +122,12 @@ All activities on the system (create, read, update, delete) involving covered in
    * Choose an audit firm that is independent of other organizational operations;
    * Ensure technical competence of the audit firm staff;
    * Require the audit firm's adherence to applicable codes of professional ethics;
-   * Obtain a signed HIPAA business associate agreement;
+   * Obtain a signed HIPAA business associate agreement if deemed nessessary;
    * Assign organizational responsibility for supervision of the external audit firm.
+2. Luma engages an independent third party to perform a SOC 2 Type 2 assessment covering the Security Trust Service Principle on an annual basis:
+   * The scope of this assessment will cover the Luma production environment
+   * The attestation period will cover 12 months
+   * Luma will review the results contained in the final report, and create a corrective action plan for any findings
 
 
 ## 8.9 Retention of Audit Data
