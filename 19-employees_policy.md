@@ -48,6 +48,7 @@ Luma is committed to ensuring all workforce members actively address security an
 1. Employees are required to cooperate with federal and state investigations.
     * Employees must not interfere with investigations through willful misrepresentation, omission of facts, or by the use of threats against any person.
     * Employees found to be in violation of this policy will be subject to sanctions as described in [§5.3.3](05-roles_policy.html#533-sanctions-of-workforce-responsibilities).
+1. Full-time employees who have been employed for at least 6 months at the time of performance reviews are subject to the annual performance review process which utilizes the 15Five platform.
 1. Termination of employees will require completing the Termination Checklist which includes return of all equipment such as laptops, badges, and keys to access the facility and restricting access to Luma systems.
 
 ## 19.3 Issue Escalation
