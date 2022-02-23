@@ -61,3 +61,28 @@ It is the duty of the Human Resources representative to understand and commit to
 ## 24.4 Security and Compliance Requirements
 
 Luma’s security awareness and training program is given to new employees to be completed within the first 30 days of employment to introduce the organization’s security and privacy policies, state and federal laws, and expectations before access to information or services is granted. New employees, contracts, or third-party users are also subject to an agreement which clearly defines the expectations for Luma’s IT assets (e.g., laptops, monitors, softwares).
+
+## 23.5 Background Check Process
+
+All full-time employees and interns within the organization are required to undergo a formal background check. The standardized background check involves a national and state background check, employment verification, and education verification. Finance employees undergo an additional credit check. 
+
+
+The background check process is as follows:
+
+1. HR is notified of a candidate who has accepted their job offer and adds their information to the shared Google Calendar invite
+1. HR initiates a background check utilizing Granite
+1. The candidate will receive an email from Granite requesting their information
+1. HR will review the completed background checks and follow up on flagged items with the candidate, if deemed necessary
+
+
+## 23.6 Performance Review Process
+
+All full-time employees who have been employed at least 6 months at time of the organization-wide annual performance reviews will undergo the process. 
+
+The performance review process is as follows:
+
+1. An entry to the shared Corporate Google Calendar will notify all employees annually when it is time to start the performance review process
+1. HR will assign reviews for all employees utilizing 15Five
+1. Employees will complete a self-reflection which will be reviewed by their manager
+1. Managers have 30 days to examine the employee’s reflection, write comments, and meet with the employee for a 1:1
+1. After 30 days, HR will follow-up with managers who have not yet completed the review
