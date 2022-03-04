@@ -53,7 +53,7 @@ Access to Luma platform is limited for all users, including but not limited to w
 1. Access is not granted until receipt, review, and approval by the Luma Security Officer or Privacy Officer or a representative;
 1. The request for access is retained for future reference.
 1. All access to Luma production systems are reviewed and updated on a bi-annual basis to ensure proper authorizations are in place commensurate with job functions. The process for conducting reviews is outlined below:
-   1. The Security Officer initiates the review of user access by creating an Issue in the Asana Privacy and Security Project under Compliance Review Activity (CRA) Project.
+   1. The Security Officer initiates the review of user access by creating an Issue in ClickUp.
    1. The Security Officer is assigned to review levels of access for each Luma workforce member.
    1. If user access is found during review that is not in line with the least privilege principle, the process below is used to modify user access and notify the user of access changes. Once those steps are completed, the Issue is then reviewed again.
    1. Once the review is completed, the Security Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
@@ -124,10 +124,11 @@ All workstations at Luma are company owned, and all are laptop Apple products ru
 1. Users may not misrepresent, obscure, suppress, or replace another user's identity in transmitted or stored messages.
 1. Workstation hard drives will be encrypted using FileVault 2.0 or equivalent.
 1. All workstations have firewalls enabled to prevent unauthorized access unless explicitly granted.
-1. Workstations used for ePHI access will have iCloud enabled to allow for tracking and remote wipe out of data.
+1. Workstations used for ePHI access will have Cisco Meraki System Agent to allow for tracking and remote wipe out of data.
 1. Workstations used for ePHI access will have anti-virus installed.
-1. Workstations must have lockout enabled after 5 minutes of no use. The lockout screen requires the user to log in.
-1. Workstations during work hours must remain at the facility whose access is restricted via card access.
+1. Workstations must have the CrowdStrike Falcon sensor installed as the EDR solution.
+3. Workstations must have lockout enabled after 5 minutes of no use. The lockout screen requires the user to log in.
+4. Workstations during work hours must remain at the facility whose access is restricted via card access.
 
 ## 7.9 Wireless Access Use
 
