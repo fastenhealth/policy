@@ -46,19 +46,19 @@ Access to Luma platform is limited for all users, including but not limited to w
    1. The workforce member's direct manager will indicate on the request that it has their approval and is pertinent to the employee's job function.
    1. The Head of Engineering or his/her representative under the auspices of the Security Officer or Privacy Officer will grant access to systems as dictated by the employee's job title. If additional access is required outside of the minimum necessary to perform job functions, the requester must include a description of why the additional access is required as part of the access request.
    1. Once the review is completed, the Security Officer or Privacy Officer or a representative approves or rejects the request. If the request is rejected, it goes back for further review and documentation.
-   1. If the review is approved, the Security Officer or Privacy Officer confirms this on the reques, adding any pertinent notes required. The Security Officer or Privacy Officer or a representative then grants requested access.
+   1. If the review is approved, the Security Officer or Privacy Officer confirms this on the request, adding any pertinent notes required. The Security Officer or Privacy Officer or a representative then grants requested access.
      * New accounts will be created with a temporary secure password that meets all requirements from [§7.12](#712-password-management), which must be changed on the initial login.
      * All password exchanges must occur over an authenticated channel.
      * For non-production systems, access grants are accomplished by leveraging the access control mechanisms built into those systems. Account management for non-production systems may be delegated to a Luma employee at the discretion of the Security Officer or Privacy Officer.
 1. Access is not granted until receipt, review, and approval by the Luma Security Officer or Privacy Officer or a representative;
 1. The request for access is retained for future reference.
 1. All access to Luma production systems are reviewed and updated on a bi-annual basis to ensure proper authorizations are in place commensurate with job functions. The process for conducting reviews is outlined below:
-   1. The Security Officer initiates the review of user access by creating an Issue in ClickUp.
+   1. The Security Officer initiates the review of user access after notification from the shared Information Security calendar and created an issue in ClickUp. 
    1. The Security Officer is assigned to review levels of access for each Luma workforce member.
    1. If user access is found during review that is not in line with the least privilege principle, the process below is used to modify user access and notify the user of access changes. Once those steps are completed, the Issue is then reviewed again.
    1. Once the review is completed, the Security Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
    1. If the review is approved, the Security Officer then marks the Issue as Done, adding any pertinent notes required.
-   1. Review of user access is monitored on a quarterly basis using Asana reporting to assess compliance with above policy.
+   1. Review of user access is monitored on a quarterly basis using ClickUp reporting to assess compliance with above policy.
 1. Any Luma workforce member can request change of access using the process outlined in [§7.2 paragraph 1](#72-access-establishment-and-modification).
 1. Access to production systems is controlled using centralized user management and authentication provided by AWS.
 1. Temporary accounts are not used unless absolutely necessary for business purposes.
