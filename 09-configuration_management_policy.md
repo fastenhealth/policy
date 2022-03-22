@@ -60,6 +60,7 @@ Luma standardizes and automates configuration management with documentation of a
 ## 9.5 Patch Management Procedures
 
 1. Luma does not have root access to the virtual machines. Patches are managed by AWS.
+2. Patches on user devices such as laptops are centrally managed via an MDM solution. Luma's Information Security team pushes out required patches on demand. Security related updates, such as anti-virus definition updates are automatically applied as they become available. 
 
 
 ## 9.6 Software Development Procedures
