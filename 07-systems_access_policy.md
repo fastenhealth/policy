@@ -172,10 +172,11 @@ Luma does not use paper records for any sensitive information. Use of paper for 
 10. Password change methods must use a confirmation method to correct for user input errors.
 11. All passwords used in configuration scripts are secured and encrypted.
 12. If a user believes their user ID has been compromised, they are required to immediately report the incident to the Security Office.
-13. In cases where a user of the messaging platform has forgotten his/her password, the following procedure is used to reset the password.
+    * Employees are provided access to a banned password list that is updated on a bi-annual basis
+14. In cases where a user of the messaging platform has forgotten his/her password, the following procedure is used to reset the password.
     * The user submits a password reset request via the web to receive an email for a unique link that allows them to reset their password.
     * Link expires in seven days.
-14. In cases when a user of the production platform has forgotten his/her password, password is reset per policy set forth by Apitble.
+15. In cases when a user of the production platform has forgotten his/her password, password is reset per policy set forth by Apitble.
 
 ## 7.11 Customer Account Termination Procedures
 
