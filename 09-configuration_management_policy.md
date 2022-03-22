@@ -92,6 +92,7 @@ Luma standardizes and automates configuration management with documentation of a
    * Firewalls restrict inbound and outbound traffic to the minimum necessary
    * Routing controls are implemented through security gateways (e.g., firewalls) used between internal and external networks (e.g., the Internet and 3rd party networks)
    * Firewall configurations restrict connections between un-trusted networks and any system components in the covered information environment; and any changes to the firewall configuration are updated in the network diagram
+   * Web Application Firewalls are deployed at relevant entry points
 1. Network is logically and physically segmented with a defined security perimeter and a graduated set of controls, including subnetworks for publicly accessible system components that are logically separated from the internal network, based on organizational requirements; and traffic is controlled based on functionality required and classification of the data/systems based on a risk assessment and their respective security requirements
 1. Network traffic is controlled in accordance with the access control policy through firewall and other network-related restrictions for each network access point or external telecommunication services managed interface
 1. Information in networks, availability of network services and information services using the network, and the protection of connected services from unauthorized access is ensured
