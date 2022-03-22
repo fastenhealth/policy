@@ -30,8 +30,9 @@ Luma standardizes and automates configuration management with documentation of a
 1. System security parameters shall be defined to prevent misuse. This will include but is not limited to following the principles of least privilege, role based access control.
 1. Any software used must not be classed as end-of-life by the manufacturer and must still be a supported version. 
 1. Any operating systems and tools used must release shared system resources back to the system when not in use and ensure they are protected from disclosure to ensure they cannot be intentionally or unintentionally accessed. 
-1. An up-to-date inventory of systems is available via Amazon AWS.
+1. An up-to-date inventory of systems is available via Amazon AWS and Cisco Meraki.
    * All systems are categorized as production and development to differentiate based on criticality.
+   * An inventory of user-issued devices is available via Cisco Meraki, and devices are automatically enrolled as part of the Apple DEP program.
 1. All frontend functionality (web portals) are separated from backend (database and app servers) systems by being deployed on separate servers or containers.
 1. All software and systems are tested using unit tests and end to end tests to the greatest extent possible.
 1. All committed code is reviewed using pull requests to assure software code quality and proactively detect potential security issues in development when deemed necessary.
@@ -92,6 +93,7 @@ Luma standardizes and automates configuration management with documentation of a
    * Firewalls restrict inbound and outbound traffic to the minimum necessary
    * Routing controls are implemented through security gateways (e.g., firewalls) used between internal and external networks (e.g., the Internet and 3rd party networks)
    * Firewall configurations restrict connections between un-trusted networks and any system components in the covered information environment; and any changes to the firewall configuration are updated in the network diagram
+   * Web Application Firewalls are deployed at relevant entry points
 1. Network is logically and physically segmented with a defined security perimeter and a graduated set of controls, including subnetworks for publicly accessible system components that are logically separated from the internal network, based on organizational requirements; and traffic is controlled based on functionality required and classification of the data/systems based on a risk assessment and their respective security requirements
 1. Network traffic is controlled in accordance with the access control policy through firewall and other network-related restrictions for each network access point or external telecommunication services managed interface
 1. Information in networks, availability of network services and information services using the network, and the protection of connected services from unauthorized access is ensured
