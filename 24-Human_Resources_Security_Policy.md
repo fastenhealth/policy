@@ -28,9 +28,9 @@ The terms and conditions of their employment contract shall include but are not 
 
 ## 24.2 Employee Offboarding
 
-Logical and physical access to systems and equipment are reviewed, updated, or revoked when there is any change in responsibility or employment within at minimum 24 hours. This is tracked with a Blissfully ticket opened by the Human Resources representative. 
+Logical and physical access to systems and equipment are reviewed, updated, or revoked when there is any change in responsibility or employment within at minimum 24 hours. This is tracked with a Blissfully ticket opened by the Human Resources representative. Upon opening a ticket, admins for the apps that the user has access to will be automatically notified of the termination and will be prompted to terminate access.
 The organization formally addresses:
-* Terminating access when the access is no longer needed;
+* Terminating access when the access is no longer needed or;
 * Assignment of responsibility for removing information system and/or physical access; and
 * Timely communication of termination actions to ensure that the termination procedures are appropriately followed;
 * Ensure any covered information for which terminated employees had prior access remains confidential
