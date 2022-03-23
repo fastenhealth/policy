@@ -37,6 +37,7 @@ Luma is committed to ensuring all workforce members actively address security an
 1. All new workforce members are given HIPAA training within 30 days of beginning employment. Training includes HIPAA reporting requirements, including the ability to anonymously report security incidents, and the levels of compliance and obligations for Luma and its Customers and Partners.
 1. All remote (teleworking) workforce members are trained on the risks, the controls implemented, their responsibilities, and sanctions associated with violation of policies. Remote workforce are not given access to ePHI data.
 1. Employees may only use Luma-purchased and -owned workstations for accessing production systems with access to ePHI data.
+   * An Acceptable Use Agreement is signed by all employees that notifies them of monitoring, security responsibilities and acceptable and unacceptable use of Luma's IT assets
    * Any workstations used to access production systems must be configured as prescribed in [§7.8](07-systems_access_policy.html#78-employee-workstation-use).
    * Any workstations used to access production systems must have virus protection software installed, configured, and enabled.
    * Luma may monitor access and activities of all users on workstations and production systems in order to meet auditing policy requirements ([§8](#8.-auditing-policy)).
