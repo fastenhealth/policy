@@ -28,6 +28,7 @@ Luma is committed to ensuring all workforce members actively address security an
    * Current Luma training is leveraging content created by industry leader in compliance, Mineral [Course Catalog](https://www.thinkhr.com/wp-content/uploads/2019/07/Learn-Course-Catalog-2020.pdf).
    * Luma employees must review this [presentation](https://docs.google.com/presentation/d/1OmWMpTXamp9UEsNz6MK4KqVqS8GUr9eKT75Rh6jL6TU/edit?usp=sharing).
    * Employees must complete this training before accessing production systems containing ePHI.
+   * Incident response and contingency training will be assigned to information system users with assigned roles and responsibilities within 90 days of assuming an incident response role or responsibility and annually thereafter
 1. All workforce members are granted access to formal organizational policies, which include the sanction policy for security violations.
 1. The Luma Employee Handbook clearly states the responsibilities and acceptable behavior regarding information system usage, including rules for email, Internet, mobile devices, and social media usage.
    * Workforce members are required to sign an agreement stating that they have read and will abide by all terms outlined in the Luma Employee Handbook, along with all policies and processes described in this document.
