@@ -113,7 +113,8 @@ All activities on the system (create, read, update, delete) involving covered in
 ## 8.7 Workforce Training, Education, Awareness and Responsibilities
 
    1. Luma workforce members are provided training, education, and awareness on safeguarding the privacy and security of business and ePHI. Luma's commitment to auditing access and activity of the information applications, systems, and networks is communicated through new employee orientation, ongoing training opportunities and events, and applicable policies. Luma workforce members are made aware of responsibilities with regard to privacy and security of information as well as applicable sanctions/corrective disciplinary actions should the auditing process detect a workforce member's failure to comply with organizational policies.
-   2. Luma Customers are provided with necessary information to understand Luma auditing capabilities.
+   1. Luma conducts an internal annual review of the effectiveness of its security and privacy education and training program, and updates the program to reflect risks identified in the organization's risk assessment.
+   3. Luma Customers are provided with necessary information to understand Luma auditing capabilities.
 
 ## 8.8 External Audits of Information Access and Activity
 
