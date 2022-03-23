@@ -90,7 +90,7 @@ All activities on the system (create, read, update, delete) involving covered in
       1. If the Issue is approved, the Security Officer then marks the Issue as Done, adding any pertinent notes required.
    1. The reporting process shall allow for meaningful communication of the audit findings to those workforce members, Customers, or Partners requesting the audit.
       * Significant findings shall be reported immediately in a written format. Luma's security incident response form may be utilized to report a single event.
-      * Routine findings shall be reported to the sponsoring leadership structure in a written report format.
+      * Routine findings shall be reported to the sponsoring leadership structure in a written report format and added to the Risk Register.
    1. Reports of audit results shall be limited to internal use on a minimum necessary/need-to-know basis. Audit results shall not be disclosed externally without administrative and/or legal counsel approval.
    1. Security audits constitute an internal, confidential monitoring practice that may be included in Luma's performance improvement activities and reporting. Care shall be taken to ensure that the results of the audits are disclosed to administrative level oversight structures only and that information which may further expose organizational risk is shared with extreme caution. Generic security audit information may be included in organizational reports (individually-identifiable ePHI shall not be included in the reports).
    1. Whenever indicated through evaluation and reporting, appropriate corrective actions must be undertaken. These actions shall be documented and shared with the responsible workforce members, Customers, and/or Partners.
