@@ -62,7 +62,7 @@ It is the duty of the Human Resources representative to understand and commit to
 
 Luma’s security awareness and training program is given to new employees to be completed within the first 30 days of employment to introduce the organization’s security and privacy policies, state and federal laws, and expectations before access to information or services is granted. New employees, contracts, or third-party users are also subject to an agreement which clearly defines the expectations for Luma’s IT assets (e.g., laptops, monitors, softwares).
 
-## 23.5 Background Check Process
+## 24.5 Background Check Process
 
 All full-time employees and interns within the organization are required to undergo a formal background check. The standardized background check involves a national and state background check, employment verification, and education verification. Finance employees undergo an additional credit check. 
 
@@ -75,7 +75,7 @@ The background check process is as follows:
 1. HR will review the completed background checks and follow up on flagged items with the candidate, if deemed necessary
 
 
-## 23.6 Performance Review Process
+## 24.6 Performance Review Process
 
 All full-time employees who have been employed at least 6 months at time of the organization-wide annual performance reviews will undergo the process. 
 
