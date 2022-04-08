@@ -129,6 +129,7 @@ All workstations at Luma are company owned, and all are laptop Apple products ru
 1. Workstations must have the CrowdStrike Falcon sensor installed as the EDR solution.
 3. Workstations must have lockout enabled after 5 minutes of no use. The lockout screen requires the user to log in.
 4. Workstations during work hours must remain at the facility whose access is restricted via card access.
+5. Password policies for workstations are enforced through Meraki's technical controls and prohibit users from changing password lengths and authentication requirements.
 
 ## 7.9 Wireless Access Use
 
@@ -176,7 +177,9 @@ Luma does not use paper records for any sensitive information. Use of paper for 
 14. In cases where a user of the messaging platform has forgotten his/her password, the following procedure is used to reset the password.
     * The user submits a password reset request via the web to receive an email for a unique link that allows them to reset their password.
     * Link expires in seven days.
-15. In cases when a user of the production platform has forgotten his/her password, password is reset per policy set forth by Apitble.
+15. In cases when a user of the production platform has forgotten his/her password, password is reset per policy set forth by AWS.
+16. Passwords are not displayed when entered.
+17. A list of commonly-used, compromised, and weak passwords is available and updated every 180 days and when passwords are suspected to have been compromised.
 
 ## 7.11 Customer Account Termination Procedures
 
