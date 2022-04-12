@@ -39,7 +39,7 @@ Access to Luma platform is limited for all users, including but not limited to w
 ## 7.2 Access Establishment and Modification
 
 1. Requests for access to Luma production systems is made formally using the following process:
-   1. A Luma workforce member initiates the access request our issue tracking software via a dedicated queue entitled "Access Requests."
+   1. A Luma workforce member initiates the access request via a ticket entitled "Access Requests" in Blissfully. 
      * User identities must be verified prior to granting access to new accounts.
      * Identity verification uses Google's two-factor authentication.
      * For new accounts, the method used to verify the user's identity must be recorded on the Issue.
@@ -53,7 +53,7 @@ Access to Luma platform is limited for all users, including but not limited to w
 1. Access is not granted until receipt, review, and approval by the Luma Security Officer or Privacy Officer or a representative;
 1. The request for access is retained for future reference.
 1. All access to Luma production systems are reviewed and updated on a bi-annual basis to ensure proper authorizations are in place commensurate with job functions. The process for conducting reviews is outlined below:
-   1. The Security Officer initiates the review of user access after notification from the shared Information Security calendar and created an issue in ClickUp. 
+   1. The Security Officer initiates the review of user access after notification from the shared Information Security calendar and creates an issue in ClickUp. 
    1. The Security Officer is assigned to review levels of access for each Luma workforce member.
    1. If user access is found during review that is not in line with the least privilege principle, the process below is used to modify user access and notify the user of access changes. Once those steps are completed, the Issue is then reviewed again.
    1. Once the review is completed, the Security Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
@@ -61,6 +61,7 @@ Access to Luma platform is limited for all users, including but not limited to w
    1. Review of user access is monitored on a quarterly basis using ClickUp reporting to assess compliance with above policy.
 1. Any Luma workforce member can request change of access using the process outlined in [§7.2 paragraph 1](#72-access-establishment-and-modification).
 1. Access to production systems is controlled using centralized user management and authentication provided by AWS.
+1. A list of all workforce members with access to sensitive information is updated in MongoDB.
 1. Temporary accounts are not used unless absolutely necessary for business purposes.
    * Accounts are reviewed every 90 days to ensure temporary accounts are not left unnecessarily.
    * Accounts that are inactive for over 90 days are removed.
