@@ -76,6 +76,7 @@ Access to Luma platform is limited for all users, including but not limited to w
 1. In cases of increased risk or known attempted unauthorized access, immediate steps are taken by the Security and Privacy Officer to limit access and reduce risk of unauthorized access.
 1. Direct system to system, system to application, and application to application authentication and authorization are limited and controlled to restrict access.
 1. Direct access to systems continaing ePHI is not possible as controlled by AWS and MongoDB Atlas. Backend access via SSH to a bastion layer is managed with granular, role-based API permissions and 2-factor authentication with FIDO U2F security key support.
+1. User functionality is separated from information system management functionality. 
 
 ## 7.3 Workforce Clearance
 
