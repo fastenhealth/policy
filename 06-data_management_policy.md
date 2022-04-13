@@ -29,7 +29,7 @@ Of note, Luma does not physically house any systems used by its Platform in Luma
 
 1. Perform daily snapshot backups of all systems that process, store, or transmit ePHI for Luma Customers as automated by AWS’ Backup Service.
 1. The Luma Ops Team is designated to be in charge of backups.
-1. DevOps Team members are trained and assigned to complete backups if deemed necessary beyond the automated backups as above. This is managed through the Aptible dashboard.
+1. DevOps Team members are trained and assigned to complete backups if deemed necessary beyond the automated backups as above. This is managed through the Amazon AWS dashboard.
 1. Document backups
    * Name of the system
    * Date & time of backup
