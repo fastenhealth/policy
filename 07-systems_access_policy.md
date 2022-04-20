@@ -132,6 +132,7 @@ All workstations at Luma are company owned, and all are laptop Apple products ru
 3. Workstations must have lockout enabled after 5 minutes of no use. The lockout screen requires the user to log in.
 4. Workstations during work hours must remain at the facility whose access is restricted via card access.
 5. Password policies for workstations are enforced through Meraki's technical controls and prohibit users from changing password lengths and authentication requirements.
+6. Luma uses workstations until they are at their end of life wherein they will be wiped and disposed of at a trusted recycling authority in exchange for a certificate of destruction.
 
 ## 7.9 Wireless Access Use
 
