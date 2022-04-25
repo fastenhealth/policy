@@ -65,11 +65,13 @@ Software patches and updates will be applied to all systems in a timely manner. 
 ## 17.9 Transmission Security
 
 1. All data transmission is encrypted end to end using encryption keys managed by Luma. Encryption is not terminated at the network end point, and is carried through to the application.
+1. Information systems protect the confidentiality and integrity of transmitted information, including during preparation for transmission and during reception.
 1. Transmission encryption keys and machines that generate keys are protected from unauthorized access. Transmission encryption key material is protected with access controls such that the key material is only accessible by privileged accounts.
 1. Transmission encryption keys use a minimum of 4096-bit RSA keys, or keys and ciphers of equivalent or higher cryptographic strength (e.g., 256-bit AES session keys in the case of IPsec encryption).
 1. Transmission encryption keys are limited to use for one year and then must be regenerated.
 1. System logs of all transmissions of Production Data access. These logs must be available for audit.
 1. Data containing PHI must not be sent over Fax, Instant Messaging or Chat platforms.
 1. E-Mail communications use opportunistic TLS by default, ensuring that all transmissions are sent over an encrypted channel providing they can be accepted by the recipient. Data containing PHI should not be transmitted over E-Mail.
+ 
 
 
