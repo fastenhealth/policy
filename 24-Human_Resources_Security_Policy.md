@@ -81,8 +81,24 @@ All full-time employees who have been employed at least 6 months at time of the 
 
 The performance review process is as follows:
 
-1. An entry to the shared Corporate Google Calendar will notify all employees annually when it is time to start the performance review process
-1. HR will assign reviews for all employees utilizing 15Five
+1. HR will communicate when Annual Performance Reviews will be scheduled and an entry to the shared Google Corporate Calendar will also be made
+1. HR will assign self reviews for all employees utilizing 15Five for annual performance reviews
 1. Employees will complete a self-reflection which will be reviewed by their manager
 1. Managers have 30 days to examine the employee’s reflection, write comments, and meet with the employee for a 1:1
 1. After 30 days, HR will follow-up with managers who have not yet completed the review
+
+
+## 24.7 Workforce Sanctions & Disciplinary Records
+
+This policy applies to all Luma employees and is designed to be positive and corrective. Employee discipline is considered a serious action that is undertaken with care, objectivity and full consideration for the rights and interests of the employee. Discipline shall be administered in a judicious manner that strives to be corrective and appropriate to the offense rather than punitive.
+
+Sanctions are fairly applied to employees following violations of the information security policies. Luma documents personnel involved in incidents, steps taken, and the timelines associated with those steps, steps taken for notification, the rationale for discipline, and the final outcome for each incident. A list of employees involved in security incidents is maintained in the HR Google Drive.
+
+The process for disciplinary action is as follows:
+
+1. Manager consults with HR and provides the applicable and necessary details
+1. Manager completes a Performance Improvement Plan 
+1. Manager sets up a meeting with employee and HR to conduct the performance review
+1. The performance review and expectations are applied for an agreed-upon period of time and the manager will communicate weekly feedback with the employee
+1. If an employee succeeds and meets expectations within the period of time, the Performance Improvement Plan is kept on file in HR Google Drive
+1. If an employee fails to meet expectations, they will be terminated
