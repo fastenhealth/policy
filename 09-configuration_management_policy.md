@@ -103,4 +103,6 @@ Luma standardizes and automates configuration management with documentation of a
 1. Network devices that require authentication mechanisms before establishing a connection are uniquely identified and authenticated and that at a minimum, use shared information (i.e., MAC or IP address) and access control lists to control remote network access
 1. Exceptions to the network security policy are documented with a business need, duration of the exception, and reviewed on an annual basis. 
 	* Exceptions are removed when no longer supported by a business need
+1. Network diagrams are maintained by the SRE team and are updated whenever there are network changes and no less than every six months.
+
 
