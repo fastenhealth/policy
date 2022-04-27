@@ -97,8 +97,9 @@ Sanctions are fairly applied to employees following violations of the informatio
 The process for disciplinary action is as follows:
 
 1. Manager consults with HR and provides the applicable and necessary details
-1. Manager completes a Performance Improvement Plan 
-1. Manager sets up a meeting with employee and HR to conduct the performance review
-1. The performance review and expectations are applied for an agreed-upon period of time and the manager will communicate weekly feedback with the employee
-1. If an employee succeeds and meets expectations within the period of time, the Performance Improvement Plan is kept on file in HR Google Drive
-1. If an employee fails to meet expectations, they will be terminated
+1. If the violation is an employee security incident, HR will contact the Director of Information Security and Compliance to identify the indiviual and the reason for the sanction
+3. Manager completes a Performance Improvement Plan 
+4. Manager sets up a meeting with employee and HR to conduct the performance review
+5. The performance review and expectations are applied for an agreed-upon period of time and the manager will communicate weekly feedback with the employee
+6. If an employee succeeds and meets expectations within the period of time, the Performance Improvement Plan is kept on file in HR Google Drive
+7. If an employee fails to meet expectations, they will be terminated
