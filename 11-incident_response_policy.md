@@ -134,7 +134,7 @@ The Recovery Phase represents the SIRT's effort to restore the affected system(s
 
 ### 11.2.5 Follow-up Phase (Technical and Non-Technical)
 
-The Follow-up Phase represents the review of the security incident to look for "lessons learned" and to determine whether the process that was taken could have been improved in any way. It is recommended all security incidents be reviewed shortly after resolution to determine where response could be improved. Timeframes may extend to one to two weeks post-incident.
+The Follow-up Phase represents the review of the security incident to look for "lessons learned" and to determine whether the process that was taken could have been improved in any way. Information gathered in the Follow-up phase is also used to identify recurring or high-impact incidents and to make updates to the incident response process and strategy. It is recommended all security incidents be reviewed shortly after resolution to determine where response could be improved. Timeframes may extend to one to two weeks post-incident. 
 
 1. Responders to the security incident (SIRT Team and technical security resource) meet to review the documentation collected during the security incident.
 1. Create a "lessons learned" document and attach it to the completed [SIR Form](sir-form.doc).
