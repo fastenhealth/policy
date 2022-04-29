@@ -97,7 +97,7 @@ The current Luma Privacy Officer is Adnan Iqbal
 
 The Security Officer is responsible for facilitating the training and supervision of all workforce members [164.308(a)(3)(ii)(A) and 164.308(a)(5)(ii)(A)], investigation and sanctioning of any workforce member that is in violation of Luma security policies and non-compliance with the security regulations [164.308(a)(1)(ii)&lpar;c&rpar;], and writing, implementing, and maintaining all polices, procedures, and documentation related to efforts toward security and compliance [164.316(a-b)].
 
-The current Luma Security Officer is Adtiya Bansod ([aditya@lumahealth.io](mailto:aditya@lumahealth.io)).
+The current Luma Security Officer is Nick Lees([nick@lumahealth.io](mailto:nick@lumahealth.io)).
 
 ### 5.3.1 Organizational Responsibilities
 
