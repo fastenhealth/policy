@@ -142,6 +142,11 @@ The two principle components of the risk management process - risk assessment an
 * Throughout a System's Development Life Cycle - from the time that a need for a new, untested information system configuration and/or application is identified through the time it is disposed of, ongoing assessments of the potential threats to a system and its vulnerabilities should be undertaken as a part of the maintenance of the system.
 * As Needed - the Security Officer (or other designated employee) or Risk Management Team may call for a full or partial risk assessment in response to changes in business strategies, information technology, information sensitivity, threats, legal liabilities, or other significant factors that affect Luma's Platform.
 
+### 4.3.4 Risk Management Reporting
+
+* Luma Health's Security Officer and/or Chief Technology Officer provides updates and reporting to Luma Healh's Board of Directors on a quarterly basis. This update includes the numer of risks remediated and accepted in the previous quarter, as well as any new risks that have been identified
+* Results of the Annual Risk Assessment are presented and the next board of directors meeting following completion of the Risk Assessment
+
 ## 4.4 Process Documentation
 
 Maintain documentation of all risk assessment, risk management, and risk mitigation efforts for a minimum of six years.
