@@ -18,6 +18,7 @@ The following objectives have been established for this plan:
 1. Assign responsibilities to designated personnel and provide guidance for recovering Luma during prolonged periods of interruption to normal operations.
 1. Ensure coordination with other Luma staff who will participate in the contingency planning strategies.
 1. Ensure coordination with external points of contact and vendors who will participate in the contingency planning strategies.
+1. Ensure that appropriate Security considerations and controls are maintained in a disaster scenario. 
 
 This Luma Contingency Plan has been developed as required under the Office of Management and Budget (OMB) Circular A-130, Management of Federal Information Resources, Appendix III, November 2000, and the Health Insurance Portability and Accountability Act (HIPAA) Final Security Rule, Section §164.308(a)(7), which requires the establishment and implementation of procedures for responding to events that damage systems containing electronic protected health information.
 
@@ -129,6 +130,7 @@ The notification sequence is listed below:
   1. Assure systems are appropriately patched and up to date. - Dev Ops
   1. Deploy environment to production - Web Services
   1. Update DNS to new environment. - Dev Ops
+  1. Verify relevant Security Controls are operating effectively - InfoSec
 
 ### 13.5.3 Reconstitution Phase
 
