@@ -27,6 +27,7 @@ Luma standardizes and automates configuration management with documentation of a
 1. Any deviations from the standard configuration or updates to the standard configuration are documented and approved in a a change control system
 1. Systems will be deployed following the standard baseline configuration instructions found in Luma Health’s internal Wiki. This baseline shall include applicable security controls such as Firewalls, Logging and Endpoint Protection.
 1. New configuration rules beyond a baseline-hardened configuration that allow traffic to flow through network security devices such as firewalls and network-based IPS, are also documented and recorded, with a specific business reason for each change, a specific individual's name responsible for that business need, and an expected duration of the need.
+1. Automated security controls will be used wherever possible, supplemented by manual security controls where appropriate. 
 1. System security parameters shall be defined to prevent misuse. This will include but is not limited to following the principles of least privilege, role based access control.
 1. Any software used must not be classed as end-of-life by the manufacturer and must still be a supported version. 
 1. Any operating systems and tools used must release shared system resources back to the system when not in use and ensure they are protected from disclosure to ensure they cannot be intentionally or unintentionally accessed. 
@@ -76,7 +77,7 @@ Luma standardizes and automates configuration management with documentation of a
    * Other engineers will review the changes, using the guidelines above.
    * Engineers should note all potential issues with the code; it is the responsibility of the author(s) to address those issues or explain why they are not applicable.
 1. If the feature or defect interacts with ePHI, or controls access to data potentially containing ePHI, the code changes must be reviewed by two members before the feature is marked as complete.
-   * This review must include a security analysis for potential vulnerabilities such as those listed in the [OWASP Top 10](https://www.owasp.org/index.php/Top10) or the [CWE top 25](http://cwe.mitre.org/top25/).
+   * This review must include a security analysis for potential vulnerabilities such as those listed in the [OWASP Top 10](https://www.owasp.org/index.php/Top10) or the [CWE top 25](http://cwe.mitre.org/top25/). Such reviews will used automated security controls where possible, such as GitHub dependabot, supplemented by manual security reviews.
    * This review must also verify that any actions performed by authenticated users will generate appropriate audit log entries.
    * Team members are required to undergo annual training on identifying the most common software vulnerabilities and will receive ongoing training on Luma's compliance and security requirements.
 1. Once the review process finishes, each reviewer should leave a comment on the pull request saying "looks good to me" (often abbreviated as "LGTM") or approval on the pull request using built-in GitHub mechanisms, at which point the original author(s) may merge their change into the release branch.
