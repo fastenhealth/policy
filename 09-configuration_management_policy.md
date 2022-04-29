@@ -21,6 +21,7 @@ Luma standardizes and automates configuration management with documentation of a
 ## 9.2 Configuration Management Policies
 
 1. No systems are deployed into Luma environments without approval of the Luma CTO or authorized representative.
+1. System Owners or Managers are responsible for ensuring that any new configurations or changes have adequate Security controls and/or do not compromise the Security of existing systems.
 1. All changes allowed within the AWS environment to production systems, network devices, and firewalls are approved by the Luma CTO or authorized representative before they are implemented to assure they comply with business and security requirements.
 1. All changes to production systems are tested before they are implemented in production.
 1. Implementation of approved changes are only performed by authorized personnel.
@@ -40,7 +41,8 @@ Luma standardizes and automates configuration management with documentation of a
 1. Luma utilizes continuous development strategy to assure proper functionality.
 1. Luma also deploys environments locally to assure functionality before moving to production.
 1. Clocks are continuously synchronized to an authoritative source across all systems using NTP or a platform-specific equivalent. Modifying time data on systems is restricted.
-
+1. Any vendor supplied software used must be on a version that is still supported by the vendor 
+1. Any systems using a Web Browser will utilize the latest version available to ensure the latest security functions are available
 
 ## 9.3 Provisioning Production Systems
 
@@ -63,6 +65,7 @@ Luma standardizes and automates configuration management with documentation of a
 
 1. Luma does not have root access to the virtual machines. Patches are managed by AWS.
 2. Patches on user devices such as laptops are centrally managed via an MDM solution. Luma's Information Security team pushes out required patches on demand. Security related updates, such as anti-virus definition updates are automatically applied as they become available. 
+3. Updates are not automatically applied on critical systems.
 
 
 ## 9.6 Software Development Procedures
@@ -81,6 +84,7 @@ Luma standardizes and automates configuration management with documentation of a
    * This review must also verify that any actions performed by authenticated users will generate appropriate audit log entries.
    * Team members are required to undergo annual training on identifying the most common software vulnerabilities and will receive ongoing training on Luma's compliance and security requirements.
 1. Once the review process finishes, each reviewer should leave a comment on the pull request saying "looks good to me" (often abbreviated as "LGTM") or approval on the pull request using built-in GitHub mechanisms, at which point the original author(s) may merge their change into the release branch.
+1. Should any development activities be outsourced, the outsourced developer will be required follow the same procedures above and throughout this policy.
 
 
 ## 9.7 Software Release Procedures
