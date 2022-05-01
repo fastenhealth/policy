@@ -39,7 +39,7 @@ Luma standardizes and automates configuration management with documentation of a
 1. All software and systems are tested using unit tests and end to end tests to the greatest extent possible.
 1. All committed code is reviewed using pull requests to assure software code quality and proactively detect potential security issues in development when deemed necessary.
 1. Luma utilizes continuous development strategy to assure proper functionality.
-1. Luma also deploys environments locally to assure functionality before moving to production.
+1. Luma also deploys environments locally to assure functionality before moving to production. This ensures total seperation between development and production environments. 
 1. Clocks are continuously synchronized to an authoritative source across all systems using NTP or a platform-specific equivalent. Modifying time data on systems is restricted.
 1. Any vendor supplied software used must be on a version that is still supported by the vendor 
 1. Any systems using a Web Browser will utilize the latest version available to ensure the latest security functions are available
