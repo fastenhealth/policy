@@ -22,7 +22,7 @@ Luma standardizes and automates configuration management with documentation of a
 1. All changes to production systems are tested before they are implemented in production.
 1. Implementation of approved changes are only performed by authorized personnel.
 1. Any deviations from the standard configuration or updates to the standard configuration are documented and approved in a a change control system
-1. Systems will be deployed following the standard baseline configuration instructions found in Luma Health’s internal Wiki. This baseline shall include applicable security controls such as Firewalls, Logging and Endpoint Protection.
+1. Systems will be deployed following the standard baseline configuration instructions found in Luma Health’s internal Wiki. This baseline shall include applicable security controls such as Firewalls, Logging and Endpoint Protection. Any ports, services or applications that are not required for system functionality shall be removed or disabled.
 1. New configuration rules beyond a baseline-hardened configuration that allow traffic to flow through network security devices such as firewalls and network-based IPS, are also documented and recorded, with a specific business reason for each change, a specific individual's name responsible for that business need, and an expected duration of the need.
 1. Automated security controls will be used wherever possible, supplemented by manual security controls where appropriate. 
 1. System security parameters shall be defined to prevent misuse. This will include but is not limited to following the principles of least privilege, role based access control.
