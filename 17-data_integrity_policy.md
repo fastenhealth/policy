@@ -61,6 +61,7 @@ Software patches and updates will be applied to all systems in a timely manner. 
 1. All Production Data at rest is stored on encrypted volumes using encryption keys managed by Luma's hosting partner Amazon AWS. Encryption at rest is ensured through the use of automated deployment scripts referenced in the [Configuration Management Policy](#9.-configuration-management-policy).
 1. Volume encryption keys and machines that generate volume encryption keys are protected from unauthorized access. Volume encryption key material is protected with access controls such that the key material is only accessible by privileged accounts.
 1. Encrypted volumes use AES encryption with a minimum of 256-bit keys, or keys and ciphers of equivalent or higher cryptographic strength.
+1. Copy, move, print, and storage of sensitive data are prohibited remotely without a defined business need. This is resctrited via technical controls implemented by Luma and present by default in operating systems in use.
 
 ## 17.9 Transmission Security
 
