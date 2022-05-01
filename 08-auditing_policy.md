@@ -49,10 +49,14 @@ It is the policy of Luma to safeguard the confidentiality, integrity, and availa
    * Application: Application level audit trails generally monitor and log all user activities, including data accessed and modified and specific actions.
    * System: System level audit trails generally monitor and log user activities, applications accessed, and other system defined specific actions. Luma utilizes Meraki to verify system’s anti-virus status and file system monitoring to assure the integrity of file system data.
    * Network: Network level audit trails generally monitor information on what is operating, penetrations, and vulnerabilities provided by AWS.
-1. Luma shall log all incoming and outgoing traffic into and out of its environment. This includes all successful and failed attempts at data access and editing. Data associated with this data will include origin, destination, time, and other relevant details that are available to Luma.
-1. Luma relies on AWS to scan all systems for malicious and unauthorized software at AWS' discretion and at reboot of systems.
-1. Luma leverages process monitoring tools throughout its environment.
-1. Luma shall identify "trigger events" or criteria that raise awareness of questionable conditions of viewing of confidential information. The "events" may be applied to the entire Luma Platform or may be specific to a Customer, partner, business associate, or application (See Listing of Potential Trigger Events below).
+1. User entitlement audits are performed on a regular schedule
+   * Access Entitlement audits are performed every 90 days to ensure no out-of-band access exists
+   * Any accounts not used in the last 90 days will be diabled
+   * An audit or privaliged accounts is performed every 60 days
+3. Luma shall log all incoming and outgoing traffic into and out of its environment. This includes all successful and failed attempts at data access and editing. Data associated with this data will include origin, destination, time, and other relevant details that are available to Luma.
+4. Luma relies on AWS to scan all systems for malicious and unauthorized software at AWS' discretion and at reboot of systems.
+5. Luma leverages process monitoring tools throughout its environment.
+6. Luma shall identify "trigger events" or criteria that raise awareness of questionable conditions of viewing of confidential information. The "events" may be applied to the entire Luma Platform or may be specific to a Customer, partner, business associate, or application (See Listing of Potential Trigger Events below).
 All activities on the system (create, read, update, delete) involving covered information will be audited and kept securely
 1. Logs are reviewed weekly by the Security Officer.
 1. Luma's Security Officer and Privacy Officer are authorized to select and use auditing tools that are designed to detect network vulnerabilities and intrusions. Such tools are explicitly prohibited by others, including Customers and Partners, without the explicit authorization of the Security Officer. These tools may include, but are not limited to:
