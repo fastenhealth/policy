@@ -1,7 +1,3 @@
----
-nav_order: 9
-last_modified_date: Mon Feb 5 13:50:29 2018 -0800
----
 
 # 9. Configuration Management Policy
 
@@ -108,6 +104,8 @@ Luma standardizes and automates configuration management with documentation of a
 1. Network devices that require authentication mechanisms before establishing a connection are uniquely identified and authenticated and that at a minimum, use shared information (i.e., MAC or IP address) and access control lists to control remote network access
 1. Exceptions to the network security policy are documented with a business need, duration of the exception, and reviewed on an annual basis. 
 	* Exceptions are removed when no longer supported by a business need
+1. Network connections to any system outside of our production environment must be formally approved and documented on a network diagram.
 1. Network diagrams are maintained by the SRE team and are updated whenever there are network changes and no less than every six months.
-
+1. VPN connections to the production environment must use a minimum of TLS 1.2 to encrypt data in transit.
+1. Should Luma outsource any network services, vendors are required to to identify the specific functions, ports, and protocols used in the provision of the external/outsourced services
 
