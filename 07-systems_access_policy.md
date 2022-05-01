@@ -52,6 +52,7 @@ Access to Luma platform is limited for all users, including but not limited to w
      * Users are required to acknowledge receipt of passwords - this can be done over instant messaging (Slack etc), e-mail, voice call or SMS message.
      * For non-production systems, access grants are accomplished by leveraging the access control mechanisms built into those systems. Account management for non-production systems may be delegated to a Luma employee at the discretion of the Security Officer or Privacy Officer.
 1. Access is not granted until receipt, review, and approval by the Luma Security Officer or Privacy Officer or a representative;
+1. Access is 'deny-all' by default.
 1. The request for access is retained for future reference.
 1. All access to Luma production systems are reviewed and updated on a bi-annual basis to ensure proper authorizations are in place commensurate with job functions. The process for conducting reviews is outlined below:
    1. The Security Officer initiates the review of user access after notification from the shared Information Security calendar and creates an issue in ClickUp. 
@@ -65,14 +66,17 @@ Access to Luma platform is limited for all users, including but not limited to w
 1. A list of all workforce members with access to sensitive information is updated in MongoDB.
 1. Temporary accounts are not used unless absolutely necessary for business purposes.
    * Accounts are reviewed every 90 days to ensure temporary accounts are not left unnecessarily.
-   * Accounts that are inactive for over 90 days are removed.
+   * Accounts that are inactive for over 90 days are disabled.
+   * Accounts that are inactive are not issued to other users.
 1. In the case of non-personal information, such as generic educational content, identification and authentication may not be required. This is the responsibility of Luma Customers to define, and not Luma.
 1. Privileged users must first access systems using standard, unique user accounts before switching to privileged users and performing privileged tasks.
    * For production systems, this is enforced by creating non-privileged user accounts that must invoke `sudo` to perform privileged tasks.
    * Rights for privileged accounts are granted by the Security Officer or Privacy Officer using the process outlined in [§7.2 paragraph 1](#72-access-establishment-and-modification).
 1. All application to application communication using service accounts is restricted and not permitted unless absolutely needed. Automated tools are used to limit account access across applications and systems.
 1. Generic accounts are not allowed on Luma systems.
-1. Access is granted utilizing two-factor authentication.
+1. Where possible, systems that do not require elevated user permissions are used.
+1. Automated system routines are used where possible to avoid granting permissions to users. 
+1. Access is granted utilizing two-factor authentication, this includes and Remote Access.
     * Two-factor authentication is accomplished using a Time-based One-Time Password (TOTP) as the second factor.
     * sessions are automatically disconnected after 30 minutes of inactivity.
 1. In cases of increased risk or known attempted unauthorized access, immediate steps are taken by the Security and Privacy Officer to limit access and reduce risk of unauthorized access.
@@ -122,8 +126,10 @@ Access to Luma platform is limited for all users, including but not limited to w
 All workstations at Luma are company owned, and all are laptop Apple products running Mac OSX or Linux or PCs running Windows.
 
 1. Workstations may not be used to engage in any activity that is illegal or is in violation of organization's policies.
+1. Workstations display a login banner outlining the terms and conditions of access and are accepted before access is granted. This is configured and enforced via a Meraki profile and is applied to all Luma workstations. 
 1. Platform/applications also may not be used for any other purpose that is illegal, unethical, or against company policies or contrary to organization's best interests. Messages containing information related to a lawsuit or investigation may not be sent without prior approval.
 1. Solicitation of non-company business, or any use of organization's platform/applications for personal gain is prohibited.
+1. Access to production infrastructure is possilble via an encrypted VPN channel only.
 1. Transmitted messages may not contain material that criticizes the organization, its providers, its employees, or others.
 1. Users may not misrepresent, obscure, suppress, or replace another user's identity in transmitted or stored messages.
 1. Workstation hard drives will be encrypted using FileVault 2.0 or equivalent.
