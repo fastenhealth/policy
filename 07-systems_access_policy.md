@@ -130,6 +130,7 @@ All workstations at Luma are company owned, and all are laptop Apple products ru
 1. Workstations used for ePHI access will have Cisco Meraki System Agent to allow for tracking and remote wipe out of data.
 1. Workstations used for ePHI access will have anti-virus installed.
 1. Workstations must have the CrowdStrike Falcon sensor installed as the EDR solution.
+1. Workstation will be prevented from running certain mobile code, such as Java, JavaScript, ActiveX, PDF, postscript, Shockwave movies, and Flash via the installed EDR solution.
 3. Workstations must have lockout enabled after 5 minutes of no use. The lockout screen requires the user to log in.
 4. Workstations during work hours must remain at the facility whose access is restricted via card access.
 5. Password policies for workstations are enforced through Meraki's technical controls and prohibit users from changing password lengths and authentication requirements.
