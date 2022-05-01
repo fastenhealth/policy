@@ -49,6 +49,7 @@ Access to Luma platform is limited for all users, including but not limited to w
    1. If the review is approved, the Security Officer or Privacy Officer confirms this on the request, adding any pertinent notes required. The Security Officer or Privacy Officer or a representative then grants requested access.
      * New accounts will be created with a temporary secure password that meets all requirements from [§7.12](#712-password-management), which must be changed on the initial login.
      * All password exchanges must occur over an authenticated channel.
+     * Users are required to acknowledge receipt of passwords - this can be done over instant messaging (Slack etc), e-mail, voice call or SMS message.
      * For non-production systems, access grants are accomplished by leveraging the access control mechanisms built into those systems. Account management for non-production systems may be delegated to a Luma employee at the discretion of the Security Officer or Privacy Officer.
 1. Access is not granted until receipt, review, and approval by the Luma Security Officer or Privacy Officer or a representative;
 1. The request for access is retained for future reference.
@@ -162,6 +163,7 @@ Luma does not use paper records for any sensitive information. Use of paper for 
 
 1. User IDs and passwords are used to control access to Luma systems and may not be disclosed to anyone for any reason.
 2. Users may not allow anyone, for any reason, to have access to any portion of the platform using another user's unique user ID and password.
+1. Users are required to sign an agreement which details their responsibility to keep passwords confidential.
 3. On the messaging platform, password configurations are set to require:
    * a minimum length of 12 characters; at least one in 3 of 4 character sets: upper/lower case, numbers, symbols
    * a 120-day password expiration;
@@ -174,7 +176,7 @@ Luma does not use paper records for any sensitive information. Use of paper for 
    * Transmitted passwords must be encrypted in flight pursuant to the requirements in [§17.9](17-data_integrity_policy.html#179-transmission-security).
 6. Each platform system automatically requires users to change passwords at a pre-determined interval as determined by the organization, based on the criticality and sensitivity of the ePHI contained within the network, system, application, and/or database.
 7. Passwords are inactivated immediately upon an employee's termination (refer to the [Employee Termination Procedures in §7.10](#710-employee-termination-procedures)).
-8. All default system, application, and Partner passwords are changed before deployment to production.
+8. All default system, application, and Partner passwords are changed before deployment to production and following any indication of compromise.
 9. Upon initial login, users must change any passwords that were automatically generated for them.
 10. Password change methods must use a confirmation method to correct for user input errors.
 11. All passwords used in configuration scripts are secured and encrypted.
