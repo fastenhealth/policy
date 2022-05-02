@@ -151,7 +151,7 @@ The notification sequence is listed below:
 
 ## 13.6 Business Continuity
 
-Luma Health is a fully remote company with all cloud based infrastructure. Employees are able to work from any location with an internet connection. 
+Luma Health is a fully remote company with all cloud based infrastructure. Employees are able to work from any location with an internet connection. The Disaster Recovery Plan is applicable to all units within Luma Health. 
 
 
 
