@@ -71,7 +71,9 @@ Members of the Ops and Web Services teams must maintain local copies of the cont
 
 The CTO shall establish criteria for validation/testing of a Contingency Plan, an annual test schedule, and ensure implementation of the test. This process will also serve as training for personnel involved in the plan's execution. At a minimum the Contingency Plan shall be tested annually (within 365 days). The types of validation/testing exercises include tabletop and technical testing. Contingency Plans for all application systems must be tested at a minimum using the tabletop testing process. However, if the application system Contingency Plan is included in the technical testing of their respective support systems that technical test will satisfy the annual requirement.
 
-A business impact analysis shall be performed annually to determine the criticality of business activities and requirements to ensure continuity of operations in the event of a business disruption. 
+A business impact analysis shall be performed annually to determine the criticality of business activities and requirements to ensure continuity of operations in the event of a business disruption.
+
+Any changes to contingency procedures or resource requirements shall be evaluated and updated within the Luma Contingency Plan where applicable.
 
 ### 13.4.1 Tabletop Testing
 
