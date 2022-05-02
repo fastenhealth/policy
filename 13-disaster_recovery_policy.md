@@ -148,3 +148,10 @@ The notification sequence is listed below:
   1. Plan Deactivation
      * If the Luma environment is moved back to the original site from the alternative site, all hardware used at the alternate site should be handled and disposed of according to the Luma Media Disposal Policy.
 
+
+## 13.6 Business Continuity
+
+Luma Health is a fully remote company with all cloud based infrastructure. Employees are able to work from any location with an internet connection. 
+
+
+
