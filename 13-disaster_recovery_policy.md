@@ -71,6 +71,8 @@ Members of the Ops and Web Services teams must maintain local copies of the cont
 
 The CTO shall establish criteria for validation/testing of a Contingency Plan, an annual test schedule, and ensure implementation of the test. This process will also serve as training for personnel involved in the plan's execution. At a minimum the Contingency Plan shall be tested annually (within 365 days). The types of validation/testing exercises include tabletop and technical testing. Contingency Plans for all application systems must be tested at a minimum using the tabletop testing process. However, if the application system Contingency Plan is included in the technical testing of their respective support systems that technical test will satisfy the annual requirement.
 
+A business impact analysis shall be performed annually to determine the criticality of business activities and requirements to ensure continuity of operations in the event of a business disruption. 
+
 ### 13.4.1 Tabletop Testing
 
 Tabletop Testing is conducted in accordance with the the [CMS Risk Management Handbook, Volume 2](https://www.cms.gov/Research-Statistics-Data-and-Systems/CMS-Information-Technology/InformationSecurity/Downloads/RMH-Chapter-6-Supplemental-Contingency-Planning-Exercise-Procedures.docx). The primary objective of the tabletop test is to ensure designated personnel are knowledgeable and capable of performing the notification/activation requirements and procedures as outlined in the CP, in a timely manner. The exercises include, but are not limited to:
