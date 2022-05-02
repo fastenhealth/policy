@@ -5,7 +5,7 @@ last_modified_date: Wed Jan 5 14:55:04 2022 -0800
 
 # 13. Disaster Recovery Policy
 
-The Luma Contingency Plan establishes procedures to recover Luma following a disruption resulting from a disaster. This Disaster Recovery Policy is maintained by the Luma Security Officer and Privacy Officer.
+The Luma Contingency Plan establishes procedures to recover Luma following a disruption resulting from a disaster. The Luma Contingency Plan is owned by the Luma Security Officer. This Disaster Recovery Policy is maintained by the Luma Security Officer and Privacy Officer.
 
 The following objectives have been established for this plan:
 
