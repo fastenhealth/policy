@@ -55,6 +55,8 @@ Software patches and updates will be applied to all systems in a timely manner. 
 
 ## 17.8 Production Data Security
 
+1. Production data must only be stored in authorized locations.
+1. Production data storage is limited to the minimum required.
 1. Reduce the risk of compromise of Production Data.
 1. Implement and/or review controls designed to protect Production Data from improper alteration or destruction.
 1. Ensure that confidential data is stored in a manner that supports user access logs and automated monitoring for potential security incidents.
@@ -72,6 +74,7 @@ Software patches and updates will be applied to all systems in a timely manner. 
 1. Transmission encryption keys are limited to use for one year and then must be regenerated.
 1. System logs of all transmissions of Production Data access. These logs must be available for audit.
 1. Data containing PHI must not be sent over Fax, Instant Messaging or Chat platforms.
+1. Luma does not disclose PII to any external parties via any method including telephone, fax and e-mail without first obtaining consent from the data subject. Consent is obtained via E-Mail and retained for a period of 6 years. 
 1. E-Mail communications use opportunistic TLS by default, ensuring that all transmissions are sent over an encrypted channel providing they can be accepted by the recipient. Data containing PHI should not be transmitted over E-Mail.
  
 
