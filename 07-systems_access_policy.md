@@ -130,6 +130,7 @@ All workstations at Luma are company owned, and all are laptop Apple products ru
 1. Platform/applications also may not be used for any other purpose that is illegal, unethical, or against company policies or contrary to organization's best interests. Messages containing information related to a lawsuit or investigation may not be sent without prior approval.
 1. Solicitation of non-company business, or any use of organization's platform/applications for personal gain is prohibited.
 1. Access to production infrastructure is possilble via an encrypted VPN channel only.
+1. The use of removable media such as USB Drives to transfer covered information is not permitted and restricted by technical controls.
 1. Transmitted messages may not contain material that criticizes the organization, its providers, its employees, or others.
 1. Users may not misrepresent, obscure, suppress, or replace another user's identity in transmitted or stored messages.
 1. Workstation hard drives will be encrypted using FileVault 2.0 or equivalent.
