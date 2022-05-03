@@ -144,6 +144,7 @@ All workstations at Luma are company owned, and all are laptop Apple products ru
 5. Password policies for workstations are enforced through Meraki's technical controls and prohibit users from changing password lengths and authentication requirements.
 6. Luma uses workstations until they are at their end of life wherein they will be remotely wiped through Meraki and disposed of at a trusted recycling authority in exchange for a certificate of destruction.
 7. Repurposed workstations will be remotely wiped through Meraki
+1. Luma employees are authorized to work remotely from a Luma provided device as a result of the above controls being in place.
 
 ## 7.9 Wireless Access Use
 
