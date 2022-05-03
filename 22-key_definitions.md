@@ -1,6 +1,5 @@
 ---
 nav_order: 22
-last_modified_date: Tue Jan 9 17:16:04 2018 -0800
 ---
 
 # 22. Key Definitions
