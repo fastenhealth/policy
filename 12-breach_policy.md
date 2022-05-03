@@ -47,7 +47,7 @@ In the case of a breach, Luma shall notify all affected Customers. It is the res
    * A brief description of what Luma is doing to investigate the breach, to mitigate harm to individuals and Customers, and to protect against further breaches.
    * Contact procedures for individuals to ask questions or learn additional information, which may include a toll-free telephone number, an e-mail address, a website, or postal address.
 1. Methods of Notification: Luma Customers will be notified via email and phone within the timeframe for reporting breaches, as outlined above.
-1. Maintenance of Breach Information/Log: As described above and in addition to the reports created for each incident, Luma shall maintain a process to record or log all breaches of unsecured ePHI regardless of the number of records and Customers affected. The following information should be collected/logged for each breach (see sample Breach Notification Log):
+1. Maintenance of Breach Information/Log: As described above and in addition to the reports created for each incident, Luma shall maintain a process to record or log all breaches of unsecured ePHI regardless of the number of records and Customers affected. The record will be annually submitted to the appropriate parties as described in [§13.2](#12.2-luma-breach-policy). The following information should be collected/logged for each breach (see sample Breach Notification Log):
    * A description of what happened, including the date of the breach, the date of the discovery of the breach, and the number of records and Customers affected, if known.
    * A description of the types of unsecured protected health information that were involved in the breach (such as full name, Social Security number, date of birth, home address, account number, etc.), if known.
    * A description of the action taken with regard to notification of patients regarding the breach.
@@ -56,6 +56,7 @@ In the case of a breach, Luma shall notify all affected Customers. It is the res
 1. Complaints: Luma must provide a process for individuals to make complaints concerning the organization's patient privacy policies and procedures or its compliance with such policies and procedures.
 1. Sanctions: The organization shall have in place and apply appropriate sanctions against members of its workforce, Customers, and Partners who fail to comply with privacy policies and procedures.
 1. Retaliation/Waiver: Luma may not intimidate, threaten, coerce, discriminate against, or take other retaliatory action against any individual for the exercise by the individual of any privacy right. The organization may not require individuals to waive their privacy rights as a condition of the provision of treatment, payment, enrollment in a health plan, or eligibility for benefits.
+   
 
 ## 12.3 Luma Messaging Platform Customer Responsibilities
 
