@@ -48,6 +48,7 @@ Luma's incident response classifies security-related events into the following c
   * IDS alerts for modified system files or unusual system accesses.
   * Antivirus alerts for infected files.
   * Excessive network traffic directed at unexpected geographic locations.
+  * Any detected or suspected insider threats
 * **Incidents** - A violation of computer security policies or acceptable use policies, often resulting in data breaches. Examples:
   * Unauthorized disclosure of ePHI.
   * Unauthorized change or destruction of ePHI.
