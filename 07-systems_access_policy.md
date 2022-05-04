@@ -84,6 +84,7 @@ Access to Luma platform is limited for all users, including but not limited to w
 1. Direct access to systems continaing ePHI is not possible as controlled by AWS and MongoDB Atlas. Backend access via SSH to a bastion layer is managed with granular, role-based API permissions and 2-factor authentication with FIDO U2F security key support.
 1. User functionality is separated from information system management functionality. 
 1. Access will only be provided to external parties, such as support personnel when it is absoloutly essential, and such access shall be approved be management, for a limited time only and be strictly monitored via existing processes.
+1. Contractors are subject to the same controls as employees 
 
 ## 7.3 Workforce Clearance
 
