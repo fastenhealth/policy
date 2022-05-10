@@ -98,6 +98,7 @@ Access to Luma platform is limited for all users, including but not limited to w
 
 1. Role based access categories for each Luma system and application are pre-approved by the Security Officer, or an authorized delegate of the Security Officer.
 1. Luma uses third party and internal tools, hardware, software and firewalls to segment data, prevent unauthorized access, and monitor traffic for denial of service attacks.
+1. Luma does not permit the use of external public services, such as Instant Messaging and File Sharing without the approval of the Security Officer. Luma users can request such services for review via a Blissfully workflow, requiring business justification. 
 
 ## 7.5 Person or Entity Authentication
 
