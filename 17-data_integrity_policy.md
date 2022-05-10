@@ -62,19 +62,24 @@ Software patches and updates will be applied to all systems in a timely manner. 
 1. Ensure that confidential data is stored in a manner that supports user access logs and automated monitoring for potential security incidents.
 1. All Production Data at rest is stored on encrypted volumes using encryption keys managed by Luma's hosting partner Amazon AWS. Encryption at rest is ensured through the use of automated deployment scripts referenced in the [Configuration Management Policy](#9.-configuration-management-policy).
 1. Volume encryption keys and machines that generate volume encryption keys are protected from unauthorized access. Volume encryption key material is protected with access controls such that the key material is only accessible by privileged accounts.
+1. Key management is implemented based on specific roles and responsibilities, and in consideration of national and international regulations, restrictions, and issues
 1. Encrypted volumes use AES encryption with a minimum of 256-bit keys, or keys and ciphers of equivalent or higher cryptographic strength.
 1. Copy, move, print, and storage of sensitive data are prohibited remotely without a defined business need. This is resctrited via technical controls implemented by Luma and present by default in operating systems in use.
 
 ## 17.9 Transmission Security
 
-1. All data transmission is encrypted end to end using encryption keys managed by Luma. Encryption is not terminated at the network end point, and is carried through to the application.
+1. All data transmission is encrypted end to end using encryption keys managed by Luma. Encryption is not terminated at the network end point, and is carried through to the application ensuring that security is managed through all aspects of any transactions. 
+1. Encryption is used to protect covered information on mobile/removable media and across communication lines. 
 1. Information systems protect the confidentiality and integrity of transmitted information, including during preparation for transmission and during reception.
 1. Transmission encryption keys and machines that generate keys are protected from unauthorized access. Transmission encryption key material is protected with access controls such that the key material is only accessible by privileged accounts.
 1. Transmission encryption keys use a minimum of 4096-bit RSA keys, or keys and ciphers of equivalent or higher cryptographic strength (e.g., 256-bit AES session keys in the case of IPsec encryption).
+1. Luma uses a trusted autority to issue certificates, ensuring that security is integrated and embedded throughout the entire end-to-end certificate.
 1. Transmission encryption keys are limited to use for one year and then must be regenerated.
 1. System logs of all transmissions of Production Data access. These logs must be available for audit.
+1. Transaction details, such as logs are stored outside of publically available environments. All such information remains within Luma's AWS envrionment with no public route accessible. 
 1. Data containing PHI must not be sent over Fax, Instant Messaging or Chat platforms.
 1. Luma does not disclose PII to any external parties via any method including telephone, fax and e-mail without first obtaining consent from the data subject. Consent is obtained via E-Mail and retained for a period of 6 years. 
+1. Stronger controls are in place to protect certain electronic messages, such as E-Mail, ensuring they are protected end-to-end.
 1. E-Mail communications use opportunistic TLS by default, ensuring that all transmissions are sent over an encrypted channel providing they can be accepted by the recipient. Data containing PHI should not be transmitted over E-Mail.
  
 
