@@ -43,8 +43,9 @@ Of note, Luma does not physically house any systems used by its Platform in Luma
 1. Luma, based on the data classification level, registers media prior to use, places reasonable restrictions on how such media be used, and provide an appropriate level of physical and logical protection for media containing covered information until properly destroyed or sanitized
 1. Media is labeled, encrypted, and handled according to its classification
 1. Guidelines are issued by the organization on the ownership, classification, retention, storage, handling and disposal or all records and information
-1. Luma considers all customer information to be confidential
-1. All employee issued devices are considered confidential and can be traced to the individual
-1. All AWS infrastructure is considered confidential and is the responsibility of Luma’s SRE team
+2. Sensitivity of systems and applications is identified and defined by the system / appplication owner. Luma considers all systems and applications that contain customer information to be confidential and are defined by the system owner as such
+3. Luma considers all customer information to be confidential
+4. All employee issued devices are considered confidential and can be traced to the individual
+5. All AWS infrastructure is considered confidential and is the responsibility of Luma’s SRE team
 
 
