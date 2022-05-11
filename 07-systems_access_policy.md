@@ -187,7 +187,7 @@ Luma does not use paper records for any sensitive information. Use of paper for 
 6. Each platform system automatically requires users to change passwords at a pre-determined interval as determined by the organization, based on the criticality and sensitivity of the ePHI contained within the network, system, application, and/or database.
 7. Passwords are inactivated immediately upon an employee's termination (refer to the [Employee Termination Procedures in §7.10](#710-employee-termination-procedures)).
 8. All default system, application, and Partner passwords are changed before deployment to production and following any indication of compromise.
-9. Upon initial login, users must change any passwords that were automatically generated for them.
+9. Upon initial login, users must change any passwords that were automatically generated for them, requiring a new password immediately upon account recovery.
 10. Password change methods must use a confirmation method to correct for user input errors.
 11. All passwords used in configuration scripts are secured and encrypted.
 12. If a user believes their user ID has been compromised, they are required to immediately report the incident to the Security Office.
