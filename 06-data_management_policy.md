@@ -35,6 +35,7 @@ Of note, Luma does not physically house any systems used by its Platform in Luma
    * Date & time of backup
    * Where backup stored (or to whom it was provided)
 1. Securely encrypt stored backups in a manner that protects them from loss or environmental damage.
+1. Backups are replicated to an alternate location to ensure redundancy. This is achieved via AWS availability zones in both AWS and MongoDB.
 1. Test backups and document that files have been completely and accurately restored from the backup media.
 
 ## 6.3 Data Classification
