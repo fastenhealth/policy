@@ -8,6 +8,8 @@ last_modified_date: Tue Jan 4 08:39:41 2022 -0800
 
 Luma Health, Inc ("Luma") is committed to ensuring the confidentiality, privacy, integrity, and availability of all electronic protected health information (ePHI) it receives, maintains, processes and/or transmits on behalf of its Customers. As providers of compliant, mobile communication platform used by clinics, Luma strives to maintain compliance, proactively address information security, mitigate risk for its Customers, and assure known breaches are completely and effectively communicated in a timely manner. The following documents address core policies used by Luma to maintain compliance and assure the proper protections of infrastructure used to store, process, and transmit ePHI for Luma Customers.
 
+Luma Health's leadership team sets the tone from the top and ensures that adequate resources are available to maintain an effective Information Security Management System.
+
 The objective of Luma Health’s Information Security Management System is continued compliance with applicable frameworks and regulations such as HIPAA and HITRUST, and continuous improvement.
 
 Luma provides a messaging platform.
