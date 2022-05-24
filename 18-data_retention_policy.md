@@ -26,3 +26,11 @@ Despite not being a requirement within HIPAA, Luma understands and appreciates t
   1. Information required for disclosure;
   2. Written accounting provided to the individual;
   3. Titles of the persons or offices responsible for receiving and processing requests
+* Luma retains its formal Policies and Proedures including a record of changes indefinitely
+  1. Public Policies, such as Luma's HIPAA Compliance Policies are available at https://policy.lumahealth.io
+  2. Internal Policies and Procedures are stored in Luma's internal Wiki
+* Luma maintains compliance with notice requirements by keeping a copy of all notices issued by Luma for at least six years
+  1. Copies of notices are stored in a Google Drive with appropriate permissions assigned
+  2. If applicable, any acknowledgements of these notices shall also be stored here
+* Luma documents any restrictions in writing electronically and retains any such records for a minimum of 6 years
+  1. Restrictions are documented and stored in a restricted Google Drive folder
