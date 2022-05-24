@@ -61,6 +61,7 @@ Software patches and updates will be applied to all systems in a timely manner. 
 1. Implement and/or review controls designed to protect Production Data from improper alteration or destruction.
 1. Ensure that confidential data is stored in a manner that supports user access logs and automated monitoring for potential security incidents.
 1. All Production Data at rest is stored on encrypted volumes using encryption keys managed by Luma's hosting partner Amazon AWS. Encryption at rest is ensured through the use of automated deployment scripts referenced in the [Configuration Management Policy](#9.-configuration-management-policy).
+1. Production Data must only reside within the United States, this includes any data stored with a partner, such as AWS and MondoDB, and these are configured to use US-Based hosting only.
 1. Volume encryption keys and machines that generate volume encryption keys are protected from unauthorized access. Volume encryption key material is protected with access controls such that the key material is only accessible by privileged accounts.
 1. Key management is implemented based on specific roles and responsibilities, and in consideration of national and international regulations, restrictions, and issues
 1. Encrypted volumes use AES encryption with a minimum of 256-bit keys, or keys and ciphers of equivalent or higher cryptographic strength.
