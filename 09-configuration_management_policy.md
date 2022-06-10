@@ -30,7 +30,7 @@ Luma standardizes and automates configuration management with documentation of a
 1. Any operating systems and tools used must release shared system resources back to the system when not in use and ensure they are protected from disclosure to ensure they cannot be intentionally or unintentionally accessed. 
 1. An up-to-date inventory of systems is available via Amazon AWS and Cisco Meraki.
    * All systems are categorized as production and development to differentiate based on criticality.
-   * An inventory of user-issued devices is available via Cisco Meraki, and devices are automatically enrolled as part of the Apple DEP program.
+   * An inventory of user-issued devices is available via Cisco Meraki, and devices are automatically enrolled as part of the Apple DEP program. This inventory does not duplicate any other asset inventories as none exist or are maintaned ensuring alignment of content.
 1. All frontend functionality (web portals) are separated from backend (database and app servers) systems by being deployed on separate servers or containers.
 1. All software and systems are tested using unit tests and end to end tests to the greatest extent possible.
 1. All committed code is reviewed using pull requests to assure software code quality and proactively detect potential security issues in development when deemed necessary.
