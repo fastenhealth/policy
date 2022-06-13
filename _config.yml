@@ -9,7 +9,7 @@ last_edit_timestamp: true
 last_edit_time_format: "%b %e %Y at %I:%M %p"
 back_to_top: true
 back_to_top_text: "Back to top"
-footer_content: 'Copyright &copy; 2020 Luma Health. <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA</a>.'
+footer_content: 'Copyright &copy; 2022 Luma Health. <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA</a>.'
 gh_edit_link: true
 gh_edit_link_text: "Prior Versions"
 gh_edit_repository: "https://github.com/lumahealthhq/policy"
