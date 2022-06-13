@@ -1,6 +1,6 @@
 ---
 nav_order: 17
-last_modified_date: Tue Jan 11 14:28:02 2022 -0800
+last_modified_date: Mon Jun 13 14:28:02 2022 -0800
 ---
 
 # 17. Data Integrity Policy
@@ -83,5 +83,29 @@ Software patches and updates will be applied to all systems in a timely manner. 
 1. Stronger controls are in place to protect certain electronic messages, such as E-Mail, ensuring they are protected end-to-end.
 1. E-Mail communications use opportunistic TLS by default, ensuring that all transmissions are sent over an encrypted channel providing they can be accepted by the recipient. Data containing PHI should not be transmitted over E-Mail.
  
+## 18.0 Data De-Identification
 
+Luma follows the U.S. Department of Health and Human Services Safe Harbor guidelines for de-indentification of data containing PHI to ensure we remain in compliance with HIPAA.
 
+Luma ensures that the following identifiers (if existing) are removed:
+
+1. Names
+2. All geographic subdivisions smaller than a state, including street address, city, county, precinct, ZIP code, and their equivalent geocodes, except for the initial three digits of the ZIP code if, according to the current publicly available data
+  * The geographic unit formed by combining all ZIP codes with the same three initial digits contains more than 20,000 people
+  * The initial three digits of a ZIP code for all such geographic units containing 20,000 or fewer people is changed to 000
+3. All elements of dates (except year) for dates that are directly related to an individual
+4. Telephone Numbers
+5. Vehicle Identifiers
+6. Fax Numbers
+7. Device information, such as serial numbers
+8. Email Addresses
+9. Web URLs
+10. Social Security Numbers
+11. IP Address information
+12. Medical Record Numbers
+13. Biometric Identifiers
+14. Health Plan beneficiary numbers
+15. Photographs
+16. Account Numbers
+17. Any other unique identifying number, characteristic, or code
+18. Certificate/license numbers
