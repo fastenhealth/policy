@@ -46,8 +46,8 @@ It is the duty of the Human Resources representative to understand and commit to
 * Protect assets from unauthorized access, disclosure, modification, destruction, or interference;
 * Execute particular security processes or compliance activities;
 * Ensure responsibility is assigned to the individual for actions taken; 
-* Report security events or potential events or other potential security risks to the organization
-* Designate a level of risk to each position, where appropriate, to be reviewed on an annual basis
+* Report security events or potential events or other potential security risks to the organization;
+* Designate a level of risk to each position, where appropriate, to be reviewed on an annual basis and tracked with a ClickUp ticket;
 * Conduct background verification checks on all candidates for employment, contractors, and third-party users in accordance with relevant laws, regulations and ethics, and proportional to the business requirements, the classification of the information to be accessed, and the perceived risks. 
 * This can include but is not limited to:
 * Character references (e.g., 1 business, 1 personal);
@@ -73,6 +73,8 @@ The background check process is as follows:
 1. HR initiates a background check utilizing Granite
 1. The candidate will receive an email from Granite requesting their information
 1. HR will review the completed background checks and follow up on flagged items with the candidate, if deemed necessary
+
+All candidates are subject to the most thorough background screening possible. 
 
 
 ## 24.6 Performance Review Process
