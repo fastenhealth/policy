@@ -46,11 +46,14 @@ This policy establishes the scope, objectives, and procedures of Luma's informat
    1. If the review is approved, the Security Officer then marks the Issue as Done, adding any pertinent notes required.
 1. The Risk Management Procedure is monitored on a quarterly basis using ClickUp reporting to assess compliance with above policy.
 
+
 ## 4.3 Risk Management Procedures
 
 ### 4.3.1 Risk Assessment
 
 The intent of completing a risk assessment is to determine potential threats and vulnerabilities and the likelihood and impact should they occur. The output of this process helps to identify appropriate controls for reducing or eliminating risk.
+
+Based on the findings of each risk assessment, a business continuity strategy is developed to identify the overall approach to business continuity. Once the strategy has been identified, a plan will be created and endorsed by management for implementation
 
 * Step 1. System Characterization
   * The first step in assessing risk is to define the scope of the effort. To do this, identify where ePHI is received, maintained, processed, or transmitted. Using information-gathering techniques, the Luma Platform boundaries are identified.
