@@ -52,6 +52,12 @@ Software patches and updates will be applied to all systems in a timely manner. 
 1. System, network, and server security is managed and maintained by the Security Officer in conjunction with the DevOps team.
 2. Up to date system lists and architecture diagrams are kept for all production environments.
 3. Access to Production Systems is controlled using centralized tools and two-factor authentication.
+4. The process for granting access to the Production Systems is owned by the Information Security team and is outlined below. Any disruption in the described process will result in a delay or rejection of the request to the Production System.
+  1. The requesting user will submit a request utilizing a Slack workflow 
+  2. The requesting user's Supervisor will approve the stated business need
+  3. The HR team will verify the requesting user has completed their required HIPAA training
+  4. The Information Security Team will verify the disk encryption, Meraki and Crowdstrike management of the device and provide access to the designated device and user following a security training pertaining specifically to the Production System.
+
 
 ## 17.8 Production Data Security
 
@@ -83,7 +89,7 @@ Software patches and updates will be applied to all systems in a timely manner. 
 1. Stronger controls are in place to protect certain electronic messages, such as E-Mail, ensuring they are protected end-to-end.
 1. E-Mail communications use opportunistic TLS by default, ensuring that all transmissions are sent over an encrypted channel providing they can be accepted by the recipient. Data containing PHI should not be transmitted over E-Mail.
  
-## 18.0 Data De-Identification
+## 17.10 Data De-Identification
 
 Luma follows the U.S. Department of Health and Human Services Safe Harbor guidelines for de-indentification of data containing PHI to ensure we remain in compliance with HIPAA.
 
