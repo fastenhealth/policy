@@ -39,11 +39,11 @@ Access to Luma platform is limited for all users, including but not limited to w
 ## 7.2 Access Establishment and Modification
 
 1. Requests for access to Luma production systems is made formally using the following process:
-   1. A Luma workforce member initiates the access request via a ticket entitled "Access Requests" in Blissfully. 
+   1. A Luma workforce member initiates the access request via a form entitled "Permission Request" in Google Forms which then automatically creates a ticket in our task tracking software, ClickUp. 
      * User identities must be verified prior to granting access to new accounts.
      * Identity verification uses Google's two-factor authentication.
      * For new accounts, the method used to verify the user's identity must be recorded on the Issue.
-     * If a user requires a change in Access Rights, such as in the event of a role change, a Blissfully workflow is initiated so that relevant Account Managers are informed and can maek any required permissions changes.
+     * If a user requires a change in Access Rights, such as in the event of a role change, a Tangelo workflow is initiated so that relevant Account Managers are informed and can make any required permissions changes.
    1. The workforce member's direct manager will indicate on the request that it has their approval and is pertinent to the employee's job function.
    1. The Head of Engineering or his/her representative under the auspices of the Security Officer or Privacy Officer will grant access to systems as dictated by the employee's job title. If additional access is required outside of the minimum necessary to perform job functions, the requester must include a description of why the additional access is required as part of the access request.
    1. Once the review is completed, the Security Officer or Privacy Officer or a representative approves or rejects the request. If the request is rejected, it goes back for further review and documentation.
@@ -87,6 +87,8 @@ Access to Luma platform is limited for all users, including but not limited to w
 1. Access will only be provided to external parties, such as support personnel when it is absoloutly essential, and such access shall be approved be management, for a limited time only and be strictly monitored via existing processes.
 1. Contractors are subject to the same controls as employees 
 1. Different Account Types are identified, such as regular or administrative accounts and conditions for group and role membership are established. System Access and Group/Role Membership is always deny-all by default, providing only the minimum access required for job functions to be performed.
+1. Access to the production infrastructure is limited and only possible after the employee has gotten verification of their business need, the completion of their HIPAA training, and their disk encryption.
+ 
 
 ## 7.3 Workforce Clearance
 
