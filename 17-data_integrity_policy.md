@@ -65,7 +65,8 @@ Software patches and updates will be applied to all systems in a timely manner. 
 1. Volume encryption keys and machines that generate volume encryption keys are protected from unauthorized access. Volume encryption key material is protected with access controls such that the key material is only accessible by privileged accounts.
 1. Key management is implemented based on specific roles and responsibilities, and in consideration of national and international regulations, restrictions, and issues
 1. Encrypted volumes use AES encryption with a minimum of 256-bit keys, or keys and ciphers of equivalent or higher cryptographic strength.
-1. Copy, move, print, and storage of sensitive data are prohibited remotely without a defined business need. This is resctrited via technical controls implemented by Luma and present by default in operating systems in use.
+1. Copy, move, print, and storage of sensitive data are prohibited remotely without a defined business need. This is resctrited via technical and procedural controls implemented by Luma and present by default in operating systems in use. Access to the production infrastructure is outlined in the [System Access Policy](#7.-system-access-policy). 
+ 
 
 ## 17.9 Transmission Security
 
