@@ -34,3 +34,6 @@ Despite not being a requirement within HIPAA, Luma understands and appreciates t
   2. If applicable, any acknowledgements of these notices shall also be stored here
 * Luma documents any restrictions in writing electronically and retains any such records for a minimum of 6 years
   1. Restrictions are documented and stored in a restricted Google Drive folder
+* Luma adheres to the legal, regulatory, and business requirements for data retention including:
+  1. Secure deletion of data when no longer needed for legal, regulatory, or business reasons, and
+  1. A process for identifying and securely deleting stored data that exceeds defined retention requirements, as defined in [Disposable Media Policy §14.2](#14.2-disposable-media-policy)
