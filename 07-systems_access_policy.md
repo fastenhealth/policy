@@ -39,7 +39,7 @@ Access to Luma platform is limited for all users, including but not limited to w
 ## 7.2 Access Establishment and Modification
 
 1. Requests for access to Luma production systems is made formally using the following process:
-   1. A Luma workforce member initiates the access request via a form entitled "Permission Request" in Google Forms which then automatically creates a ticket in our task tracking software, ClickUp. 
+   1. A Luma workforce member initiates the access request via a form entitled "Permission Request" in a Slack Workflow which then automatically creates a ticket in our task tracking software, ClickUp. 
      * User identities must be verified prior to granting access to new accounts.
      * Identity verification uses Google's two-factor authentication.
      * For new accounts, the method used to verify the user's identity must be recorded on the Issue.
