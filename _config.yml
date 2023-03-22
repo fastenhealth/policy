@@ -16,3 +16,7 @@ gh_edit_repository: "https://github.com/fastenhealth/policy"
 gh_edit_branch: "main"
 gh_edit_view_mode: "commits"
 color_scheme: light
+callouts:
+  warning:
+    title: Warning
+    color: red
