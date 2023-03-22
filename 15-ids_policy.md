@@ -3,6 +3,9 @@ nav_order: 15
 last_modified_date: Tue Jan 11 08:20:39 2022 -0800
 ---
 
+{: .warning }
+This page is under development and may contain inaccurate content.
+
 # 15. IDS Policy
 
 In order to preserve the integrity of data that Fasten stores, processes, or transmits for Customers, Fasten implements strong intrusion detection tools and policies to proactively track and retroactively investigate unauthorized access. Fasten currently utilizes [AWS' GuardDuty](https://aws.amazon.com/guardduty/) to track file system integrity, monitor log data, and detect rootkit access.

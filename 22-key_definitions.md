@@ -2,6 +2,9 @@
 nav_order: 22
 ---
 
+{: .warning }
+This page is under development and may contain inaccurate content.
+
 # 22. Key Definitions
 
 * *Application*: An application hosted by Fasten, either maintained and created by Fasten, or created by a Partner.

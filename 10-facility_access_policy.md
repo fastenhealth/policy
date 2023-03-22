@@ -3,6 +3,9 @@ nav_order: 10
 last_modified_date: Mon Jan 10 15:58:53 2022 -0800
 ---
 
+{: .warning }
+This page is under development and may contain inaccurate content.
+
 # 10. Facility Access Policy
 
 Fasten works with Subcontractors to assure restriction of physical access to systems used as part of the Fasten Platform. Fasten and its Subcontractors control access to the physical buildings/facilities that house these systems/applications, or in which Fasten workforce members operate, in accordance with the HIPAA Security Rule 164.310 and its implementation specifications. Physical Access to all of Fasten facilities is limited to only those authorized in this policy. In an effort to safeguard ePHi from unauthorized access, tampering, and theft, access is allowed to areas only to those persons authorized to be in them and with escorts for unauthorized persons. All workforce members are responsible for reporting an incident of unauthorized visitor and/or unauthorized access to Fasten's facility.

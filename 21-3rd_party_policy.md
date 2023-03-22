@@ -3,6 +3,9 @@ nav_order: 21
 last_modified_date: Tue Feb 8 13:20:24 2022 -0800
 ---
 
+{: .warning }
+This page is under development and may contain inaccurate content.
+
 # 21. 3rd Party Policy
 
 Fasten makes every effort to assure all 3rd party organizations are compliant and do not compromise the integrity, security, and privacy of Fasten or Fasten Customer data. 3rd Parties include Customers, Partners, Subcontractors, and Contracted Developers.

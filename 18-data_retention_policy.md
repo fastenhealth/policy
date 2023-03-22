@@ -3,6 +3,9 @@ nav_order: 18
 last_modified_date: Mon Jan 10 10:52:41 2022 -0800
 ---
 
+{: .warning }
+This page is under development and may contain inaccurate content.
+
 # 18. Data Retention Policy
 
 Despite not being a requirement within HIPAA, Fasten understands and appreciates the importance of health data retention. Acting as a subcontractor, and at times a business associate, Fasten is not directly responsible for health and medical records retention as set forth by each state. Despite this, Fasten has created and implemented the following policy to make it easier for Fasten Customers to support data retention laws.

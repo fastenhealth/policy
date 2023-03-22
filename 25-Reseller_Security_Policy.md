@@ -2,6 +2,10 @@
 nav_order: 25
 last_modified_date: Tue Jan 4 15:29:22 2022 -0800
 ---
+
+{: .warning }
+This page is under development and may contain inaccurate content.
+
 # 25. Reseller Security Policy
 
 When entering into an agreement to resell Fasten Health products, reseller will ensure that their customer follows these Information Security guidelines:

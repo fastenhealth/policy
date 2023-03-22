@@ -3,6 +3,9 @@ nav_order: 7
 last_modified_date: Fri Jan 7 17:48:30 2022 -0800
 ---
 
+{: .warning }
+This page is under development and may contain inaccurate content.
+
 # 7. System Access Policy
 
 Access to Fasten platform is limited for all users, including but not limited to workforce members, volunteers, business associates, contracted providers, consultants, and any other entity, is allowable only on a minimum necessary basis. All users are responsible for reporting an incident of unauthorized user or access of the Fasten platform. These safeguards have been established to address the HIPAA Security regulations including the following:

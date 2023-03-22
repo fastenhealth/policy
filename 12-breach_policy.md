@@ -3,6 +3,9 @@ nav_order: 12
 last_modified_date: Tue Jan 11 08:10:49 2022 -0700
 ---
 
+{: .warning }
+This page is under development and may contain inaccurate content.
+
 # 12. Breach Policy
 
 To provide guidance for breach notification when impressive or unauthorized access, acquisition, use and/or disclosure of the ePHI occurs. Breach notification will be carried out in compliance with the American Recovery and Reinvestment Act (ARRA)/Health Information Technology for Economic and Clinical Health Act (HITECH) as well as any other federal or state notification law.
