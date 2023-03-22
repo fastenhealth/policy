@@ -5,7 +5,7 @@ last_modified_date: Mon Jun 13 14:28:02 2022 -0800
 
 # 17. Data Integrity Policy
 
-Luma takes data integrity very seriously. As stewards and partners of Luma Customers, we strive to assure data is protected from unauthorized access and that it is available when needed. The following policies drive many of our procedures and technical settings in support of the Luma mission of data protection.
+Fasten takes data integrity very seriously. As stewards and partners of Fasten Customers, we strive to assure data is protected from unauthorized access and that it is available when needed. The following policies drive many of our procedures and technical settings in support of the Fasten mission of data protection.
 
 Production systems that create, receive, store, or transmit Customer data (hereafter "Production Systems") must follow the guidelines described in this section.
 
@@ -25,7 +25,7 @@ Production systems that create, receive, store, or transmit Customer data (herea
 
 ## 17.3 Monitoring Log-in Attempts
 
-1. All access to Production Systems must be logged. This is done following the Luma Auditing Policy.
+1. All access to Production Systems must be logged. This is done following the Fasten Auditing Policy.
 
 ## 17.4 Prevention of Malware on Production Systems
 
@@ -34,7 +34,7 @@ Production systems that create, receive, store, or transmit Customer data (herea
    * Hosts are scanned on boot and daily for malicious binaries in critical system paths.
    * The malware signature database is checked hourly and automatically updated if new signatures are available.
    * Logs of virus scans are maintained according to the requirements outlined in [§8.6](08-auditing_policy.html#86-audit-log-security-controls-and-backup).
-1. All Production Systems are to only be used for Luma business needs.
+1. All Production Systems are to only be used for Fasten business needs.
 1. Malicious code that is identified is blocked, quarantined, and an alert is sent to administrators.
 1. Anti-malware is centrally managed and cannot be disabled by the users.  
 
@@ -66,35 +66,35 @@ Software patches and updates will be applied to all systems in a timely manner. 
 1. Reduce the risk of compromise of Production Data.
 1. Implement and/or review controls designed to protect Production Data from improper alteration or destruction.
 1. Ensure that confidential data is stored in a manner that supports user access logs and automated monitoring for potential security incidents.
-1. All Production Data at rest is stored on encrypted volumes using encryption keys managed by Luma's hosting partner Amazon AWS. Encryption at rest is ensured through the use of automated deployment scripts referenced in the [Configuration Management Policy](#9.-configuration-management-policy).
+1. All Production Data at rest is stored on encrypted volumes using encryption keys managed by Fasten's hosting partner Amazon AWS. Encryption at rest is ensured through the use of automated deployment scripts referenced in the [Configuration Management Policy](#9.-configuration-management-policy).
 1. Production Data must only reside within the United States, this includes any data stored with a partner, such as AWS and MondoDB, and these are configured to use US-Based hosting only.
 1. Volume encryption keys and machines that generate volume encryption keys are protected from unauthorized access. Volume encryption key material is protected with access controls such that the key material is only accessible by privileged accounts.
 1. Key management is implemented based on specific roles and responsibilities, and in consideration of national and international regulations, restrictions, and issues
 1. Encrypted volumes use AES encryption with a minimum of 256-bit keys, or keys and ciphers of equivalent or higher cryptographic strength.
-1. Copy, move, print, and storage of sensitive data are prohibited remotely without a defined business need. This is resctrited via technical and procedural controls implemented by Luma and present by default in operating systems in use. Access to the production infrastructure is outlined in the [System Access Policy](#7.-system-access-policy). 
+1. Copy, move, print, and storage of sensitive data are prohibited remotely without a defined business need. This is resctrited via technical and procedural controls implemented by Fasten and present by default in operating systems in use. Access to the production infrastructure is outlined in the [System Access Policy](#7.-system-access-policy). 
  
 
 ## 17.9 Transmission Security
 
-1. All data transmission is encrypted end to end using encryption keys managed by Luma. Encryption is not terminated at the network end point, and is carried through to the application ensuring that security is managed through all aspects of any transactions. 
+1. All data transmission is encrypted end to end using encryption keys managed by Fasten. Encryption is not terminated at the network end point, and is carried through to the application ensuring that security is managed through all aspects of any transactions. 
 1. Encryption is used to protect covered information on mobile/removable media and across communication lines. 
 1. Information systems protect the confidentiality and integrity of transmitted information, including during preparation for transmission and during reception.
 1. Transmission encryption keys and machines that generate keys are protected from unauthorized access. Transmission encryption key material is protected with access controls such that the key material is only accessible by privileged accounts.
 1. Transmission encryption keys use a minimum of 4096-bit RSA keys, or keys and ciphers of equivalent or higher cryptographic strength (e.g., 256-bit AES session keys in the case of IPsec encryption).
-1. Luma uses a trusted autority to issue certificates, ensuring that security is integrated and embedded throughout the entire end-to-end certificate.
+1. Fasten uses a trusted autority to issue certificates, ensuring that security is integrated and embedded throughout the entire end-to-end certificate.
 1. Transmission encryption keys are limited to use for one year and then must be regenerated.
 1. System logs of all transmissions of Production Data access. These logs must be available for audit.
-1. Transaction details, such as logs are stored outside of publically available environments. All such information remains within Luma's AWS envrionment with no public route accessible. 
+1. Transaction details, such as logs are stored outside of publically available environments. All such information remains within Fasten's AWS envrionment with no public route accessible. 
 1. Data containing PHI must not be sent over Fax, Instant Messaging or Chat platforms.
-1. Luma does not disclose PII to any external parties via any method including telephone, fax and e-mail without first obtaining consent from the data subject. Consent is obtained via E-Mail and retained for a period of 6 years. 
+1. Fasten does not disclose PII to any external parties via any method including telephone, fax and e-mail without first obtaining consent from the data subject. Consent is obtained via E-Mail and retained for a period of 6 years. 
 1. Stronger controls are in place to protect certain electronic messages, such as E-Mail, ensuring they are protected end-to-end.
 1. E-Mail communications use opportunistic TLS by default, ensuring that all transmissions are sent over an encrypted channel providing they can be accepted by the recipient. Data containing PHI should not be transmitted over E-Mail.
  
 ## 17.10 Data De-Identification
 
-Luma follows the U.S. Department of Health and Human Services Safe Harbor guidelines for de-indentification of data containing PHI to ensure we remain in compliance with HIPAA.
+Fasten follows the U.S. Department of Health and Human Services Safe Harbor guidelines for de-indentification of data containing PHI to ensure we remain in compliance with HIPAA.
 
-Luma ensures that the following identifiers (if existing) are removed:
+Fasten ensures that the following identifiers (if existing) are removed:
 
 1. Names
 2. All geographic subdivisions smaller than a state, including street address, city, county, precinct, ZIP code, and their equivalent geocodes, except for the initial three digits of the ZIP code if, according to the current publicly available data

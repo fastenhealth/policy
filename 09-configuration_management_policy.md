@@ -1,7 +1,7 @@
 
 # 9. Configuration Management Policy
 
-Luma standardizes and automates configuration management with documentation of all changes to production systems and networks. All systems are configured automatically according to established and tested policies, and are used as part of our Disaster Recovery plan and process.
+Fasten standardizes and automates configuration management with documentation of all changes to production systems and networks. All systems are configured automatically according to established and tested policies, and are used as part of our Disaster Recovery plan and process.
 
 ## 9.1 Applicable Standards
 
@@ -16,13 +16,13 @@ Luma standardizes and automates configuration management with documentation of a
 
 ## 9.2 Configuration Management Policies
 
-1. No systems are deployed into Luma environments without approval of the Luma CTO or authorized representative.
+1. No systems are deployed into Fasten environments without approval of the Fasten CTO or authorized representative.
 1. System Owners or Managers are responsible for ensuring that any new configurations or changes have adequate Security controls and/or do not compromise the Security of existing systems.
-1. All changes allowed within the AWS environment to production systems, network devices, and firewalls are approved by the Luma CTO or authorized representative before they are implemented to assure they comply with business and security requirements.
+1. All changes allowed within the AWS environment to production systems, network devices, and firewalls are approved by the Fasten CTO or authorized representative before they are implemented to assure they comply with business and security requirements.
 1. All changes to production systems are tested before they are implemented in production.
 1. Implementation of approved changes are only performed by authorized personnel.
 1. Any deviations from the standard configuration or updates to the standard configuration are documented and approved in a a change control system
-1. Systems will be deployed following the standard baseline configuration instructions found in Luma Health’s internal Wiki. This baseline shall include applicable security controls such as Firewalls, Logging and Endpoint Protection. Any ports, services or applications that are not required for system functionality shall be removed or disabled.
+1. Systems will be deployed following the standard baseline configuration instructions found in Fasten Health’s internal Wiki. This baseline shall include applicable security controls such as Firewalls, Logging and Endpoint Protection. Any ports, services or applications that are not required for system functionality shall be removed or disabled.
 1. New configuration rules beyond a baseline-hardened configuration that allow traffic to flow through network security devices such as firewalls and network-based IPS, are also documented and recorded, with a specific business reason for each change, a specific individual's name responsible for that business need, and an expected duration of the need.
 1. Automated security controls will be used wherever possible, supplemented by manual security controls where appropriate. 
 1. System security parameters shall be defined to prevent misuse. This will include but is not limited to following the principles of least privilege, role based access control.
@@ -34,8 +34,8 @@ Luma standardizes and automates configuration management with documentation of a
 1. All frontend functionality (web portals) are separated from backend (database and app servers) systems by being deployed on separate servers or containers.
 1. All software and systems are tested using unit tests and end to end tests to the greatest extent possible.
 1. All committed code is reviewed using pull requests to assure software code quality and proactively detect potential security issues in development when deemed necessary.
-1. Luma utilizes continuous development strategy to assure proper functionality.
-1. Luma also deploys environments locally to assure functionality before moving to production. This ensures total seperation between development and production environments. 
+1. Fasten utilizes continuous development strategy to assure proper functionality.
+1. Fasten also deploys environments locally to assure functionality before moving to production. This ensures total seperation between development and production environments. 
 1. Clocks are continuously synchronized to an authoritative source across all systems using NTP or a platform-specific equivalent. Modifying time data on systems is restricted.
 1. Any vendor supplied software used must be on a version that is still supported by the vendor 
 1. Any systems using a Web Browser will utilize the latest version available to ensure the latest security functions are available
@@ -53,14 +53,14 @@ Luma standardizes and automates configuration management with documentation of a
 
 1. Before rolling out the change to production, team members must discuss the change with other team members and document it.
 1. Once the request has been approved by the CTO or authorized representative, team members may roll out the change into production environments.
-1. If a software component reaches end of life or is otherwise no longer supported by the manufacturer, then a plan must be developed to upgrade or replace this component. Luma Health’s standard Change Control procedures will be followed in this event.
+1. If a software component reaches end of life or is otherwise no longer supported by the manufacturer, then a plan must be developed to upgrade or replace this component. Fasten Health’s standard Change Control procedures will be followed in this event.
 1. In the event that any servers, physical or virtual need to be migrated, this must always be done over an encrypted channel, and product systems must be separated from non-production systems, either physically or logically. 
 
 
 ## 9.5 Patch Management Procedures
 
-1. Luma does not have root access to the virtual machines. Patches are managed by AWS.
-2. Patches on user devices such as laptops are centrally managed via an MDM solution. Luma's Information Security team pushes out required patches on demand. Security related updates, such as anti-virus definition updates are automatically applied as they become available. 
+1. Fasten does not have root access to the virtual machines. Patches are managed by AWS.
+2. Patches on user devices such as laptops are centrally managed via an MDM solution. Fasten's Information Security team pushes out required patches on demand. Security related updates, such as anti-virus definition updates are automatically applied as they become available. 
 3. Updates are not automatically applied on critical systems.
 
 
@@ -79,7 +79,7 @@ Luma standardizes and automates configuration management with documentation of a
 4. If the feature or defect interacts with ePHI, or controls access to data potentially containing ePHI, the code changes must be reviewed by two members before the feature is marked as complete.
    * This review must include a security analysis for potential vulnerabilities such as those listed in the [OWASP Top 10](https://www.owasp.org/index.php/Top10) or the [CWE top 25](http://cwe.mitre.org/top25/). Such reviews will used automated security controls where possible, such as GitHub dependabot, supplemented by manual security reviews.
    * This review must also verify that any actions performed by authenticated users will generate appropriate audit log entries.
-   * Team members are required to undergo annual training on identifying the most common software vulnerabilities and will receive ongoing training on Luma's compliance and security requirements.
+   * Team members are required to undergo annual training on identifying the most common software vulnerabilities and will receive ongoing training on Fasten's compliance and security requirements.
 5. Once the review process finishes, each reviewer should leave a comment on the pull request saying "looks good to me" (often abbreviated as "LGTM") or approval on the pull request using built-in GitHub mechanisms, at which point the original author(s) may merge their change into the release branch.
 6. Should any development activities be outsourced, the outsourced developer will be required follow the same procedures above and throughout this policy.
 
@@ -108,5 +108,5 @@ Luma standardizes and automates configuration management with documentation of a
 1. Network connections to any system outside of our production environment must be formally approved and documented on a network diagram.
 1. Network diagrams are maintained by the SRE team and are updated whenever there are network changes and no less than every six months.
 1. VPN connections to the production environment must use a minimum of TLS 1.2 to encrypt data in transit.
-1. Should Luma outsource any network services, vendors are required to to identify the specific functions, ports, and protocols used in the provision of the external/outsourced services
+1. Should Fasten outsource any network services, vendors are required to to identify the specific functions, ports, and protocols used in the provision of the external/outsourced services
 

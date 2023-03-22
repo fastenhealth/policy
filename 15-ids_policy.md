@@ -5,7 +5,7 @@ last_modified_date: Tue Jan 11 08:20:39 2022 -0800
 
 # 15. IDS Policy
 
-In order to preserve the integrity of data that Luma stores, processes, or transmits for Customers, Luma implements strong intrusion detection tools and policies to proactively track and retroactively investigate unauthorized access. Luma currently utilizes [AWS' GuardDuty](https://aws.amazon.com/guardduty/) to track file system integrity, monitor log data, and detect rootkit access.
+In order to preserve the integrity of data that Fasten stores, processes, or transmits for Customers, Fasten implements strong intrusion detection tools and policies to proactively track and retroactively investigate unauthorized access. Fasten currently utilizes [AWS' GuardDuty](https://aws.amazon.com/guardduty/) to track file system integrity, monitor log data, and detect rootkit access.
 
 ## 15.1 Applicable Standards
 
@@ -25,7 +25,7 @@ In order to preserve the integrity of data that Luma stores, processes, or trans
 1. AWS GuardDuty generates alerts to analyze and investigate suspicious activity or suspected violations.
 1. AWS GuardDuty monitors file system integrity and sends real time alerts when suspicious changes are made to the file system.
 1. Automatic monitoring is done to identify patterns that might signify the lack of availability of certain services and systems (DoS attacks).
-1. Luma firewalls monitor all incoming traffic to detect potential denial of service attacks. Suspected attack sources are blocked automatically. Additionally, our hosting provider actively monitors its network to detect denial of services attacks.
+1. Fasten firewalls monitor all incoming traffic to detect potential denial of service attacks. Suspected attack sources are blocked automatically. Additionally, our hosting provider actively monitors its network to detect denial of services attacks.
 1. All new firewall rules and configuration changes are tested before being pushed into production. All firewall and router rules are reviewed every quarter.
-1. Luma utilizes redundant firewalls on network perimeters.
-1. Luma utilizes Web Application Firewalls in front of any public facing web applications to control traffic. 
+1. Fasten utilizes redundant firewalls on network perimeters.
+1. Fasten utilizes Web Application Firewalls in front of any public facing web applications to control traffic. 

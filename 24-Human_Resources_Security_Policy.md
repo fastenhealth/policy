@@ -6,23 +6,23 @@ last_modified_date: Mon Feb 07 16:29:00 2022 -0700
 
 # 24. Human Resources Security Policy
 
-Luma is committed to ensuring that employees, contractors, and third-party users are suitable for the roles for which they are being considered, to reduce the risk of theft, fraud, or misuse of facilities. 
+Fasten is committed to ensuring that employees, contractors, and third-party users are suitable for the roles for which they are being considered, to reduce the risk of theft, fraud, or misuse of facilities. 
 
 
 
 ## 24.1 Employee Onboarding
 
-Luma ensures that employees, contractors and third party users agree to the terms and conditions concerning information security appropriate to the nature and extent of access they will have to Luma’s assets and systems. Access privileges are not granted until the terms and conditions and other relevant agreements have been signed.
+Fasten ensures that employees, contractors and third party users agree to the terms and conditions concerning information security appropriate to the nature and extent of access they will have to Fasten’s assets and systems. Access privileges are not granted until the terms and conditions and other relevant agreements have been signed.
 
 The terms and conditions of their employment contract shall include but are not limited to:
 
 1. Responsibilities as it pertains to information security;
-1. Responsibilities as it pertains to Luma’s IT assets;
+1. Responsibilities as it pertains to Fasten’s IT assets;
 1. Management of organizational assets associated with information systems and services handled by the employee, contractor, or third party user;
 1. Management of information received from other companies or external parties;
 1. Responsibilities of the employee for the handling of all covered information;
 1. Actions to be taken if the employee, contractor, of third party user disregard the security requirements, as described in [§19.2](#192-employees-policies); and
-1. Responsibilities as it pertains to the intellectual property of Luma, including information created as a result of, or in the course of, employment with Luma
+1. Responsibilities as it pertains to the intellectual property of Fasten, including information created as a result of, or in the course of, employment with Fasten
 
 
 
@@ -60,7 +60,7 @@ It is the duty of the Human Resources representative to understand and commit to
 
 ## 24.4 Security and Compliance Requirements
 
-Luma’s security awareness and training program is given to new employees to be completed within the first 30 days of employment to introduce the organization’s security and privacy policies, state and federal laws, and expectations before access to information or services is granted. New employees, contracts, or third-party users are also subject to an agreement which clearly defines the expectations for Luma’s IT assets (e.g., laptops, monitors, softwares).
+Fasten’s security awareness and training program is given to new employees to be completed within the first 30 days of employment to introduce the organization’s security and privacy policies, state and federal laws, and expectations before access to information or services is granted. New employees, contracts, or third-party users are also subject to an agreement which clearly defines the expectations for Fasten’s IT assets (e.g., laptops, monitors, softwares).
 
 ## 24.5 Background Check Process
 
@@ -92,9 +92,9 @@ The performance review process is as follows:
 
 ## 24.7 Workforce Sanctions & Disciplinary Records
 
-This policy applies to all Luma employees and is designed to be positive and corrective. Employee discipline is considered a serious action that is undertaken with care, objectivity and full consideration for the rights and interests of the employee. Discipline shall be administered in a judicious manner that strives to be corrective and appropriate to the offense rather than punitive.
+This policy applies to all Fasten employees and is designed to be positive and corrective. Employee discipline is considered a serious action that is undertaken with care, objectivity and full consideration for the rights and interests of the employee. Discipline shall be administered in a judicious manner that strives to be corrective and appropriate to the offense rather than punitive.
 
-Sanctions are fairly applied to employees following violations of the information security policies. Luma documents personnel involved in incidents, steps taken, and the timelines associated with those steps, steps taken for notification, the rationale for discipline, and the final outcome for each incident. A list of employees involved in security incidents is maintained in the HR Google Drive.
+Sanctions are fairly applied to employees following violations of the information security policies. Fasten documents personnel involved in incidents, steps taken, and the timelines associated with those steps, steps taken for notification, the rationale for discipline, and the final outcome for each incident. A list of employees involved in security incidents is maintained in the HR Google Drive.
 
 The process for disciplinary action is as follows:
 

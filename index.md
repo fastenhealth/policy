@@ -3,11 +3,11 @@ nav_exclude: true
 last_modified_date: Sun Mar 14 04:03:51 2021 -0700
 ---
 
-# Luma HIPAA Compliance Policies
+# Fasten HIPAA Compliance Policies
 
-Luma helps relieve the challenges of patient communication and engagement with our HIPAA-compliant messaging platform for healthcare.
+Fasten helps relieve the challenges of patient communication and engagement with our HIPAA-compliant messaging platform for healthcare.
 
-HIPAA compliance really has two halves. The first half includes all technical guidelines, both physical and digital. Compliant companies take measures to secure their hardware and manage their software in a certain way. Encryption, logging, monitoring—these are just a few examples of HIPAA technical requirements. Luma builds its platform with these guidelines in mind.
+HIPAA compliance really has two halves. The first half includes all technical guidelines, both physical and digital. Compliant companies take measures to secure their hardware and manage their software in a certain way. Encryption, logging, monitoring—these are just a few examples of HIPAA technical requirements. Fasten builds its platform with these guidelines in mind.
 
 The second half of HIPAA is focused on administrative and organizational activities. This includes signing Business Associate Agreements (BAAs), managing company policies like training, among other things. Crafting company policies that align with HIPAA administrative guidelines are straightforward, but an immense burden.
 
@@ -15,7 +15,7 @@ The second half of HIPAA is focused on administrative and organizational activit
 
 As a company who handles ePHI, it's critical we maintain and publish your own policies. HIPAA compliance is complicated, but it doesn't have to be. In order to assure the utmost completeness of our policies, we have adopted policies from an industry leader in HIPAA compliance [Datica](htts://datica.com), healthcare's trusted HITRUST CSF Certified digital health platform.
 
-Luma Health used open source policies from Datica as the starting basis of Luma Health policies. We will continue to customize to our needs and compare to the updates made from the forked repository from Datica (formerly Catalyze.io), [https://github.com/catalyzeio/policies](https://github.com/catalyzeio/policies) and published to [https://policy.datica.com](https://policy.datica.com).
+Fasten Health used open source policies from Datica as the starting basis of Fasten Health policies. We will continue to customize to our needs and compare to the updates made from the forked repository from Datica (formerly Catalyze.io), [https://github.com/catalyzeio/policies](https://github.com/catalyzeio/policies) and published to [https://policy.datica.com](https://policy.datica.com).
 
 These policies have been written with modern, cloud-based technology vendors in mind. We looked far and wide for policy examples and found that Datica's fit our company best. So we forked their repository and made them our basis. Importantly, the basis of these Datica open source policies have been through three external audits - two HIPAA audits and one HITRUST audit.
 
@@ -43,5 +43,5 @@ These policies have been written with modern, cloud-based technology vendors in 
 * [Approved Tools Policy](20-approved_tools_policy.md)
 * [3rd Party Policy](21-3rd_party_policy.md)
 * [Key Definitions](22-key_definitions.md)
-* [Luma HIPAA Business Associate Agreement (“BAA”)](23-luma_hipaa_business_associate_agreement.md)
-* [HIPAA Mappings to Luma Controls](24-hipaa_mapping_to_luma_controls.md)
+* [Fasten HIPAA Business Associate Agreement (“BAA”)](23-fasten_hipaa_business_associate_agreement.md)
+* [HIPAA Mappings to Fasten Controls](24-hipaa_mapping_to_Fasten_controls.md)

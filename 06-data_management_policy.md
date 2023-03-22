@@ -5,13 +5,13 @@ last_modified_date: Fri Jan 7 06:59:05 2022 -0700
 
 # 6.  Data Management Policy
 
-Luma has procedures to create and maintain retrievable exact copies of electronic protected health information (ePHI) stored.
+Fasten has procedures to create and maintain retrievable exact copies of electronic protected health information (ePHI) stored.
 
-Data backup is an important part of the day-to-day operations of Luma. To protect the confidentiality, integrity, and availability of ePHI, complete backups are done daily to assure that data remains available when it is needed and in case of a disaster. To accomplish this, Luma utilizes MongoDB Atlas’ [backup service](backup service).
+Data backup is an important part of the day-to-day operations of Fasten. To protect the confidentiality, integrity, and availability of ePHI, complete backups are done daily to assure that data remains available when it is needed and in case of a disaster. To accomplish this, Fasten utilizes MongoDB Atlas’ [backup service](backup service).
 
 Violation of this policy and its procedures by workforce members may result in corrective disciplinary action, up to and including termination of employment.
 
-Of note, Luma does not physically house any systems used by its Platform in Luma facilities. The physical infrastructure environment is hosted at Amazon Web Services (AWS) including the network components and supporting network infrastructure. Luma does not own any equipment which houses ePHI.
+Of note, Fasten does not physically house any systems used by its Platform in Fasten facilities. The physical infrastructure environment is hosted at Amazon Web Services (AWS) including the network components and supporting network infrastructure. Fasten does not own any equipment which houses ePHI.
 
 ## 6.1 Applicable Standards
 
@@ -27,8 +27,8 @@ Of note, Luma does not physically house any systems used by its Platform in Luma
 
 ## 6.2 Backup Policy and Procedures
 
-1. Perform daily snapshot backups of all systems that process, store, or transmit ePHI for Luma Customers as automated by AWS’ Backup Service.
-1. The Luma Ops Team is designated to be in charge of backups.
+1. Perform daily snapshot backups of all systems that process, store, or transmit ePHI for Fasten Customers as automated by AWS’ Backup Service.
+1. The Fasten Ops Team is designated to be in charge of backups.
 1. DevOps Team members are trained and assigned to complete backups if deemed necessary beyond the automated backups as above. This is managed through the Amazon AWS dashboard.
 1. Document backups
    * Name of the system
@@ -41,12 +41,12 @@ Of note, Luma does not physically house any systems used by its Platform in Luma
 ## 6.3 Data Classification
 
 
-1. Luma, based on the data classification level, registers media prior to use, places reasonable restrictions on how such media be used, and provide an appropriate level of physical and logical protection for media containing covered information until properly destroyed or sanitized
+1. Fasten, based on the data classification level, registers media prior to use, places reasonable restrictions on how such media be used, and provide an appropriate level of physical and logical protection for media containing covered information until properly destroyed or sanitized
 1. Media is labeled, encrypted, and handled according to its classification
 1. Guidelines are issued by the organization on the ownership, classification, retention, storage, handling and disposal or all records and information
-2. Sensitivity of systems and applications is identified and defined by the system / appplication owner. Luma considers all systems and applications that contain customer information to be confidential and are defined by the system owner as such
-3. Luma considers all customer information to be confidential
+2. Sensitivity of systems and applications is identified and defined by the system / appplication owner. Fasten considers all systems and applications that contain customer information to be confidential and are defined by the system owner as such
+3. Fasten considers all customer information to be confidential
 4. All employee issued devices are considered confidential and can be traced to the individual
-5. All AWS infrastructure is considered confidential and is the responsibility of Luma’s SRE team
+5. All AWS infrastructure is considered confidential and is the responsibility of Fasten’s SRE team
 
 

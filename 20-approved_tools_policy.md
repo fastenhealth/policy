@@ -5,7 +5,7 @@ last_modified_date: Wed Jan 12 08:20:39 2022 -0800
 
 # 20. Approved Tools Policy
 
-Luma utilizes a suite of approved software tools for internal use by workforce members. These software tools are either self-hosted, with security managed by Luma, or they are hosted by a Subcontractor with appropriate business associate agreements in place to preserve data integrity when deemed appropriate. Use of other tools requires approval from Luma leadership.
+Fasten utilizes a suite of approved software tools for internal use by workforce members. These software tools are either self-hosted, with security managed by Fasten, or they are hosted by a Subcontractor with appropriate business associate agreements in place to preserve data integrity when deemed appropriate. Use of other tools requires approval from Fasten leadership.
 
 ## 20.1 List of Approved Tools
 
