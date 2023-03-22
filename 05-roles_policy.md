@@ -29,8 +29,8 @@ The Privacy Officer is responsible for assisting with compliance and security tr
 * 3. Manage relationships with customers and partners as those relationships affect security and compliance of ePHI.
 * 4. Assist Security Officer as needed.
 
-The current Fasten Privacy Officer is Adnan Iqbal
-([adnan@Fastenhealth.io](mailto:adnan@Fastenhealth.io)).
+The current Fasten Privacy Officer is Jason Kulatunga
+([jason@fastenhealth.com](mailto:jason@fastenhealth.com)).
 
 ### 5.2.1 Workforce Training Responsibilities
 
@@ -97,7 +97,7 @@ The current Fasten Privacy Officer is Adnan Iqbal
 
 The Security Officer is responsible for facilitating the training and supervision of all workforce members [164.308(a)(3)(ii)(A) and 164.308(a)(5)(ii)(A)], investigation and sanctioning of any workforce member that is in violation of Fasten security policies and non-compliance with the security regulations [164.308(a)(1)(ii)&lpar;c&rpar;], and writing, implementing, and maintaining all polices, procedures, and documentation related to efforts toward security and compliance [164.316(a-b)].
 
-The current Fasten Security Officer is Nick Lees([nick@Fastenhealth.io](mailto:nick@Fastenhealth.io)).
+The current Fasten Security Officer is Jason Kulatunga([jason@fastenhealth.com](mailto:jason@fastenhealth.com)).
 
 ### 5.3.1 Organizational Responsibilities
 

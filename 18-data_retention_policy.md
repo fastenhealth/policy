@@ -27,7 +27,7 @@ Despite not being a requirement within HIPAA, Fasten understands and appreciates
   2. Written accounting provided to the individual;
   3. Titles of the persons or offices responsible for receiving and processing requests
 * Fasten retains its formal Policies and Proedures including a record of changes indefinitely
-  1. Public Policies, such as Fasten's HIPAA Compliance Policies are available at https://policy.Fastenhealth.io
+  1. Public Policies, such as Fasten's HIPAA Compliance Policies are available at https://policy.fastenhealth.com
   2. Internal Policies and Procedures are stored in Fasten's internal Wiki
 * Fasten maintains compliance with notice requirements by keeping a copy of all notices issued by Fasten for at least six years
   1. Copies of notices are stored in a Google Drive with appropriate permissions assigned

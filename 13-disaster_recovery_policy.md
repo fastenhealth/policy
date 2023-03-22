@@ -55,8 +55,7 @@ Fasten defined two categories of systems from a disaster recovery perspective.
 
 The following order of succession to ensure that decision-making authority for the Fasten Contingency Plan is uninterrupted. The Chief Technology Officer (CTO) is responsible for ensuring the safety of personnel and the execution of procedures documented within this Fasten Contingency Plan. If the CTO is unable to function as the overall authority or chooses to delegate this responsibility to a successor, the CEO or CMO shall function as that authority. To provide contact initiation should the contingency plan need to be initiated, please use the contact list below.
 
-* Aditya Bansod, CTO: 415-741-3377, aditya@Fastenhealth.io
-* Adnan Iqbal, CEO: 415-741-3377, adnan@Fastenhealth.io
+* Jason Kulatunga, Founder: 415-373-2815, jason@fastenhealth.com
 
 ## 13.3 Responsibilities
 

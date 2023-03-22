@@ -39,7 +39,7 @@ Fasten, at its sole discretion, shares audit reports with customers on a case by
 
 The following process is used to request audit reports:
 
-1. Email is sent to support@Fastenhealth.io. In the email, please specify the type of report being requested and any required timelines for the report.
+1. Email is sent to support@fastenhealth.com. In the email, please specify the type of report being requested and any required timelines for the report.
 1. Member of the Customer Success team will log a task with the details of the request into the Customer Success (under Requests) on ClickUp. ClickUp is used to track requests status and outcomes.
 1. Fasten will confirm if a current NDA is in place with the party requesting the audit report. If there is no NDA in place, Fasten will send one for execution.
 1. Once it has been confirmed that an NDA is executed, Fasten staff will move the request to "In Progress".

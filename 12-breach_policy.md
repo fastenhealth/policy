@@ -98,6 +98,6 @@ We will assist you in remedying the situation.
 
 Sincerely,
 
-Adnan Iqbal
+Jason Kulatunga
 CEO Fasten Health, Inc.
-adnan@Fastenhealth.io
+jason@fastenhealth.com
