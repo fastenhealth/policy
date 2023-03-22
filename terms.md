@@ -1,13 +1,14 @@
 ---
 nav_order: 27
-last_modified_date: Tue Jan 4 15:29:22 2023 -0800
 title: "Terms and Conditions"
 date: 2022-11-06T20:11:00-07:00
 effective: "Nov 6, 2022"
 type: page
 ---
 
-#### Effective as of {{< param effective >}}
+# Terms and Conditions
+
+#### Effective as of {{page.effective}}
 
 ## Introduction
 

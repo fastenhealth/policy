@@ -1,13 +1,14 @@
 ---
 nav_order: 26
-last_modified_date: Tue Jan 4 15:29:22 2023 -0800
 title: "Privacy Policy"
 date: 2022-08-23T20:11:00-07:00
 effective: "Sept 22, 2022"
 type: page
 ---
 
-## Effective as of {{< param effective >}}
+# Privacy Policy
+
+## Effective as of {{page.effective}}
 
 Your privacy is important to us. It is Fasten Health's policy to respect your privacy regarding any information
 we may collect from you through our app, Fasten.
