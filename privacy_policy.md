@@ -8,7 +8,7 @@ type: page
 
 # Privacy Policy
 
-## Effective as of {{page.effective}}
+#### Effective as of {{page.effective}}
 
 Your privacy is important to us. It is Fasten Health's policy to respect your privacy regarding any information
 we may collect from you through our app, Fasten.
