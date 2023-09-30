@@ -83,7 +83,7 @@ and we are unable to guarantee the absolute security of the Personal Information
 
 ---
 
-# How to Access, Update or Delete Your Information
+## How to Access, Update or Delete Your Information
 
 You may contact us to request access, updates or deletions to your Personal Information through the contact information 
 provided below. We will retain your Personal Information for a long as reasonably useful for our purposes consistent with 
