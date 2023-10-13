@@ -16,7 +16,9 @@ This Privacy Policy, in conjunction with the Company's Terms and Conditions (htt
 informs you of our policies regarding the collection, use, and disclosure of Personal Information when you use our Service. 
 Additionally, unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
-By visiting the Site, or using any of our Services, you agree that your personal information will be handled as described in this Policy. Your use of our Site or Services, and any dispute over privacy, is subject to this Policy and our Terms of Service, including its applicable limitations on damages and the resolution of disputes.
+By visiting the Site, or using any of our Services, you agree that your personal information will be handled as described in this Policy. 
+Your use of our Site or Services, and any dispute over privacy, is subject to this Policy and our Terms of Service, including its applicable 
+limitations on damages and the resolution of disputes.
 
 ----
 
@@ -33,7 +35,7 @@ The types of personal information collected at these pages are:
 
 ### Fasten Health Server and Apps
 
-Fasten Health server do not send any information with regard to your usage to Fasten Health Ltd. Fasten Health clients for Windows, Mac, 
+Fasten Health server do not send any information with regard to your usage to Fasten Health Inc. Fasten Health clients for Windows, Mac, 
 and Linux regularly check fastenhealth.com for new versions of clients. The version checking request contains a non-personally 
 identifiable unique id, which we use for client usage statistic purpose only. This ID doesn't contain any personal information. 
 
