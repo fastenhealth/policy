@@ -46,6 +46,9 @@ transmitted to Fasten Health Inc.
 
 ## How We Use Your Information
 
+Fasten Health does not sell, rent, or lease your personal data to others. Unless you give us your permission, we will not 
+share your personal information other than as stated in this Privacy Policy.
+
 We use the information you provide about yourself when placing an order only to complete that request for information. 
 We do not share this information with outside parties except to the extent necessary to complete that process.
 
@@ -69,6 +72,7 @@ Fasten Health does not disclose personal information to any organization or pers
 
 - With affiliates that assist us in providing you with our Services, such as payment processors and cloud service providers, but we will require our affiliates to only use or disclose your information for the purposes of providing the services requested of them and in accordance with this Privacy Policy.
 - If we believe that the disclosure is reasonably necessary to (a) satisfy an applicable law, regulation, legal process, or enforceable governmental request; (b) detect, prevent, or otherwise address illegal or suspected illegal activities; or (c) protect the safety, rights, or property of Fasten Health, the public, or any person.
+- We may share your personal information with other businesses in connection with the sale, assignment, merger or other transfer of all or a portion of our business to those businesses. We will require those businesses to honor the rules of this Privacy Policy.
 
 Our app may link to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.
 
@@ -83,14 +87,25 @@ it from unauthorized access, destruction, use, modification, or disclosure.
 However, please be aware that no method of transmission over the internet, or method of electronic storage, is 100% secure, 
 and we are unable to guarantee the absolute security of the Personal Information we have collected from you.
 
+In the unlikely event that our systems are breached, we will immediately fix any damage and add more protection to prevent
+it from happening again. If your personal information is compromised, we will notify you of what was compromised and any
+recommended actions you should take.
+
 ---
 
 ## How to Access, Update or Delete Your Information
 
-You may contact us to request access, updates or deletions to your Personal Information through the contact information 
-provided below. We will retain your Personal Information for a long as reasonably useful for our purposes consistent with 
+You may contact us to request access, updates or deletions to your Personal Information through the Privacy Center linked 
+below. We will retain your Personal Information for a long as reasonably useful for our purposes consistent with 
 the terms of this Privacy Policy and as necessary to comply with our legal obligations, to 
 resolve disputes and to enforce our agreements.
+
+[Visit our Privacy Center](https://compliance.fastenhealth.com/) to request a full download or deletion of your data at any time.
+
+Fasten Health will take action on an individual's request for access no later than 30 calendar days from the receipt of 
+the request. In cases where, due to unforeseen circumstances, we are unable to meet this timeframe, Fasten Health will provide 
+the individual, within the initial 30-day period, with a written statement explaining the reasons for the delay and the 
+anticipated date by which we will complete the requested action.
 
 ---
 
