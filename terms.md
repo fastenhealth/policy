@@ -46,13 +46,13 @@ to the Terms, and (iii) references to “you” will mean you and your Organizat
 
 # 2. Account terms
 
-> **Short version**: You – or the organization you work for – is responsible for your instance and its security, as well 
+> **Short version**: You – or the organization you work for – is responsible for your Instance and its security, as well 
 > as everything stored within it. You must be 18 or over to use our services.
 
 - **2.1 Account Responsibility and Security.**
   - **Generally**. If you’re entering into the Agreement on behalf of your Organization, your Organization has administrative control
   of all Instances tied to the Organization. You are or your Organization is fully responsible for your Instance and all Content stored within it. 
-  - **Age Limitation**. In order to create an Instance, you must be at least eighteen (18) years old and we do not permit any 
+  - **Age Limitation**. In order to create an Instance, you must be at least eighteen (18) years old. We do not permit any 
   users under thirteen (13) years old to use our Software for any purpose. If we discover that an Instance is being used by 
   a user under thirteen (13) years old, we will notify you that the Instance must immediately be shut down. 
   - **Security**. You’re responsible for the security of your Instance when using our Software. While we may offer tools to 
@@ -120,7 +120,7 @@ TO THE FULLEST EXTENT PERMITTED BY LAW, WE WILL NOT BE LIABLE FOR ANY DAMAGES AS
 DOCUMENTATION, INCLUDING WITHOUT LIMITATION, ORDINARY, INCIDENTAL, INDIRECT OR CONSEQUENTIAL DAMAGES OF ANY KIND, SUCH 
 AS LOSS OF DATA, LOSS OF OPPORTUNITY OR LOSS OF PROFITS, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
-IN NO EVENT WILL FASTEN HEALTH Inc. BE LIABLE TO ANY THIRD-PARTY VENDOR, SUPPLIER, SERVICE PROVIDER, OR FOR ANY AMOUNT IN 
+IN NO EVENT WILL FASTEN HEALTH INC. BE LIABLE TO ANY THIRD-PARTY VENDOR, SUPPLIER, SERVICE PROVIDER, OR FOR ANY AMOUNT IN 
 EXCESS OF THE TOTAL FEES PAID BY YOU TO FASTEN HEALTH INC. IN THE 12 MONTHS PRIOR TO THE EVENT GIVING RISE TO SUCH LIABILITY. 
 NOTWITHSTANDING ANY OTHER PROVISION IN THESE TERMS, OUR MAXIMUM AGGREGATE LIABILITY FOR EVALUATION SOFTWARE IS 100 USD.
 

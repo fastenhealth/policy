@@ -13,7 +13,7 @@ type: page
 Fasten Health Inc. ("us," "we," or "our") operates the https://www.fastenhealth.com/ website (the "Site") and the services available through our Site (collectively, the “Services”).
 
 This Privacy Policy, in conjunction with the Company's Terms and Conditions (https://policy.fastenhealth.com/terms.html) ("Terms and Conditions"), 
-informs you of our policies regarding the collection, use, and disclosure of Personal Information when you use our Service. 
+informs you of our policies regarding the collection, use, and disclosure of Personal Information when you use our Services. 
 Additionally, unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
 By visiting the Site, or using any of our Services, you agree that your personal information will be handled as described in this Policy. 
@@ -35,7 +35,7 @@ The types of personal information collected at these pages are:
 
 ### Fasten Health Server and Apps
 
-Fasten Health server do not send any information with regard to your usage to Fasten Health Inc. Fasten Health clients for Windows, Mac, 
+Fasten Health server does not send any information with regard to your usage to Fasten Health Inc. Fasten Health clients for Windows, Mac, 
 and Linux regularly check fastenhealth.com for new versions of clients. The version checking request contains a non-personally 
 identifiable unique id, which we use for client usage statistic purpose only. This ID doesn't contain any personal information. 
 
@@ -55,7 +55,7 @@ not shared with outside parties.
 You can register with our website if you would like to receive our newsletter as well as updates on our new products and 
 services. 
 
-We use non-identifying and aggregate information to better design our website but we would not disclose anything that 
+We use non-identifying and aggregate information to better design our website, but we do not collect anything that 
 could be used to identify those individuals.
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones 
@@ -67,7 +67,7 @@ described above without also providing you an opportunity to opt-out or otherwis
 
 Fasten Health does not disclose personal information to any organization or person for any reason except the following:
 
-- With affiliates that assist us in providing you with our services, such as payment processors and cloud service providers, but we will require our affiliates to only use or disclose your information for the purposes of providing the services requested of them and in accordance with this Privacy Policy.
+- With affiliates that assist us in providing you with our Services, such as payment processors and cloud service providers, but we will require our affiliates to only use or disclose your information for the purposes of providing the services requested of them and in accordance with this Privacy Policy.
 - If we believe that the disclosure is reasonably necessary to (a) satisfy an applicable law, regulation, legal process, or enforceable governmental request; (b) detect, prevent, or otherwise address illegal or suspected illegal activities; or (c) protect the safety, rights, or property of Fasten Health, the public, or any person.
 
 Our app may link to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.
