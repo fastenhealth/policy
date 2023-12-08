@@ -2,7 +2,7 @@
 nav_order: 26
 title: "Privacy Policy"
 date: 2022-08-23T20:11:00-07:00
-effective: "Sept 29, 2023"
+effective: "Dec 8, 2023"
 type: page
 ---
 
