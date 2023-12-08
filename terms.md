@@ -2,7 +2,7 @@
 nav_order: 27
 title: "Terms and Conditions"
 date: 2022-11-06T20:11:00-07:00
-effective: "Oct 13, 2023"
+effective: "Dec 8, 2023"
 type: page
 ---
 
