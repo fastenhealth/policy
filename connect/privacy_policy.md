@@ -35,7 +35,7 @@ to identify you or to obtain information about you ("Anonymized and De-Identifie
 
 ---
 
-## The Information We Collect About You.
+## The Information We Collect About You
 
 ### Through our Site, fastenhealth.com
 
