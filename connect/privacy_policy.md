@@ -24,11 +24,11 @@ limitations on damages and the resolution of disputes.
 
 ## Definition of Personal Information
 
-For the purposes of this Privacy Policy, "Personal Information" refers to both Personal Identifiable Information and 
-Personal Health Information, which are defined as follows:
+For the purposes of this Privacy Policy, "Personal Information" refers to both Personally Identifiable Information and
+Protected Health Information, as defined below:
 
-- **Personal Identifiable Information (PII):** This includes any information that can directly identify an individual or is capable of doing so when combined with other information. Examples include but are not limited to an individual's name, address, email address, phone number, or social security number. 
-- **Personal Health Information (PHI):** This includes any information in an individual's medical record that can be used to identify an individual and that was created, used, or disclosed in the course of providing a health care service such as diagnosis or treatment. It includes, but is not limited to, details such as the individual’s physical or mental health or condition, health care services that the individual receives, or a health plan’s payment for these services, such as the individual’s name, address, telephone number, health insurance information, Medicare Beneficiary number, or financial information related to payment for healthcare services.
+- **Personally Identifiable Information (PII):** This includes any information that can directly identify an individual or is capable of doing so when combined with other information. Examples include but are not limited to an individual's name, address, email address, phone number, or social security number. 
+- **Protected Health Information (PHI):** This includes any information in an individual's medical record that can be used to identify an individual and that was created, used, or disclosed in the course of providing a health care service such as diagnosis or treatment. It includes, but is not limited to, details such as the individual’s physical or mental health or condition, health care services that the individual receives, or a health plan’s payment for these services, such as the individual’s name, address, telephone number, health insurance information, Medicare Beneficiary number, or financial information related to payment for healthcare services.
 
 This Policy does not apply to any data such as anonymized or de-identified data which cannot directly or indirectly be used
 to identify you or to obtain information about you ("Anonymized and De-Identified Data").
@@ -135,14 +135,14 @@ However, please be aware that no method of transmission over the internet, or me
 and we are unable to guarantee the absolute security of the Personal Information we have collected from you.
 
 In the unlikely event that our systems are breached, we will immediately fix any damage and add more protection to prevent
-it from happening again. If your personal information is compromised, we will notify you of what was compromised and any
+it from happening again. If your Personal Information is compromised, we will notify you of what was compromised and any
 recommended actions you should take.
 
 ---
 
 ## How to Access, Update or Delete Your Information
 
-You may contact us to request access, updates or deletions to your Personal Information through the Privacy Center linked
+You may contact us to request access, updates or deletions of your Personal Information through the Privacy Center linked
 below. We will retain your Personal Information for a long as reasonably useful for our purposes consistent with
 the terms of this Privacy Policy and as necessary to comply with our legal obligations, to
 resolve disputes and to enforce our agreements.
@@ -159,7 +159,7 @@ anticipated date by which we will complete the requested action.
 
 ## California Residents
 
-If you reside in California, you have specific privacy rights under the California Consumer Privacy Act (CCPA). Fasten Health, 
+If you are a California resident, specific rights are afforded to you under the California Consumer Privacy Act (CCPA). Fasten Health, 
 Inc. respects these rights and provides you with the means to exercise them.
 
 As a California resident, you have the right to request disclosure of the categories and specific pieces of personal 
