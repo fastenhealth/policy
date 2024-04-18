@@ -11,8 +11,8 @@ type: page
 #### Effective as of {{page.effective}}
 
 This Privacy Policy outlines the practices of Fasten Health, Inc. ("Fasten Health," "we," "us," or "our") regarding the
-Personal Information we collect through your use of the Fasten Connect [https://www.fastenhealth.com/connect] website (the "Site"),
-the Fasten Connect API [https://api.connect.fastenhealth.com], Fasten Connect Portal [https://portal.connect.fastenhealth.com] and any related services (collectively, "Fasten Connect" or the "Services").
+Personal Information we collect through your use of the Fasten Connect [https://www.fastenhealth.com/connect](https://www.fastenhealth.com/connect) website (the "Site"),
+the Fasten Connect API [https://api.connect.fastenhealth.com](https://api.connect.fastenhealth.com), Fasten Connect Portal [https://portal.connect.fastenhealth.com](https://portal.connect.fastenhealth.com) and any related services (collectively, "Fasten Connect" or the "Services").
 Fasten Health is dedicated to protecting your privacy and managing your Personal Information responsibly.
 This policy is dedicated solely to Fasten Connect and does not apply to other products or services offered by Fasten Health.
 
