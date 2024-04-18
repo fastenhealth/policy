@@ -16,8 +16,6 @@ the Fasten Connect API [https://api.connect.fastenhealth.com](https://api.connec
 Fasten Health is dedicated to protecting your privacy and managing your Personal Information responsibly.
 This policy is dedicated solely to Fasten Connect and does not apply to other products or services offered by Fasten Health.
 
-This Privacy Policy informs you of our policies regarding the collection, use, and disclosure of Personal Information when you use our Services.
-
 By visiting the Site, or using any of our Services, you agree that your Personal Information will be handled as described in this Policy.
 Your use of our Site or Services, and any dispute over privacy, is subject to this Policy, including its applicable
 limitations on damages and the resolution of disputes.
