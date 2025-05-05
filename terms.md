@@ -20,6 +20,16 @@ clarifications that our users request.
 - We may provide a more prominent notice (including email notifications) when we make material changes that all of our 
 users should know about.
 
+## Updates and Notifications
+
+We reserve the right to update these Terms at any time. When we do, we will update the "Effective Date" at the top of the 
+Terms and post the revised version on our website. If the changes are material, we will provide additional notice—such as 
+sending an email to the address associated with your account or displaying a prominent notice in the Services—before the 
+changes take effect.
+
+Your continued use of the Software or Services after such updates are posted constitutes your acceptance of the revised Terms. 
+If you do not agree to the updated Terms, you must discontinue using the Services.
+
 ## Source Code License
 
 As of October-2023, Fasten Health is licensed under the [GNU General Public License, Version 3.0](https://github.com/fastenhealth/fasten-onprem/blob/main/LICENSE.md).
@@ -103,34 +113,35 @@ internet technologies have the inherent potential for disclosure.
 > **Short version**: Other than the warranties explicitly set forth in this section, Fasten Health Software is provided “as is” with no
 > guarantees of any kind (unless applicable law provides you additional mandatory rights). Please read this section carefully.
 
-OUR SOFTWARE, SERVICES AND DOCUMENTATION ARE PROVIDED "AS-IS" AND WITHOUT WARRANTY OF ANY KIND. TO THE FULLEST EXTENT PERMITTED 
-BY LAW, WE DISCLAIM ALL WARRANTIES, EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
-ACCURACY, QUIET ENJOYMENT, TITLE, NONINFRINGEMENT, AND FITNESS FOR A PARTICULAR PURPOSE.
+Our software, services and documentation are provided "as-is" and without warranty of any kind. To the fullest extent permitted
+by law, we disclaim all warranties, expressed or implied, including but not limited to the warranties of merchantability,
+accuracy, quiet enjoyment, title, noninfringement, and fitness for a particular purpose.
 
-FASTEN HEALTH INC. DOES NOT WARRANT THAT THE SOFTWARE, SERVICES OR DOCUMENTATION WILL BE UNINTERRUPTED OR ERROR-FREE OR 
-THAT ALL ERRORS WILL BE CORRECTED. WE DISCLAIM ALL LIABILITY AND RESPONSIBILITY FOR ANY THIRD-PARTY PRODUCTS OR SERVICES 
-OR FOR ANY ACTS OR OMISSIONS OF ANY THIRD-PARTY SUPPLIERS, VENDORS OR SERVICE PROVIDERS.
+Fasten Health, Inc. Does not warrant that the software, services or documentation will be uninterrupted or error-free or
+that all errors will be corrected. We disclaim all liability and responsibility for any third-party products or services
+or for any acts or omissions of any third-party suppliers, vendors or service providers.
+
 
 # 7. Limitation of Liability
 
 > **Short version**: Each party’s liability is limited to direct damages wherever possible, and to no more than $100 or the 
 > amount you paid us to access the software. Please read this section carefully.
 
-TO THE FULLEST EXTENT PERMITTED BY LAW, WE WILL NOT BE LIABLE FOR ANY DAMAGES ASSOCIATED WITH OUR SOFTWARE, SERVICES OR 
-DOCUMENTATION, INCLUDING WITHOUT LIMITATION, ORDINARY, INCIDENTAL, INDIRECT OR CONSEQUENTIAL DAMAGES OF ANY KIND, SUCH 
-AS LOSS OF DATA, LOSS OF OPPORTUNITY OR LOSS OF PROFITS, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+To the fullest extent permitted by law, we will not be liable for any damages associated with our software, services or
+documentation, including without limitation, ordinary, incidental, indirect or consequential damages of any kind, such
+as loss of data, loss of opportunity or loss of profits, even if we have been advised of the possibility of such damages.
 
-IN NO EVENT WILL FASTEN HEALTH INC. BE LIABLE TO ANY THIRD-PARTY VENDOR, SUPPLIER, SERVICE PROVIDER, OR FOR ANY AMOUNT IN 
-EXCESS OF THE TOTAL FEES PAID BY YOU TO FASTEN HEALTH INC. IN THE 12 MONTHS PRIOR TO THE EVENT GIVING RISE TO SUCH LIABILITY. 
-NOTWITHSTANDING ANY OTHER PROVISION IN THESE TERMS, OUR MAXIMUM AGGREGATE LIABILITY FOR EVALUATION SOFTWARE IS 100 USD.
+In no event will Fasten Health, Inc. Be liable to any third-party vendor, supplier, service provider, or for any amount in
+axcess of the total fees paid by you to Fasten Health, Inc. In the 12 months prior to the event giving rise to such liability.
+Notwithstanding any other provision in these terms, our maximum aggregate liability for evaluation software is 100 USD.
 
 # 8. Governing Law
 
-> **Short version**: The Terms of this agreement are governed by California law and disputes must be brought in California. 
+> **Short version**: The Terms of this agreement are governed by Delaware law and disputes must be brought in Delaware. 
 
-California law will govern all disputes relating to these terms of service to the extent permissible by applicable law.
+Delaware law will govern all disputes relating to these terms of service to the extent permissible by applicable law.
 Any action brought relating to these terms or relating to the services provided by Fasten Health must be brought in the state
-or federal courts of California.
+or federal courts of Delaware.
 
 # 9. Conduct
 
