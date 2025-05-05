@@ -1,8 +1,8 @@
 ---
 nav_order: 27
 title: "Terms and Conditions"
-date: 2022-11-06T20:11:00-07:00
-effective: "Dec 8, 2023"
+date: 2024-05-05T20:11:00-07:00
+effective: "May 5, 2024"
 type: page
 ---
 

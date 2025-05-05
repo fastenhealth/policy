@@ -1,7 +1,7 @@
 ---
 nav_order: 26
 title: "Fasten Connect - Privacy Policy"
-date: 2024-04-05T20:11:00-07:00
+date: 2024-05-05T20:11:00-07:00
 effective: "May 5, 2024"
 type: page
 ---
