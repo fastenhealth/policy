@@ -1,8 +1,8 @@
 ---
 nav_order: 26
 title: "Fasten Connect - Privacy Policy"
-date: 2024-04-12T20:11:00-07:00
-effective: "April 12, 2024"
+date: 2024-05-05T20:11:00-07:00
+effective: "May 5, 2024"
 type: page
 ---
 
@@ -10,28 +10,35 @@ type: page
 
 #### Effective as of {{page.effective}}
 
-This Privacy Policy outlines the practices of Fasten Health, Inc. ("Fasten Health," "we," "us," or "our") regarding the
-Personal Information we collect through your use of the Fasten Connect [https://www.fastenhealth.com/connect](https://www.fastenhealth.com/connect) website (the "Site"),
-the Fasten Connect API [https://api.connect.fastenhealth.com](https://api.connect.fastenhealth.com), Fasten Connect Portal [https://portal.connect.fastenhealth.com](https://portal.connect.fastenhealth.com) and any related services (collectively, "Fasten Connect" or the "Services").
-Fasten Health is dedicated to protecting your privacy and managing your Personal Information responsibly.
-This policy is dedicated solely to Fasten Connect and does not apply to other products or services offered by Fasten Health.
+This Privacy Policy explains how Fasten Health, Inc. ("Fasten Health," "we," "us," or "our") collects, uses, and shares 
+your personal information when you use Fasten Connect. This includes our website https://www.fastenhealth.com/connect, 
+the Fasten Connect API https://api.connect.fastenhealth.com, the Fasten Connect Portal https://portal.connect.fastenhealth.com, 
+and any related services (together, "Fasten Connect" or the "Services").
 
-This Privacy Policy informs you of our policies regarding the collection, use, and disclosure of Personal Information when you use our Services.
+Fasten Health respects your privacy and handles your personal information with care. This Privacy Policy applies only to 
+Fasten Connect, not to other products or services we offer.
 
-By visiting the Site, or using any of our Services, you agree that your Personal Information will be handled as described in this Policy.
-Your use of our Site or Services, and any dispute over privacy, is subject to this Policy, including its applicable
-limitations on damages and the resolution of disputes.
+By visiting the Site or using the Services, you agree to the practices described in this Privacy Policy.
+
+## We Do Not Sell Your Personal Information
+
+We don’t sell your personal information, ever. That includes your name, contact details, and any health-related data.
+
+When you use Fasten Connect to link your health information with a third-party app, we only share the specific data you
+have agreed to share. This may include diagnostic, treatment, or billing information. That data is temporarily stored on 
+secure Fasten Health servers to ensure reliable delivery of our services.
+
+If we work with trusted third-party vendors, such as cloud storage or analytics services, it is solely to help deliver 
+and improve Fasten Connect. These vendors are not allowed to use your data for their own marketing or advertising.
 
 ## Definition of Personal Information
 
-For the purposes of this Privacy Policy, "Personal Information" refers to both Personally Identifiable Information and
-Protected Health Information, as defined below:
+"Personal Information" means any information that can identify you. It includes:
 
 - **Personally Identifiable Information (PII):** This includes any information that can directly identify an individual or is capable of doing so when combined with other information. Examples include but are not limited to an individual's name, address, email address, phone number, or social security number. 
 - **Protected Health Information (PHI):** This includes any information in an individual's medical record that can be used to identify an individual and that was created, used, or disclosed in the course of providing a health care service such as diagnosis or treatment. It includes, but is not limited to, details such as the individual’s physical or mental health or condition, health care services that the individual receives, or a health plan’s payment for these services, such as the individual’s name, address, telephone number, health insurance information, Medicare Beneficiary number, or financial information related to payment for healthcare services.
 
-This Policy does not apply to any data such as anonymized or de-identified data which cannot directly or indirectly be used
-to identify you or to obtain information about you ("Anonymized and De-Identified Data").
+This policy does not cover anonymized or de-identified data that can’t be used to identify you.
 
 ---
 
@@ -39,7 +46,7 @@ to identify you or to obtain information about you ("Anonymized and De-Identifie
 
 ### Through our Site, fastenhealth.com
 
-We collect your Personal Information through our Site when you choose to provide that information, such as when you:
+We collect Personal Information when you:
 
 - submit information through the "Contact" page of our website
 - register on our website
@@ -54,9 +61,7 @@ The Personal Information that we collect can include your:
 
 ### Through our Fasten Connect Services
 
-To provide you with the full capabilities of Fasten Connect, we collect certain Personal Information that is necessary 
-for the operation of our Services. This information is required to fulfill the contract between you and Fasten Health, 
-and to comply with our legal obligations. Without this information, we cannot provide you with access to Fasten Connect.
+To use Fasten Connect, we need some personal information to provide our services:
 
 - **Account Information:** When you create a Fasten Connect account, we require details such as your first name, last name, telephone number, and email address.
 - **Personal Health Information:** Fasten Connect enables the linking of your Personal Health Information with third-party applications. When you use this feature, you will be asked to consent to share specific health information, which may include diagnostic, treatment, and billing information. This information is temporarily stored on secure Fasten Health servers to enhance service reliability and operation.
@@ -64,19 +69,20 @@ and to comply with our legal obligations. Without this information, we cannot pr
 
 #### Voluntary Information You Provide to Us
 
-You may also provide us additional information voluntarily to enhance your experience with Fasten Connect. 
-This may include information submitted when you fill out forms, update your account, respond to surveys, participate in 
-community forums, engage with promotions, contact our support team, or use other features of the Service.
-
+You may also choose to give us more information, like when you:
+- Fill out a form 
+- Update your account 
+- Answer surveys 
+- Join forums or promotions 
+- Contact support
 
 #### Information Collected Automatically
 
-In addition to the information you provide, we automatically collect data about your usage of Fasten Connect to ensure 
-optimal service functionality and compliance with legal requirements:
+We also collect some information automatically:
 
 - **Aggregated Data:** Includes details of your interactions with the service, such as which features you use and how you use them. We may share your Personal Information with third-party service providers to analyze how our Services and features are being used. 
 - **Log Data and Device Information:** We collect data related to your device and your use of our services, including IP address, device type, operating system, unique device identifiers, browser information, crash data, and other request information.
-- **Cookies:** We use cookies and similar tracking technologies to collect information about your interaction with our website, which helps us improve your user experience and tailor our services to your preferences. You can manage cookie settings in your browser, and opting out of certain cookies may affect the functionality of our services.
+- **Cookies:** We use cookies and similar tracking technologies to collect information about your interaction with our website, which helps us improve your user experience and tailor our services to your preferences. You can change cookie settings in your browser. Turning off cookies may limit some features.
 
 ---
 
@@ -85,7 +91,7 @@ optimal service functionality and compliance with legal requirements:
 We will not sell, rent, license, or trade your Personal Information with third parties for their own direct marketing use. 
 Unless you give us your permission, we will not share your Personal Information other than as stated in this Privacy Policy.
 
-We collect and utilize your information to enhance your experience and improve the effectiveness of our Fasten Connect service. Here’s how we use your information:
+We collect and use your information to improve your experience and make Fasten Connect work better for you.
 
 - **Communication:** To contact you via email, phone, or postal mail about updates, security alerts, and product offerings related to Fasten Connect.
 - **Customization:** To tailor the content and features you see, ensuring a personalized experience on our platform.
@@ -101,9 +107,7 @@ We collect and utilize your information to enhance your experience and improve t
 
 ## How We Share Your Information
 
-
-Fasten Health takes your privacy seriously and shares your Personal Information with third parties only under specific 
-circumstances necessary for the operation of the Fasten Connect service and our business functions. 
+We only share your information when it’s needed to run our services or meet legal requirements. 
 
 Third-party service providers must safeguard the Personal Information we entrust to them and are permitted to use such 
 information solely for fulfilling the services we have contracted them for. They are prohibited from using this personal 
@@ -123,6 +127,24 @@ It is important to note that our third-party service providers have their own pr
 
 By using Fasten Connect, you agree to the practices described in this section. If you have any concerns about how we share your information, please contact us at [notices@fastenhealth.com](mailto:notices@fastenhealth.com).
 
+### Customer Use Limitations
+
+Fasten Connect allows you to share your health information with third-party apps of your choice. To protect your 
+rights, we require all customers to follow strict data use standards.
+
+As a member of the [CARIN Alliance](https://www.carinalliance.com/) and a signatory of its [Code of Conduct](https://www.carinalliance.com/code-of-conduct), 
+Fasten Health enforces the following requirements on all customers:
+
+- **Consent-Only Use:** Customers may only use or share your data based on clear, informed consent provided by you.
+- **No Marketing Without Opt-In:** Any marketing or advertising use requires separate, explicit opt-in consent.
+- **Children’s Data:** Customers must follow all applicable laws, including COPPA, when handling data about minors.
+- **Policy Changes:** If a customer changes how they use your data, they must notify you and allow you to withdraw consent.
+- **Withdraw Anytime:** You must be able to revoke consent easily and stop future use of your data.
+- **Third-Party Sharing:** Customers must disclose any third-party access to your data and let you control it.
+- **AI/ML Use:** Use of your data for AI or machine learning must be clearly disclosed.
+- **Business Changes:** Customers must explain what happens to your data if their company is sold or shuts down.
+
+To report a potential violation, contact notices@fastenhealth.com.
 ---
 
 ## How We Secure Your Information
@@ -143,17 +165,18 @@ recommended actions you should take.
 ## How to Access, Update or Delete Your Information
 
 You may contact us to request access, updates or deletions of your Personal Information through the Privacy Center linked
-below. We will retain your Personal Information for a long as reasonably useful for our purposes consistent with
-the terms of this Privacy Policy and as necessary to comply with our legal obligations, to
-resolve disputes and to enforce our agreements.
+below. We keep your information only as long as we need it for the reasons described in this policy.
 
-[Visit our Privacy Center](https://compliance.fastenhealth.com/) to request a full download or deletion of your data at any time.
+Upon your request, Fasten Health will permanently delete 100% of your personal information, including all associated data 
+stored on our systems. This deletion is irreversible and applies to all identifiable data under your account, in accordance 
+with applicable laws and data retention obligations.
 
-Fasten Health will take action on an individual's request for access no later than 30 calendar days from the receipt of
+Fasten Health will take action on an individual's requests no later than 30 calendar days from the receipt of
 the request. In cases where, due to unforeseen circumstances, we are unable to meet this timeframe, Fasten Health will provide
 the individual, within the initial 30-day period, with a written statement explaining the reasons for the delay and the
 anticipated date by which we will complete the requested action.
 
+[Visit our Privacy Center](https://compliance.fastenhealth.com/) to request a full download or deletion of your data at any time.
 
 ---
 
@@ -178,12 +201,12 @@ require specific information from you to help verify your identity before proces
 
 ## Acceptance and Updates to this Privacy Policy
 
-By using our website, you signify your acceptance of this Privacy Policy. If you do not agree to the terms of this
-Privacy Policy, please do not use our Site or Services. We may update this Privacy Policy by posting changes on this website or
-otherwise notify you directly. Any Privacy Policy changes will be effective for all information that we maintain, even
-information in existence before the change. Your use of our website following any changes to the Privacy Policy signifies
-your acceptance of those changes.
+We may update this Privacy Policy from time to time to reflect changes in our practices, technologies, legal requirements, 
+or for other operational reasons. When we make changes, we will revise the "Effective Date" at the top of the policy and, 
+where appropriate, notify you via email, or by prominently posting a notice within the Fasten Connect Portal.
 
+We encourage you to review this page regularly so you are aware of any changes. Continued use of the Services after the 
+updated Privacy Policy becomes effective constitutes your agreement to the revised policy.
 
 ---
 
