@@ -50,6 +50,8 @@ hours after successful transmission.
 If we work with trusted third-party vendors, such as cloud storage or analytics services, it is solely to help deliver 
 and improve Fasten Connect. These vendors are not allowed to use your data for their own marketing or advertising.
 
+---
+
 ## Definition of Personal Information
 
 "Personal Information" means any information that can identify you. It includes:
@@ -172,6 +174,7 @@ Fasten Health enforces the following requirements on all customers:
 - **Business Changes:** Customers must explain what happens to your data if their company is sold or shuts down.
 
 To report a potential violation, contact notices@fastenhealth.com.
+
 ---
 
 ## How We Secure Your Information
@@ -249,6 +252,7 @@ require specific information from you to help verify your identity before proces
 
 It is important to acknowledge certain limitations around the scope of this Policy. The nature of our services does not 
 subject us to compliance with the Health Insurance Portability and Accountability Act along with its implementing regulations.
+
 ---
 
 ## Acceptance and Updates to this Policy
