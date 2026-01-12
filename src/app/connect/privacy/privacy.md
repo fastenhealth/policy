@@ -1,14 +1,6 @@
----
-nav_order: 26
-title: "Fasten Connect - Privacy Policy"
-date: 2025-11-06T20:11:00-07:00
-effective: "Nov 06, 2025"
-type: page
----
-
 # Fasten Connect - Privacy and Security Policy
 
-#### Effective as of {{page.effective}}
+#### Effective as of Nov 06, 2025
 
 This Privacy and Security Policy (this “Policy”) explains how Fasten Health, Inc. ("Fasten Health," "we," "us," or "our") 
 collects, uses, shares, and protects your personal information when you use Fasten Connect. This includes our website 
