@@ -15,7 +15,7 @@ export default function Home() {
           Legal & Privacy
         </h1>
         <p className="text-muted-foreground mt-4 text-lg leading-relaxed">
-          Read the policies and terms that govern Fasten Health and Fasten Connect.
+          Read the policies and terms that govern Fasten Health.
         </p>
 
         <div className="mt-10 grid gap-4 text-left">
@@ -32,14 +32,6 @@ export default function Home() {
               <h2 className="text-lg font-semibold">Terms and Conditions</h2>
               <p className="text-muted-foreground mt-2 text-sm">
                 The terms that apply when using Fasten Health software and services.
-              </p>
-            </div>
-          </Link>
-          <Link to="/connect/privacy_policy.html" className="block">
-            <div className="border-foreground/5 hover:border-primary/20 rounded-2xl border bg-background px-6 py-5 transition-all hover:shadow-md">
-              <h2 className="text-lg font-semibold">Fasten Connect Privacy & Security</h2>
-              <p className="text-muted-foreground mt-2 text-sm">
-                Privacy and security policy for Fasten Connect services.
               </p>
             </div>
           </Link>

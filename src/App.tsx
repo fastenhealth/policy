@@ -7,7 +7,6 @@ import HomePage from '@/app/page';
 import NotFoundPage from '@/app/not-found';
 import PrivacyPage from '@/app/privacy/page';
 import TermsPage from '@/app/terms/page';
-import ConnectPrivacyPage from '@/app/connect/privacy/page';
 import { ThemeProvider } from '@/components/theme-provider';
 
 const ScrollManager = () => {
@@ -37,7 +36,10 @@ const AppRoutes = () => (
     <Route path="/privacy_policy.html" element={<PrivacyPage />} />
     <Route path="/terms" element={<TermsPage />} />
     <Route path="/terms.html" element={<TermsPage />} />
-    <Route path="/connect/privacy" element={<ConnectPrivacyPage />} />
+    <Route
+      path="/connect/privacy"
+      element={<Navigate to="/privacy_policy.html" replace />}
+    />
     <Route
       path="/connect/privacy_policy"
       element={<Navigate to="/privacy_policy.html" replace />}

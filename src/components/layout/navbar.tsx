@@ -13,7 +13,6 @@ import { assetPath, cn } from '@/lib/utils';
 const NAVBAR_ITEMS = [
   { label: 'Privacy Policy', href: '/privacy_policy.html' },
   { label: 'Terms', href: '/terms.html' },
-  { label: 'Fasten Connect Privacy', href: '/connect/privacy_policy.html' },
 ];
 
 type NavLinkProps = {
