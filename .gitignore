@@ -59,3 +59,11 @@ build/
 
 # unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
 .rvmrc
+
+### Node ###
+node_modules/
+dist/
+.env*
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts

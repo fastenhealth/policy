@@ -1,0 +1,409 @@
+@import url('https://fonts.googleapis.com/css2?family=Hubot+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600;700&family=Inter:wght@400;500;600;700&family=Mona+Sans:wght@500&display=swap');
+@import 'tailwindcss';
+
+@plugin 'tailwindcss-animate';
+@plugin '@tailwindcss/typography';
+
+@variant dark (&:is(.dark *));
+
+@theme {
+  --font-inter: 'Inter', system-ui, -apple-system, BlinkMacSystemFont,
+    'Segoe UI', Roboto, Oxygen;
+  --font-sans: 'Hubot Sans', system-ui, -apple-system, BlinkMacSystemFont,
+    'Segoe UI', Roboto, Oxygen;
+  --font-mono: 'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Monaco,
+    Consolas, 'Liberation Mono';
+  --font-mona: 'Mona Sans', system-ui, -apple-system, BlinkMacSystemFont;
+
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-foreground2: var(--foreground-2);
+
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+
+  --color-primary: var(--primary);
+  --color-primary-900: var(--primary-900);
+  --color-primary-gradient: var(--primary-gradient);
+  --color-primary-foreground: var(--primary-foreground);
+
+  --color-secondary: var(--secondary);
+  --color-secondary-gradient: var(--secondary-gradient);
+  --color-tertiary-gradient: var(--tertiary-gradient);
+  --color-secondary-foreground: var(--secondary-foreground);
+
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+
+  --color-sand-50: var(--sand-50);
+  --color-sand-100: var(--sand-100);
+  --color-sand-600: var(--sand-600);
+  --color-sand-700: var(--sand-700);
+
+  --color-mint-50: var(--mint-50);
+  --color-mint: var(--mint);
+
+  --animate-accordion-down: accordion-down 0.2s ease-out;
+  --animate-accordion-up: accordion-up 0.2s ease-out;
+  --animate-marquee: marquee 60s linear infinite;
+  --animate-marquee-reverse: marquee-reverse 60s linear infinite;
+
+  @keyframes accordion-down {
+    from {
+      height: 0;
+    }
+    to {
+      height: var(--radix-accordion-content-height);
+    }
+  }
+  @keyframes accordion-up {
+    from {
+      height: var(--radix-accordion-content-height);
+    }
+    to {
+      height: 0;
+    }
+  }
+  @keyframes marquee {
+    0% {
+      transform: translateX(0%);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  
+  @keyframes marquee-reverse {
+    0% {
+      transform: translateX(-100%);
+    }
+    100% {
+      transform: translateX(0%);
+    }
+  }
+}
+
+@utility container {
+  margin-inline: auto;
+  padding-inline: 1.5rem;
+  @media (width >= --theme(--breakpoint-sm)) {
+    max-width: none;
+  }
+  @media (width >= 1400px) {
+    max-width: 1228px;
+  }
+}
+
+/*
+  The default border color has changed to `currentColor` in Tailwind CSS v4,
+  so we've added these compatibility styles to make sure everything still
+  looks the same as it did with Tailwind CSS v3.
+
+  If we ever want to remove these styles, we need to add an explicit border
+  color utility to any element that depends on these defaults.
+*/
+@layer base {
+  *,
+  ::after,
+  ::before,
+  ::backdrop,
+  ::file-selector-button {
+    border-color: var(--color-gray-200, currentColor);
+  }
+
+  html {
+    @apply relative overflow-x-hidden;
+    /* Remove grid background from entire page */
+    background-color: transparent !important; /* Crucial for gradients on pseudo-elements to show */
+  }
+
+  /* We'll use this class to apply the pattern background only to specific sections */
+  .pattern-bg {
+    position: relative;
+  }
+  
+  .pattern-bg::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    opacity: 0.5;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16'%3e%3cline x1='8' y1='5' x2='8' y2='11' stroke='rgba(0,0,0,0.05)' stroke-width='1'/%3e%3cline x1='5' y1='8' x2='11' y2='8' stroke='rgba(0,0,0,0.05)' stroke-width='1'/%3e%3c/svg%3e");
+    background-size: 16px 16px;
+    background-repeat: repeat;
+  }
+  
+  .dark .pattern-bg::before {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16'%3e%3cline x1='8' y1='5' x2='8' y2='11' stroke='rgba(255,255,255,0.07)' stroke-width='1'/%3e%3cline x1='5' y1='8' x2='11' y2='8' stroke='rgba(255,255,255,0.07)' stroke-width='1'/%3e%3c/svg%3e");
+  }
+
+  html::before,
+  html::after {
+    content: "";
+    position: fixed;
+    z-index: -1; /* Gradients behind HTML's own background (pluses) */
+    border-radius: 50%;
+    filter: blur(150px);
+    will-change: transform;
+    pointer-events: none;
+  }
+
+  html::before {
+    width: 70vmax;
+    height: 70vmax;
+    left: -20vw;
+    top: -30vh;
+    background-color: var(--primary-gradient);
+    opacity: 0.05;
+    @media (prefers-color-scheme: dark) {
+      opacity: 0.08;
+    }
+  }
+
+  html::after {
+    width: 60vmax;
+    height: 60vmax;
+    right: -15vw;
+    bottom: -25vh;
+    background-color: var(--accent-purple-gradient);
+    opacity: 0.04;
+    @media (prefers-color-scheme: dark) {
+      opacity: 0.06;
+    }
+  }
+
+  body {
+    @apply bg-transparent text-foreground;
+    scroll-behavior: smooth;
+  }
+
+  h1,
+  h2 {
+    @apply font-sans;
+  }
+
+  .mini-title {
+    @apply text-accent-foreground font-mono text-sm font-semibold tracking-widest;
+  }
+}
+
+@layer utilities {
+  html,
+  body {
+    /* overflow-x: hidden; */
+    /* scroll-behavior: smooth; */
+  }
+
+  body {
+    @apply font-inter relative;
+  }
+
+  h1,
+  h2 {
+    @apply font-sans;
+  }
+
+  .mini-title {
+    @apply text-accent-foreground font-mono text-sm font-semibold tracking-widest;
+  }
+}
+
+@layer components {
+  button {
+    cursor: pointer;
+  }
+  [class*='border'] {
+    @apply border-border;
+  }
+}
+
+@layer base {
+  :root {
+    /* https://htmlcolorcodes.com/color-picker/ */
+
+    --background: hsl(0 0% 98%);
+    --foreground: hsl(240 10% 4%);
+    --card: hsl(0 0% 100%);
+    --card-foreground: hsl(240 10% 4%);
+    --popover: hsl(0 0% 100%);
+    --popover-foreground: hsl(240 10% 4%);
+
+    --primary: #5b47fb;
+    --primary-900: #392c9d;
+    --primary-foreground: hsl(0 0% 100%);
+    --secondary: hsl(0 0% 96%);
+    --secondary-foreground: #705efb;
+    --muted: hsl(0 0% 96%);
+    --muted-foreground: hsl(0 0% 49%);
+    --accent: hsl(0 0% 96%);
+    --accent-foreground: hsl(240 26% 46%);
+    --destructive: hsl(0 84.2% 60.2%);
+    --destructive-foreground: hsl(0 0% 100%);
+    --border: hsl(0 0% 0% / 0.09);
+    --input: hsl(240 6% 23%);
+    --ring: hsl(240 10% 4%);
+    --chart-1: hsl(12 76% 61%);
+    --chart-2: hsl(173 58% 39%);
+    --chart-3: hsl(197 37% 24%);
+    --chart-4: hsl(43 74% 66%);
+    --chart-5: hsl(27 87% 67%);
+    --primary-gradient: hsl(227 81% 67%);
+    --secondary-gradient: hsl(125 51% 53%);
+    --accent-purple-gradient: hsl(255, 90%, 72%);
+    --tertiary-gradient: hsl(318 58% 66%);
+    
+    /* Section background colors */
+    --bg-subtle-gray: hsl(0 0% 98.5%);
+    --bg-subtle-primary: hsl(227 81% 99.5%);
+    --bg-subtle-accent: hsl(255 90% 99.5%);
+    --bg-subtle-secondary: hsl(125 51% 99.5%);
+    --bg-subtle-warm: hsl(30 60% 99.5%);
+  }
+
+  .dark {
+    --background: hsl(240 10% 4%);
+    --foreground: hsl(0 0% 98%);
+    --card: hsl(240 10% 4%);
+    --card-foreground: hsl(0 0% 98%);
+    --popover: hsl(240 10% 4%);
+    --popover-foreground: hsl(0 0% 98%);
+
+    --primary: hsl(227 81% 67%);
+    --primary-900: hsl(227 81% 75%);
+    --primary-foreground: hsl(240 10% 4%);
+    --secondary: hsl(240 6% 10%);
+    --secondary-foreground: hsl(227 81% 67%);
+    --muted: hsl(240 6% 10%);
+    --muted-foreground: hsl(0 0% 63%);
+    --accent: hsl(240 6% 10%);
+    --accent-foreground: hsl(227 81% 67%);
+    --destructive: hsl(0 84% 60%);
+    --destructive-foreground: hsl(0 0% 98%);
+    --border: hsl(0 0% 100% / 0.1);
+    --input: hsl(0 0% 98%);
+    --ring: hsl(227 81% 67%);
+    --chart-1: hsl(12 76% 61%);
+    --chart-2: hsl(173 58% 39%);
+    --chart-3: hsl(197 37% 76%);
+    --chart-4: hsl(43 74% 66%);
+    --chart-5: hsl(27 87% 67%);
+    --primary-gradient: hsl(240 77% 25%);
+    --secondary-gradient: hsl(125 51% 53%);
+    --accent-purple-gradient: hsl(255, 65%, 35%);
+    --tertiary-gradient: hsl(318 58% 33%);
+    
+    /* Section background colors for dark mode */
+    --bg-subtle-gray: hsl(240 10% 6%);
+    --bg-subtle-primary: hsl(227 81% 7%);
+    --bg-subtle-accent: hsl(255 90% 7%);
+    --bg-subtle-secondary: hsl(125 51% 6%);
+    --bg-subtle-warm: hsl(30 60% 7%);
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  /* body styling removed from here to ensure bg-transparent takes effect */
+}
+
+/* Section background utilities */
+@layer utilities {
+  .bg-subtle-gray {
+    background-color: var(--bg-subtle-gray);
+  }
+  
+  .bg-subtle-primary {
+    background-color: var(--bg-subtle-primary);
+  }
+  
+  .bg-subtle-accent {
+    background-color: var(--bg-subtle-accent);
+  }
+  
+  .bg-subtle-secondary {
+    background-color: var(--bg-subtle-secondary);
+  }
+  
+  .bg-subtle-warm {
+    background-color: var(--bg-subtle-warm);
+  }
+  
+  /* Elegant gradient overlay backgrounds */
+  .bg-elegant-gradient {
+    position: relative;
+    background-color: var(--bg-subtle-gray);
+  }
+  
+  .bg-elegant-gradient::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(
+      ellipse at top left,
+      var(--bg-subtle-primary) 0%,
+      transparent 50%
+    );
+    opacity: 0.5;
+    pointer-events: none;
+  }
+  
+  /* Subtle dot pattern overlay */
+  .bg-subtle-dots {
+    position: relative;
+  }
+  
+  .bg-subtle-dots::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    opacity: 0.03;
+    background-image: radial-gradient(circle, currentColor 1px, transparent 1px);
+    background-size: 20px 20px;
+    pointer-events: none;
+  }
+  
+  /* Elegant fade transitions between sections */
+  .section-fade-bottom {
+    position: relative;
+  }
+  
+  .section-fade-bottom::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 1px;
+    background: linear-gradient(to right, 
+      transparent 0%, 
+      var(--border) 10%, 
+      var(--border) 90%, 
+      transparent 100%
+    );
+    opacity: 0.5;
+  }
+}
