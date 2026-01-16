@@ -25,7 +25,7 @@ export default function NotFound() {
             </Link>
           </Button>
           <Button asChild variant="outline" size="lg" className="min-w-[200px]">
-            <Link to="/contact">Contact Support</Link>
+            <Link to="/privacy_policy.html">View Privacy Policy</Link>
           </Button>
         </div>
       </div>
