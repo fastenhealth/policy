@@ -1,8 +1,8 @@
 ---
 nav_order: 26
 title: "Fasten Connect - Privacy Policy"
-date: 2025-11-06T20:11:00-07:00
-effective: "Nov 06, 2025"
+date: 2026-03-16T20:11:00-07:00
+effective: "March 16, 2026"
 type: page
 ---
 
@@ -127,6 +127,9 @@ We collect and use your information to improve your experience and make Fasten C
 ---
 
 ## How We Share Your Information
+
+FASTEN CONNECT PROVIDE BIDIRECTIONAL SERVICES. THIS GIVES YOU THE ABLITY TO REQUEST ACCESS TO YOUR HEALTH INFORMATIONVIA TEFCA 
+EXCHANGE AND TO HAVE THE OPTION TO SHARE YOUR HEALTH INFORMATION WITH OTHER PARTICIPANTS IN TEFCA.
 
 We only share your information when it’s needed to run our services or meet legal requirements. Where applicable, all of our uses and
 disclosures that occur through the Trusted Exchange Framework and Common Agreement ("TEFCA") will align with requirements
