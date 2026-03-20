@@ -1,8 +1,8 @@
 ---
 nav_order: 26
 title: "Fasten Connect - Privacy Policy"
-date: 2026-03-16T20:11:00-07:00
-effective: "March 16, 2026"
+date: 2026-03-20T20:11:00-07:00
+effective: "March 20, 2026"
 type: page
 ---
 
@@ -128,7 +128,7 @@ We collect and use your information to improve your experience and make Fasten C
 
 ## How We Share Your Information
 
-FASTEN CONNECT PROVIDE BIDIRECTIONAL SERVICES. THIS GIVES YOU THE ABILITY TO REQUEST ACCESS TO YOUR HEALTH INFORMATION VIA TEFCA 
+FASTEN CONNECT PROVIDES BIDIRECTIONAL SERVICES. THIS GIVES YOU THE ABILITY TO REQUEST ACCESS TO YOUR HEALTH INFORMATION VIA TEFCA 
 EXCHANGE AND TO HAVE THE OPTION TO SHARE YOUR HEALTH INFORMATION WITH OTHER PARTICIPANTS IN TEFCA.
 
 We only share your information when it’s needed to run our services or meet legal requirements. Where applicable, all of our uses and
@@ -148,6 +148,7 @@ Here are the ways we may share your information:
 - With affiliates that assist us in providing you with our Services, such as payment processors and cloud service providers, but we will require our affiliates to only use or disclose your information for the purposes of providing the services requested of them and in accordance with this Policy.
 - If we believe that the disclosure is reasonably necessary to (a) satisfy an applicable law, regulation, legal process, or enforceable governmental request; (b) detect, prevent, or otherwise address illegal or suspected illegal activities; or (c) protect the safety, rights, or property of Fasten Health, the public, or any person.
 - We may share your Personal Information with other businesses in connection with the sale, assignment, merger or other transfer of all or a portion of our business to those businesses. We will require those businesses to honor the rules of this Policy.
+- via TEFCA Exchange, when you authorize that disclosure and where the workflow supports such disclosure;
 
 It is important to note that our third-party service providers have their own privacy policies, which may differ from ours. We encourage you to read their privacy policies to understand how they handle your information.
 
@@ -158,25 +159,36 @@ information, please contact us at [notices@fastenhealth.com](mailto:notices@fast
 We will not use your Personal Information to assert any form of claim or demand against you, unless you owe us a fee and we need to
 use your Personal Information to collect amounts owed to us.
 
-### Customer Use Limitations
+### Use Limitations
 
 Fasten Connect allows you to share your health information with third-party apps of your choice. To protect your 
-rights, we require all customers to follow strict data use standards.
+rights, we follow and require all customers to follow strict data use standards.
 
 As a member of the [CARIN Alliance](https://www.carinalliance.com/) and a signatory of its [Code of Conduct](https://www.carinalliance.com/code-of-conduct), 
-Fasten Health enforces the following requirements on all customers:
+Fasten Health adheres to and enforces the following requirements on all customers:
 
-- **Consent-Only Use:** Customers may only use or share your data based on clear, informed consent provided by you.
-- **Opt Out:** You have the right to opt out of having your Personal Information disclosed. If you opt out, a customer will not be able to disclose your Personal Information.
+- **Consent-Only Use:** Your data may only be used or shared based on clear, informed consent provided by you.
+- **Opt Out:** You have the right to opt out of having your Personal Information disclosed. If you opt out, neither we nor a customer will be able to disclose your Personal Information.
 - **No Marketing Without Opt-In:** Any marketing or advertising use requires separate, explicit opt-in consent.
-- **Children's Data:** Customers must follow all applicable laws, including COPPA, when handling data about minors.
-- **Policy Changes:** If a customer changes how they use your data, they must notify you and allow you to withdraw consent.
+- **Children's Data:** We and our customers must follow all applicable laws, including COPPA, when handling data about minors.
+- **Policy Changes:** If we or a customer changes how we or they use your data, we or they must notify you and allow you to withdraw consent.
 - **Withdraw Anytime:** You must be able to revoke consent easily and stop future use of your data.
-- **Third-Party Sharing:** Customers must disclose any third-party access to your data and let you control it.
+- **Third-Party Sharing:** : We and our customers must disclose any third-party access to your data and let you control it.
 - **AI/ML Use:** Use of your data for AI or machine learning must be clearly disclosed.
-- **Business Changes:** Customers must explain what happens to your data if their company is sold or shuts down.
+- **Business Changes:** We and our customers must explain what happens to your data in the event of a sale or shut down.
 
 To report a potential violation, contact notices@fastenhealth.com.
+
+---
+
+## Your Individual Rights
+
+As part of our compliance with TEFCA, we ensure that you have the following rights:
+- We will obtain your consent before we disclosure your individually identifiable data through TEFCA, which will be consistent with the statements in the Policy concerning the consent process. You can choose to consent to disclose your identifiable data for treatment, payment, health care operations, public health, individual access services, government benefits determinations, and any other exchange purpose permitted or required by an applicable law or government agency.
+- You can access to your individually identifiable information through our services by contacting us and following the instructions in the "How to Access, Update or Delete Your Information" section of this Policy.
+- Download your individually identifiable information in a machine-readable format. For example, we might send you an electronic copy of your personally identifiable information, such as in PDF format, when you use our services. That file can be downloaded by you.
+- Revoke your consent at any time by contacting us and following the instructions in the "How to Access, Update or Delete Your Information" section of this Policy The process for revoking consent is designed to be simple, electronic, and as prompt as reasonably possible. If you revoke your consent, then we will stop all further requests or disclosures of your individually identifiable information through our TEFCA connection, but does not undo any prior authorized requests or disclosures that were made in compliance with your consent. Revoking your consent also will not stop of uses or disclosures by us that are either required by applicable law or permitted by applicable law.
+- If you find an error with your information, you should contact the organization where the information came from to make any necessary correction.
 
 ---
 
@@ -199,6 +211,34 @@ recommended actions you should take.
 ## How to Access, Update or Delete Your Information
 
 You may contact us to request access, updates or deletions of your Personal Information by contacting us at [notices@fastenhealth.com](mailto:notices@fastenhealth.com). 
+
+To help us verify your identity and process your request, your email must include the following:
+
+- First Name
+- Last Name
+- Birthdate
+- Gender
+- Address
+- The type of request you are making
+
+You may submit any of the following requests:
+- Access to a copy of your Personal Information or Protected Health Information stored on our systems
+- Deletion of your data from our systems
+- Information about how your data is being used
+- Revocation of your consent for Fasten Health to maintain, use, or disclose your data, to the extent applicable to your relationship with us
+
+#### How to Revoke Consent
+
+If you want to revoke your consent, please follow these steps:
+
+- Send an email to notices@fastenhealth.com
+- Use a subject line such as "Revoke Consent Request"
+- In the body of your email, provide your First Name, Last Name, Birthdate, Gender, and Address.
+- Clearly state that you are revoking your consent and describe the scope of your request, including whether you are also requesting deletion of your data or access to a copy of your information.
+- If we need additional information to verify your identity or clarify your request, we will contact you using the email address from which the request was submitted.
+
+Once we verify your identity and confirm your request, we will process it in accordance with applicable law and our data retention obligations.
+
 We keep your information only as long as we need it for the reasons described in this Policy. If you ask for access to 
 your Personal Information, we will provide you with an export of your Personal Information if it is still in our possession.
 
@@ -229,6 +269,20 @@ as an individual access service provider. Those obligations and responsibilities
 
 When submitting access, deletion, or consent revocation requests, we may verify your identity using contact details, device
 verification, or other appropriate means to protect your data.
+
+---
+
+## Applicability of HIPAA
+
+The Health Insurance Portability and Accountability Act and its implementing regulations (collectively, "HIPAA") are U.S. federal 
+privacy laws that protect health information when held by certain HIPAA regulated entities. Fasten Health is an IAS Provider, and is
+not directly subject to HIPAA. However, we follow TEFCA's strict privacy and security requirements, which closely align with 
+HIPAA's privacy and security protections.
+
+While we are not a covered entity under HIPAA, we may qualify as a business associate when providing services to some of our clients. 
+When we are a business associate, we comply with the parts of HIPAA that apply to business associates. Regardless of the circumstances, 
+we always adhere to the privacy and security requirements contained in TEFCA, which are fairly close to what HIPAA requires.
+
 
 ---
 
@@ -271,4 +325,17 @@ updated Policy becomes effective constitutes your agreement to the revised polic
 
 ## Contacting Us
 
-If you have any questions or concerns about the Policy or Fasten Health, please email us at [notices@fastenhealth.com](mailto:notices@fastenhealth.com)
+If you have any questions or concerns about the Policy or Fasten Health, please email us at [notices@fastenhealth.com](mailto:notices@fastenhealth.com) or
+or call us at 415.373.2815.
+
+---
+
+## Revision History
+
+| Date       | Description of Changes                                                                                                                                                                                                                                                                                 |
+|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2026-03-20 | Added "Applicability of HIPAA" and "Your Individual Rights" sections, required for TEFCA. Added Phone Number for contacting us. Clarified that "Use Limitations" apply to Fasten & our Customers. Updated "How to Access, Update or Delete Your Information" with data required to complete a request. |
+| 2026-03-16 | Added "BiDirectional Services" statement under how we share your information, required for TEFCA                                                                                                                                                                                                       |
+
+
+Added disclosures for retrieving ePHR information with a digital identity credential; added link to Smart Connect Terms (required by TEFCA)
