@@ -332,10 +332,8 @@ or call us at 415.373.2815.
 
 ## Revision History
 
-| Date       | Description of Changes                                                                                                                                                                                                                                                                                 |
-|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2026-03-20 | Added "Applicability of HIPAA" and "Your Individual Rights" sections, required for TEFCA. Added Phone Number for contacting us. Clarified that "Use Limitations" apply to Fasten & our Customers. Updated "How to Access, Update or Delete Your Information" with data required to complete a request. |
-| 2026-03-16 | Added "BiDirectional Services" statement under how we share your information, required for TEFCA                                                                                                                                                                                                       |
+| Date       | Description of Changes                                                                                                                                                                                                                                                                                             |
+|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2026-03-20 | Added "Applicability of HIPAA" and "Your Individual Rights" sections, required for TEFCA. <br/> Added Phone Number for contacting us. Clarified that "Use Limitations" apply to Fasten & our Customers. <br/> Updated "How to Access, Update or Delete Your Information" with data required to complete a request. |
+| 2026-03-16 | Added "BiDirectional Services" statement under how we share your information, required for TEFCA                                                                                                                                                                                                                   |
 
-
-Added disclosures for retrieving ePHR information with a digital identity credential; added link to Smart Connect Terms (required by TEFCA)
