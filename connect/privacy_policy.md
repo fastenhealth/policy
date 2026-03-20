@@ -128,8 +128,10 @@ We collect and use your information to improve your experience and make Fasten C
 
 ## How We Share Your Information
 
-FASTEN CONNECT PROVIDES BIDIRECTIONAL SERVICES. THIS GIVES YOU THE ABILITY TO REQUEST ACCESS TO YOUR HEALTH INFORMATION VIA TEFCA 
-EXCHANGE AND TO HAVE THE OPTION TO SHARE YOUR HEALTH INFORMATION WITH OTHER PARTICIPANTS IN TEFCA.
+**BIDIRECTIONAL IAS PROVIDER:** FASTEN HEALTH PROVIDES BIDIRECTIONAL SERVICES. THIS GIVES YOU THE ABILITY TO REQUEST 
+ACCESS TO YOUR HEALTH INFORMATION VIA TEFCA EXCHANGE AND TO HAVE THE OPTION TO SHARE YOUR HEALTH INFORMATION WITH OTHER 
+PARTICIPANTS IN TEFCA.
+
 
 We only share your information when it’s needed to run our services or meet legal requirements. Where applicable, all of our uses and
 disclosures that occur through the Trusted Exchange Framework and Common Agreement ("TEFCA") will align with requirements
