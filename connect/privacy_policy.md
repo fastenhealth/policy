@@ -177,7 +177,7 @@ Fasten Health adheres to and enforces the following requirements on all customer
 - **AI/ML Use:** Use of your data for AI or machine learning must be clearly disclosed.
 - **Business Changes:** We and our customers must explain what happens to your data in the event of a sale or shut down.
 
-To report a potential violation, contact notices@fastenhealth.com.
+To report a potential violation, contact [notices@fastenhealth.com](mailto:notices@fastenhealth.com).
 
 ---
 
@@ -227,15 +227,15 @@ You may submit any of the following requests:
 - Information about how your data is being used
 - Revocation of your consent for Fasten Health to maintain, use, or disclose your data, to the extent applicable to your relationship with us
 
-#### How to Revoke Consent
+### How to Revoke Consent
 
 If you want to revoke your consent, please follow these steps:
 
-- Send an email to notices@fastenhealth.com
-- Use a subject line such as "Revoke Consent Request"
-- In the body of your email, provide your First Name, Last Name, Birthdate, Gender, and Address.
-- Clearly state that you are revoking your consent and describe the scope of your request, including whether you are also requesting deletion of your data or access to a copy of your information.
-- If we need additional information to verify your identity or clarify your request, we will contact you using the email address from which the request was submitted.
+1. Send an email to [notices@fastenhealth.com](mailto:notices@fastenhealth.com)
+1. Use a subject line such as "Revoke Consent Request"
+1. In the body of your email, provide your First Name, Last Name, Birthdate, Gender, and Address.
+1. Clearly state that you are revoking your consent and describe the scope of your request, including whether you are also requesting deletion of your data or access to a copy of your information.
+1. If we need additional information to verify your identity or clarify your request, we will contact you using the email address from which the request was submitted.
 
 Once we verify your identity and confirm your request, we will process it in accordance with applicable law and our data retention obligations.
 
