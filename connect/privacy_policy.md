@@ -1,8 +1,8 @@
 ---
 nav_order: 26
 title: "Fasten Connect - Privacy Policy"
-date: 2026-03-20T20:11:00-07:00
-effective: "March 20, 2026"
+date: 2026-08-05T20:11:00-07:00
+effective: "August 05, 2026"
 type: page
 ---
 
@@ -13,7 +13,7 @@ type: page
 This Privacy and Security Policy (this “Policy”) explains how Fasten Health, Inc. ("Fasten Health," "we," "us," or "our") 
 collects, uses, shares, and protects your personal information when you use Fasten Connect. This includes our website 
 https://www.fastenhealth.com/connect, the Fasten Connect API https://api.connect.fastenhealth.com, the Fasten Connect 
-Portal https://portal.connect.fastenhealth.com, and any related services (together, "Fasten Connect" or the "Services").
+Portal https://portal.fastenhealth.com, and any related services (together, "Fasten Connect" or the "Services").
 
 Fasten Health respects your privacy and handles your personal information with care. This Policy applies only to 
 Fasten Connect, not to other products or services we offer. This Policy will also apply to your information for as long 
@@ -336,6 +336,7 @@ or call us at 415.373.2815.
 
 | Date       | Description of Changes                                                                                                                                                                                                                                                                                                     |
 |------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2026-08-05 | Updated Fasten Connect Developer Portal Link |
 | 2026-03-20 | Added "Applicability of HIPAA" and "Your Individual Rights" sections, required for TEFCA. <br/>Added Phone Number for contacting us. <br/>Clarified that "Use Limitations" apply to both Fasten & our Customers. <br/>Updated "How to Access, Update or Delete Your Information" with data required to complete a request. |
 | 2026-03-16 | Added "BiDirectional Services" statement under how we share your information, required for TEFCA                                                                                                                                                                                                                           |
 
