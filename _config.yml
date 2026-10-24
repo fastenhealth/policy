@@ -1,6 +1,13 @@
 logo: banner-transparent.png
 title: "Fasten Health Policies"
 remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
 search_enabled: true
 aux_links:
   "fastenhealth.com":
