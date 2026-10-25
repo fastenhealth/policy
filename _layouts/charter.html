@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#fafafa">
+    <meta name="description" content="{{ page.description | default: site.description | escape }}">
+    <title>{{ page.title | default: site.title | escape }} · Fasten Health</title>
+
+    <link rel="shortcut icon" href="{{ '/assets/favicon/favicon.ico' | relative_url }}">
+    <link rel="icon" href="{{ '/assets/favicon/favicon.ico' | relative_url }}" sizes="48x48">
+    <link rel="icon" href="{{ '/assets/favicon/favicon-16x16.png' | relative_url }}" sizes="16x16">
+    <link rel="icon" href="{{ '/assets/favicon/favicon-32x32.png' | relative_url }}" sizes="32x32" type="image/png">
+    <link rel="icon" href="{{ '/assets/favicon/favicon.ico' | relative_url }}">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Hubot+Sans:wght@400;500;600;700;800&amp;family=Inter:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ '/assets/css/charter.css' | relative_url }}?v={{ site.time | date: '%s' }}">
+  </head>
+  <body class="theme-charter">
+    <a class="skip-link" href="#content">Skip to content</a>
+
+    <header class="site-header">
+      <div class="header-inner">
+        <a class="brand" href="https://www.fastenhealth.com" aria-label="Fasten home">
+          <img src="{{ '/assets/images/banner-trimmed-2.png' | relative_url }}" alt="Fasten" class="logo" style="filter:brightness(1.05)">
+        </a>
+
+        <nav class="desktop-nav" aria-label="Main navigation">
+          <a href="https://docs.connect.fastenhealth.com">Docs</a>
+          <a href="https://blog.fastenhealth.com">Blog</a>
+          <a href="https://www.fastenhealth.com/about">Company</a>
+          <a href="https://www.fastenhealth.com/faq">FAQ</a>
+          <a href="https://www.fastenhealth.com/directory">Directory</a>
+        </nav>
+
+        <a class="demo-button" href="https://calendly.com/jason-kulatunga/30min">Book a Demo</a>
+
+        <details class="mobile-menu">
+          <summary aria-label="Open navigation"><span></span><span></span><span></span></summary>
+          <nav aria-label="Mobile navigation">
+            <a href="https://docs.connect.fastenhealth.com">Docs</a>
+            <a href="https://blog.fastenhealth.com">Blog</a>
+            <a href="https://www.fastenhealth.com/about">Company</a>
+            <a href="https://www.fastenhealth.com/faq">FAQ</a>
+            <a href="https://www.fastenhealth.com/directory">Directory</a>
+            <a href="https://calendly.com/jason-kulatunga/30min">Book a Demo</a>
+          </nav>
+        </details>
+      </div>
+    </header>
+
+    <main id="content" class="page-shell">
+      <article class="policy-content">
+        {{ content }}
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-inner">
+        <p>&copy; {{ 'now' | date: '%Y' }} Fasten Health, Inc.</p>
+        <p><a href="mailto:notices@fastenhealth.com">notices@fastenhealth.com</a></p>
+      </div>
+    </footer>
+
+    <script>
+      (() => {
+        const header = document.querySelector('.site-header');
+        const updateHeader = () => header.classList.toggle('is-scrolled', window.scrollY > 10);
+
+        updateHeader();
+        window.addEventListener('scroll', updateHeader, { passive: true });
+      })();
+    </script>
+  </body>
+</html>

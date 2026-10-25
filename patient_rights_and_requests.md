@@ -6,6 +6,9 @@ effective: "March 20, 2026"
 type: page
 ---
 
+# Patient Rights and Requests
+
+#### Effective as of {{page.effective}}
 
 You may contact us to request access, updates or deletions of your Personal Information by contacting us at [notices@fastenhealth.com](mailto:notices@fastenhealth.com).
 
@@ -52,4 +55,4 @@ anticipated date by which we will complete the requested action.
 
 ## More Information
 
-For more details, please refer to our [Privacy Policy](../connect/privacy_policy.md).
+For more details, please refer to our [Privacy Policy](/connect/privacy_policy.html).
