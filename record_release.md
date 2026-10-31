@@ -8,6 +8,8 @@ type: page
 
 # Patient-Directed Access Request and Authorization to Release Health Data
 
+#### Effective as of {{page.effective}}
+
 I request an electronic copy of all available health and billing information about me for my own access and use. 
 My identity information has already been collected and linked to my verified Fasten Health account; I do not need to enter it again here.
 
